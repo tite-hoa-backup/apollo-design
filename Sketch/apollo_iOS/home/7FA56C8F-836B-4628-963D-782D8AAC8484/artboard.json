@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "4D66FFEA-5C09-42E6-81A0-D662EC4E7440",
+    "do_objectID": "5EFC5C1E-2447-4437-9629-DF35F96BFDC9",
     "green": 0.3008003048780488,
     "red": 0.5166644590046954
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CDA17F80-F0DD-4546-91E5-1ABE4A464589",
+  "do_objectID": "7FA56C8F-836B-4628-963D-782D8AAC8484",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FD0AD621-C890-42E0-98D9-9F3BCED553D8",
+    "do_objectID": "28EE272B-0B82-4725-A83A-796BABE6FB38",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,15 +24,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "873B3B2B-EBCB-40D8-8F4F-C64327295789",
+    "do_objectID": "CB222140-6D00-4A3D-9F26-9733FFAC1535",
     "height": 667,
     "width": 375,
-    "x": 865,
-    "y": 295
+    "x": -560,
+    "y": 283
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "60A92A99-6EC8-4BCB-87FE-2C8C819E6FC6"
+    "do_objectID": "E1DC515E-8E23-4F56-889F-EDC2EDC9B887"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -40,7 +40,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "7A5A262C-4BD6-41DB-AD3C-665A5D2154FF",
+    "do_objectID": "280A8174-3841-4D6D-ACDA-47B76DF36029",
     "guides": [
     ]
   },
@@ -56,34 +56,18 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "125CF567-37EE-4237-A686-44AE625626D1"
+      "id": "04BB7FFF-3FFE-407C-8912-C517AB8613EF"
     },
     {
       "class": "symbolInstance",
-      "id": "8E5EBC4F-0F39-416F-A1B6-C32CF68728E3"
+      "id": "00C02BB1-851A-445A-940F-DB73B73F46E1"
     },
     {
       "class": "symbolInstance",
-      "id": "B136490E-6DEC-43DA-B11A-2C26C9C26B4C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "228910BC-5AD9-46A6-BA8A-6E1D2A35B300"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B30E8ACE-7A68-4C1B-AA25-CE0645EB9A07"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2949BB22-4211-4472-AB26-4F2213395ED3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D9541C72-1A45-436A-9D3C-B0C10DB3A603"
+      "id": "87A5FE49-B497-45B4-ADFF-F6018E769C97"
     }
   ],
-  "name": "tutors / tutorProfile / makeReservation",
+  "name": "notification / basic",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -99,7 +83,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "56CF569D-40D4-4CD9-BF84-6E7B40F4D240",
+    "do_objectID": "FADFA8B6-A667-4322-87BD-8F133182017C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -108,7 +92,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "1A2A4B60-13D1-473B-9DCC-E12C87CD21A9",
+    "do_objectID": "652EE857-8B43-4597-ACE6-2DB3A900264B",
     "guides": [
     ]
   }
