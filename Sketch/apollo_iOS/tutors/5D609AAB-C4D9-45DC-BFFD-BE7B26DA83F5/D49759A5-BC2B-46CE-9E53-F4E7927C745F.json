@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E3A011BB-C37C-47D3-85C9-3999E07054A1",
+  "do_objectID": "D49759A5-BC2B-46CE-9E53-F4E7927C745F",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "E21D4108-003E-4840-8B16-58C46D8CC34A",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -42,10 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
+    "do_objectID": "03948C4C-5209-437E-94F5-C23EE8D86503",
+    "height": 20,
     "width": 375,
     "x": 0,
-    "y": 555
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,15 +57,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "misc / centerTextPlaceholder",
+  "name": "Bars/Status Bar/Dark Status Bar",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "9717B0C5-87AC-4788-A92E-B8D20F3CFB18",
-      "overrideName": "32BEF489-A6AC-4B91-8498-52A9004281F9_stringValue",
-      "value": "5 minute(s) remaining"
-    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -72,11 +68,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "63E33066-AC83-4E93-B597-54B31283FBBF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "DA025FAC-07DE-40E9-884E-EB0BF8882D00",
+  "symbolID": "6707F115-3409-4453-ACCF-66E71AD49C66",
   "verticalSpacing": 0
 }

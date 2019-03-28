@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E3A011BB-C37C-47D3-85C9-3999E07054A1",
+  "do_objectID": "0E502B88-DC1C-401C-AE44-996D7FF52A8D",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "EC2405AC-4045-48C8-8971-72D42C8659F0",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -42,10 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
+    "do_objectID": "92407D3E-3221-4601-B017-72E73924F70E",
+    "height": 80,
     "width": 375,
     "x": 0,
-    "y": 555
+    "y": 124
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,14 +57,28 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "misc / centerTextPlaceholder",
+  "name": "list / tutorListEach",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "9717B0C5-87AC-4788-A92E-B8D20F3CFB18",
-      "overrideName": "32BEF489-A6AC-4B91-8498-52A9004281F9_stringValue",
-      "value": "5 minute(s) remaining"
+      "do_objectID": "3C53BF92-8E90-4254-B9A1-0A7ABF9CE0DE",
+      "overrideName": "92A29F11-FE23-4D07-8634-F23CA09C5A3F/A1E13FA0-30BE-49C9-A606-A089D2DB27D4/2A199C68-53BC-4678-8984-C4CD764E7EF1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5440e0221d58aeaa812033a6512346feffb4d288.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "53476125-A621-45D0-AE4C-7AA69541646D",
+      "overrideName": "DE626FB8-F109-4E79-8418-FB9E8E7E6DD7/17E1CED2-A487-4C64-BB6F-38077A6F305B/76D4178F-4EAE-46D1-A17A-8F3ED368549A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c0b540b7277bbe071958837f42efe2428fdb4385.png",
+        "_ref_class": "MSImageData"
+      }
     }
   ],
   "resizingConstraint": 13,
@@ -72,11 +88,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "B19E1B8B-63C4-48C8-81B2-D637BEE12073",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "DA025FAC-07DE-40E9-884E-EB0BF8882D00",
+  "symbolID": "43DB6F8F-064C-4BA5-8901-9A019B2C45A4",
   "verticalSpacing": 0
 }

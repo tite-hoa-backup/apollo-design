@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E3A011BB-C37C-47D3-85C9-3999E07054A1",
+  "do_objectID": "8D695786-06EE-4330-A0FD-D932E809B3FF",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "C42A35ED-BE20-435C-801F-AF673DD3EDE7",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -42,10 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "9FA5FAFC-1FE9-4DEA-8637-BAE1542CD301",
     "height": 48,
     "width": 375,
     "x": 0,
-    "y": 555
+    "y": 68
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,14 +57,26 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "misc / centerTextPlaceholder",
+  "name": "header / searchBefore",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "9717B0C5-87AC-4788-A92E-B8D20F3CFB18",
-      "overrideName": "32BEF489-A6AC-4B91-8498-52A9004281F9_stringValue",
-      "value": "5 minute(s) remaining"
+      "do_objectID": "59E7C941-C7CE-455A-92EC-6336C7E643C5",
+      "overrideName": "4E04E5DE-974E-4F38-A14E-639EF867D3F5_textStyle",
+      "value": "13E8626C-720F-4809-AFBA-04097CF8F64D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BD474AE9-8883-4F9D-843D-E610D6E8A0BC",
+      "overrideName": "4E04E5DE-974E-4F38-A14E-639EF867D3F5_stringValue",
+      "value": "example"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "305C4879-314D-443C-A504-C51CAA8397C8",
+      "overrideName": "15BF70BA-842B-400D-94F2-16307A22A4C6/AF6F0313-3991-4D62-A708-4302E8EEB927_symbolID",
+      "value": "2868B86A-F048-45C8-8F15-1598786BB3E0"
     }
   ],
   "resizingConstraint": 13,
@@ -72,11 +86,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "1C68CBA4-81EC-44AE-A30D-77A72E29936A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "DA025FAC-07DE-40E9-884E-EB0BF8882D00",
+  "symbolID": "34C834A3-943B-40CD-93E7-E08ED3055AB7",
   "verticalSpacing": 0
 }

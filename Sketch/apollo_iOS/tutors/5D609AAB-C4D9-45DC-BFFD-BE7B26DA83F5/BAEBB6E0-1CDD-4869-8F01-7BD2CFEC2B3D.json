@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3D830F00-3ECE-4D4D-A309-883358916B8D",
+  "do_objectID": "BAEBB6E0-1CDD-4869-8F01-7BD2CFEC2B3D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "44F373F9-0E61-4D0E-B305-EA38E3E05B89",
+    "do_objectID": "BA66DCDD-FC0E-4479-8E1D-A60C5FB55DD1",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "80D0908D-F507-446F-95F8-A8C79FC290BD",
-    "height": 72,
+    "do_objectID": "76CA6EB5-129E-41BF-B522-F742A982F7BE",
+    "height": 80,
     "width": 375,
     "x": 0,
-    "y": 228
+    "y": 284
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,38 +57,44 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "form / basic",
+  "name": "list / tutorListEach",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "C0353A75-1A4D-4338-915D-5440440DB60C",
-      "overrideName": "B7435DA5-E1B2-4546-AA08-1D02619CB74A_stringValue",
-      "value": "• • • • • • • 4"
+      "do_objectID": "15AEF93F-0DDE-4A7F-A092-ACFC8A2974AB",
+      "overrideName": "DE626FB8-F109-4E79-8418-FB9E8E7E6DD7/95CA2566-90D1-485E-B1BE-96CBD4B2427C_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/de66261d28081da07f375f47434260ac45a5697f.png",
+        "_ref_class": "MSImageData"
+      }
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "A0C3F51C-0859-423C-9B03-2E6D379E57E5",
-      "overrideName": "511A71B1-3D12-4947-A94C-C668AB8CDD90_stringValue",
-      "value": " "
+      "do_objectID": "162F43C8-D3D3-4A08-9379-A1F1F4D42549",
+      "overrideName": "ED09CAE8-4E8B-4B64-80A1-3498D3BD71F9/2A199C68-53BC-4678-8984-C4CD764E7EF1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a4e67e5b4b830480a6900f476813c63736929852.png",
+        "_ref_class": "MSImageData"
+      }
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "6869DECE-5AEE-4D53-967B-CF92BBA8978E",
-      "overrideName": "66D118DF-3FC9-4B20-822E-675E2EDC68D1/E0160E0B-A5E1-482F-92C6-BBB5A02A171D/867574F9-6231-4AC5-B617-597AD5DC5EED_symbolID",
+      "do_objectID": "EE738B58-547A-4282-9CD7-EE3360B22BE9",
+      "overrideName": "DE626FB8-F109-4E79-8418-FB9E8E7E6DD7/17E1CED2-A487-4C64-BB6F-38077A6F305B/76D4178F-4EAE-46D1-A17A-8F3ED368549A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/def94b03a2e996156c917520abbff413c3a2dd5a.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FB1A077C-2546-4391-AE81-D71491CB21C9",
+      "overrideName": "92A29F11-FE23-4D07-8634-F23CA09C5A3F_symbolID",
       "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "C354484A-74F0-4341-9438-FFB4EAA124FD",
-      "overrideName": "B7435DA5-E1B2-4546-AA08-1D02619CB74A_textStyle",
-      "value": "13E8626C-720F-4809-AFBA-04097CF8F64D"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "0270E814-5818-4D5A-B878-E039ABE41061",
-      "overrideName": "86B2DD7F-7D1B-4CAD-8120-1C71C87FF6E5/AF6F0313-3991-4D62-A708-4302E8EEB927_symbolID",
-      "value": "7ACAE0D0-78A9-4FDB-8210-06F9B39CA671"
     }
   ],
   "resizingConstraint": 13,
@@ -98,12 +104,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "990063A4-C4E7-4867-9B11-85670109B189",
+    "do_objectID": "A3043932-41CD-43F7-B229-418222D56BB5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "AB34B566-7799-4923-B7AE-297E422C5E16",
+  "symbolID": "43DB6F8F-064C-4BA5-8901-9A019B2C45A4",
   "verticalSpacing": 0
 }

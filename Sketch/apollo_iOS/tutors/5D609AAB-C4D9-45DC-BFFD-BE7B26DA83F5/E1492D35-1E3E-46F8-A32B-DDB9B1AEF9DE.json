@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E3A011BB-C37C-47D3-85C9-3999E07054A1",
+  "do_objectID": "E1492D35-1E3E-46F8-A32B-DDB9B1AEF9DE",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "B0A2E80A-66EB-4E84-B866-6A51F6CC7E81",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -42,10 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "D18DDE1A-6991-4CF9-9E8C-6B8C2332431A",
     "height": 48,
     "width": 375,
     "x": 0,
-    "y": 555
+    "y": 20
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,14 +57,26 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "misc / centerTextPlaceholder",
+  "name": "header / basic",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "9717B0C5-87AC-4788-A92E-B8D20F3CFB18",
-      "overrideName": "32BEF489-A6AC-4B91-8498-52A9004281F9_stringValue",
-      "value": "5 minute(s) remaining"
+      "do_objectID": "B46D8313-D2DC-44DD-B126-3345DD18E508",
+      "overrideName": "100EC8AB-0C6C-41DC-A7AA-F91817E6B2F1_stringValue",
+      "value": "Tutors"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "660B3B7A-1C5C-4E0F-9A70-6A6C8A4B61F2",
+      "overrideName": "3F998C87-2C7B-4527-B370-1366BECF68CA_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DC64424A-AF57-418B-8DEB-36DFC3DE4BB8",
+      "overrideName": "756C225A-5C44-4819-A95C-E4694A5C1D99_stringValue",
+      "value": "Filters"
     }
   ],
   "resizingConstraint": 13,
@@ -72,11 +86,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "384A12BC-06D9-4D14-AB9B-9AC0FD0695E8",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "DA025FAC-07DE-40E9-884E-EB0BF8882D00",
+  "symbolID": "4B38187F-E7D4-4623-8A89-97C442E958F0",
   "verticalSpacing": 0
 }
