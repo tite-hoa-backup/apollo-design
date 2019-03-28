@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1EF843D0-F5D0-4441-9D76-48B733CB1EDA",
+  "do_objectID": "7199AFFF-DC89-4FE0-BCBC-362CB7D77947",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "90A5875A-7C9B-446A-8280-8DB125D477B3",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -42,10 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 311,
-    "x": 32,
-    "y": 427
+    "do_objectID": "7F8058EC-FBA1-4C4D-AEC5-E1DBD68DF078",
+    "height": 448,
+    "width": 375,
+    "x": 0,
+    "y": 219
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,15 +57,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / basicWhite56",
+  "name": "misc / actionSheet",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "2C2B74A3-85F8-45DE-94D5-6F5616F7634C",
-      "overrideName": "84F86B92-CE25-41B8-A412-A90A10D3D701_stringValue",
-      "value": "Practice English"
-    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -72,11 +68,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "87881F4D-32BD-4FC2-A7BF-937FDF9E54D7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "901F43EC-8EAC-4AD9-AC1F-999EF547A8FB",
+  "symbolID": "E5D2BDE6-828E-4D5F-823B-C0FA4E9ED203",
   "verticalSpacing": 0
 }

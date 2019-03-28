@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0D96DC68-4417-4174-9DB5-7BC835E8058D",
+  "do_objectID": "A4570796-1ED3-47B3-AF3B-55C061708195",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E47052FC-2599-4AEE-B437-E0CD0F7EC74C",
+    "do_objectID": "1C03B54F-0569-486F-9F07-4C265F788165",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "FD2FA5B8-9B92-431A-B1AD-417FC75E662E",
-    "height": 20,
+    "do_objectID": "6F3A6332-2C15-49AC-A91E-0DB42C79946F",
+    "height": 48,
     "width": 375,
     "x": 0,
-    "y": 0
+    "y": 379
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,9 +57,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bars/Status Bar/Dark Status Bar",
+  "name": "list / checkboxOnLight",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1B30F386-5C87-49E5-9161-F2EC66DD26AF",
+      "overrideName": "22DD15A7-A22B-441E-9EB6-F49E1E0237C9_stringValue",
+      "value": "Intermediate"
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -68,12 +74,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2D22DBED-82BD-4644-BF6F-D8CD7207FB9A",
+    "do_objectID": "69E61818-6271-490F-A2E7-67DA1B9F932A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "6707F115-3409-4453-ACCF-66E71AD49C66",
+  "symbolID": "FF197A76-77E7-4A44-9D8E-EF55B53E4E57",
   "verticalSpacing": 0
 }

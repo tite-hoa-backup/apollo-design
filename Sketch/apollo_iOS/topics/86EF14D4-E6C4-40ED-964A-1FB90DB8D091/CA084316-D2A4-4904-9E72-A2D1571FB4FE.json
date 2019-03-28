@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1EF843D0-F5D0-4441-9D76-48B733CB1EDA",
+  "do_objectID": "CA084316-D2A4-4904-9E72-A2D1571FB4FE",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "189D3FFD-B92E-4684-ACC3-97B7D8BD3B19",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -42,10 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 311,
-    "x": 32,
-    "y": 427
+    "do_objectID": "7191FD40-5F0C-4117-AE2E-4F67B8426514",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 68
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,14 +57,26 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / basicWhite56",
+  "name": "tab / headerTab",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "2C2B74A3-85F8-45DE-94D5-6F5616F7634C",
-      "overrideName": "84F86B92-CE25-41B8-A412-A90A10D3D701_stringValue",
-      "value": "Practice English"
+      "do_objectID": "D7E126AE-BE8E-4081-AFB9-1EC33C1E288B",
+      "overrideName": "E0AF4C67-C09F-4898-BA22-DC3CA21EEF3E/642703E9-685C-4789-8D2B-5A0D2C05BBFD_stringValue",
+      "value": "Examination"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5EB6DCC5-99AD-4C9F-8844-57F99EB71009",
+      "overrideName": "D00C1167-B36D-445E-8270-1EDFABE7B62B/58831E89-0AB6-46CD-BF9C-0018C011B58D_stringValue",
+      "value": "Conversational"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F3EC208D-4740-4A9F-8E5B-60500F3951EB",
+      "overrideName": "ACF2163A-A491-4834-A032-02E5BAE6BA53/58831E89-0AB6-46CD-BF9C-0018C011B58D_stringValue",
+      "value": "Professional"
     }
   ],
   "resizingConstraint": 13,
@@ -72,11 +86,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "A5E8D295-04CD-4A64-9E8A-9574E74FD37C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "901F43EC-8EAC-4AD9-AC1F-999EF547A8FB",
+  "symbolID": "B394D35D-F047-4B49-A04C-31FFD972CC01",
   "verticalSpacing": 0
 }

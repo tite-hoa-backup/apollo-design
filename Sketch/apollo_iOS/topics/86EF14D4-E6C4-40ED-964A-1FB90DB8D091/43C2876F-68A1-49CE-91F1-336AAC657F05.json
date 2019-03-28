@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1EF843D0-F5D0-4441-9D76-48B733CB1EDA",
+  "do_objectID": "43C2876F-68A1-49CE-91F1-336AAC657F05",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "B4017559-3C2F-4914-88DC-2F7C210FB8F0",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -42,10 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 311,
-    "x": 32,
-    "y": 427
+    "do_objectID": "5E192B0E-D4E6-4658-890F-238DC224AAC2",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 540
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,14 +57,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / basicWhite56",
+  "name": "list / title48",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "2C2B74A3-85F8-45DE-94D5-6F5616F7634C",
-      "overrideName": "84F86B92-CE25-41B8-A412-A90A10D3D701_stringValue",
-      "value": "Practice English"
+      "do_objectID": "FE481C23-C460-4675-8EF9-04E41DACFAC0",
+      "overrideName": "D9C89AAE-303A-40DF-8EB7-A7055800E2D4_stringValue",
+      "value": "TOEFL"
     }
   ],
   "resizingConstraint": 13,
@@ -72,11 +74,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "0F5D898A-FC29-461C-AC15-4251A5745483",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "901F43EC-8EAC-4AD9-AC1F-999EF547A8FB",
+  "symbolID": "78024422-ABFA-460B-9D59-D448102F428D",
   "verticalSpacing": 0
 }

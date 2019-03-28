@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1EF843D0-F5D0-4441-9D76-48B733CB1EDA",
+  "do_objectID": "294572DD-7F9D-4E3C-8FC1-083F9453F20A",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "5AC16FF1-8EB2-43D1-99F9-E20BA57150B2",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -42,10 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 311,
-    "x": 32,
-    "y": 427
+    "do_objectID": "FBEFF053-3B20-4491-8CA3-018576D3708D",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 20
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,14 +57,26 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / basicWhite56",
+  "name": "header / basic",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "2C2B74A3-85F8-45DE-94D5-6F5616F7634C",
-      "overrideName": "84F86B92-CE25-41B8-A412-A90A10D3D701_stringValue",
-      "value": "Practice English"
+      "do_objectID": "B46D8313-D2DC-44DD-B126-3345DD18E508",
+      "overrideName": "100EC8AB-0C6C-41DC-A7AA-F91817E6B2F1_stringValue",
+      "value": "Topics"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "660B3B7A-1C5C-4E0F-9A70-6A6C8A4B61F2",
+      "overrideName": "3F998C87-2C7B-4527-B370-1366BECF68CA_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE3C5F9D-DD26-4A73-AC44-0E3C110D40F9",
+      "overrideName": "756C225A-5C44-4819-A95C-E4694A5C1D99_stringValue",
+      "value": "Filters"
     }
   ],
   "resizingConstraint": 13,
@@ -72,11 +86,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "EA68FD60-30A3-4C8D-BF0D-66908F39F128",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "901F43EC-8EAC-4AD9-AC1F-999EF547A8FB",
+  "symbolID": "4B38187F-E7D4-4623-8A89-97C442E958F0",
   "verticalSpacing": 0
 }

@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1EF843D0-F5D0-4441-9D76-48B733CB1EDA",
+  "do_objectID": "536DEBA7-6F6D-4F0E-AA76-99065CB2D7F9",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "CA1AAF79-FF08-4797-AE2F-58A3608CB946",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -42,9 +43,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 311,
-    "x": 32,
+    "do_objectID": "816056C3-8BFD-42A8-9891-2461CE912975",
+    "height": 48,
+    "width": 375,
+    "x": 0,
     "y": 427
   },
   "hasClippingMask": false,
@@ -55,14 +57,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / basicWhite56",
+  "name": "list / checkboxOnLight",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "2C2B74A3-85F8-45DE-94D5-6F5616F7634C",
-      "overrideName": "84F86B92-CE25-41B8-A412-A90A10D3D701_stringValue",
-      "value": "Practice English"
+      "do_objectID": "1B30F386-5C87-49E5-9161-F2EC66DD26AF",
+      "overrideName": "22DD15A7-A22B-441E-9EB6-F49E1E0237C9_stringValue",
+      "value": "Conversational"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "59C939DA-8A42-4941-AB1A-724A725110C0",
+      "overrideName": "8A20461C-A21A-4444-AF7E-A1DBE7EEB484/AF6F0313-3991-4D62-A708-4302E8EEB927_symbolID",
+      "value": "F3B57E22-6948-47FA-8DE4-2BE828532F84"
     }
   ],
   "resizingConstraint": 13,
@@ -72,11 +80,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "F15C56A1-CB2C-4530-B7EB-BE725267A848",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "901F43EC-8EAC-4AD9-AC1F-999EF547A8FB",
+  "symbolID": "FF197A76-77E7-4A44-9D8E-EF55B53E4E57",
   "verticalSpacing": 0
 }

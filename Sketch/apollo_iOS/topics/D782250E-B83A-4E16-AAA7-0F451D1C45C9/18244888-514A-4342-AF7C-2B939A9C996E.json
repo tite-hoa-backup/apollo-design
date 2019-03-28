@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1EF843D0-F5D0-4441-9D76-48B733CB1EDA",
+  "do_objectID": "18244888-514A-4342-AF7C-2B939A9C996E",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "7E4DA9EF-F12F-41E1-B435-D498D68840D2",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -42,10 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 311,
-    "x": 32,
-    "y": 427
+    "do_objectID": "6EE4E844-F22A-40BB-9766-18D93D8BAE86",
+    "height": 88,
+    "width": 375,
+    "x": 0,
+    "y": 579
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,28 +57,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / basicWhite56",
+  "name": "btn / basicPadding32Base",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "2C2B74A3-85F8-45DE-94D5-6F5616F7634C",
-      "overrideName": "84F86B92-CE25-41B8-A412-A90A10D3D701_stringValue",
-      "value": "Practice English"
+      "do_objectID": "ABBDBD37-3362-4671-B51C-2D0689C39B83",
+      "overrideName": "3DC22041-10E7-40E2-BB1F-A36161F2F911_symbolID",
+      "value": ""
     }
   ],
-  "resizingConstraint": 13,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "B26F4516-1570-4340-8139-51762D09E048",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "901F43EC-8EAC-4AD9-AC1F-999EF547A8FB",
+  "symbolID": "91AD48D0-4B16-490E-8704-22B01033853B",
   "verticalSpacing": 0
 }
