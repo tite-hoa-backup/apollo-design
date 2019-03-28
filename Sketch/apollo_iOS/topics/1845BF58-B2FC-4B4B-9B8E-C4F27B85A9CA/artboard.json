@@ -65,6 +65,10 @@
     {
       "class": "symbolInstance",
       "id": "89B15F45-3718-40D1-BD85-3FE42EEABB00"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2783921A-A51E-444C-B311-B93559C708F3"
     }
   ],
   "name": "topics / basic",
@@ -76,7 +80,7 @@
     "offersLandscapeVariant": 1,
     "width": 375
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
