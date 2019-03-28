@@ -16,57 +16,33 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProText-Medium",
-              "size": 48
-            }
-          },
-          "kerning": 8,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "paragraphSpacing": 1
-          }
-        },
-        "length": 5,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "SFProText-Medium",
-              "size": 48
+              "name": "SFProDisplay-Bold",
+              "size": 18
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24,
             "paragraphSpacing": 1
           }
         },
-        "length": 1,
-        "location": 5
+        "length": 13,
+        "location": 0
       }
     ],
-    "string": "APOLLO"
+    "string": "Apply Filters"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "1E8B7203-3946-48AA-80E9-8076BB004BBE",
+  "do_objectID": "9EED9EC9-6EF0-4655-9E36-52645DBF70CE",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "44007365-2FC3-4B7D-BA88-D79E64486332",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -104,12 +80,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 58,
-    "width": 375,
+    "do_objectID": "E84288FB-5E40-4D26-A900-11A718EDB15E",
+    "height": 24,
+    "width": 343,
     "x": 0,
-    "y": 148
+    "y": 16
   },
-  "glyphBounds": "{{71, 11}, {231, 36}}",
+  "glyphBounds": "{{120, 4}, {103, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -118,19 +95,22 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "APOLLO",
-  "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "name": "textBold18W100Center",
+  "nameIsFixed": true,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "7D00A63B-504A-4E30-8793-DCE52E6A5287",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "6C84D82A-E8A8-4437-850E-BF9A2B032F5A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "0EB94F58-CC56-4390-85E6-A9C2B9390D00",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -142,14 +122,16 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProText-Medium",
-            "size": 48
+            "name": "SFProDisplay-Bold",
+            "size": 18
           }
         },
-        "kerning": 8,
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24,
           "paragraphSpacing": 1
         }
       },

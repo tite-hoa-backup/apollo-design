@@ -9,7 +9,7 @@
     "red": 0.5166644590046954
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5644,
+  "changeIdentifier": 5741,
   "clippingMaskMode": 0,
   "do_objectID": "2699A503-6651-4D59-A3DC-069B78B8E2A9",
   "exportOptions": {
@@ -56,7 +56,7 @@
     "height": 156,
     "width": 311,
     "x": 3093,
-    "y": -33
+    "y": -113
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -94,6 +94,10 @@
     {
       "class": "text",
       "id": "2ED71FB4-279E-4C51-B3EB-BE7CEB0F403C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4BB4AD3-E67F-47DC-B0F9-6AB3C833F314"
     }
   ],
   "name": "home / tutorHighlight / tutorInformation",
@@ -103,12 +107,22 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "2ED71FB4-279E-4C51-B3EB-BE7CEB0F403C_textStyle"
+      "overrideName": "4CA2841C-5F05-47D5-962A-DEC291EC8FAD_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "2ED71FB4-279E-4C51-B3EB-BE7CEB0F403C_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4CA2841C-5F05-47D5-962A-DEC291EC8FAD_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2ED71FB4-279E-4C51-B3EB-BE7CEB0F403C_textStyle"
     }
   ],
   "resizesContent": true,
