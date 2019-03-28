@@ -8,9 +8,9 @@
     "red": 0.5166644590046954
   },
   "booleanOperation": -1,
-  "changeIdentifier": 236,
+  "changeIdentifier": 198,
   "clippingMaskMode": 0,
-  "do_objectID": "8FEAE3BD-340E-4588-B1BF-CF44F8D2D195",
+  "do_objectID": "04160E04-1FE7-4D6F-95BE-9A74E56C6209",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -26,7 +26,7 @@
     "height": 667,
     "width": 375,
     "x": -1035,
-    "y": -472
+    "y": 295
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -53,109 +53,77 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "7FBD4672-88EC-4469-B0C3-B022FD328991"
+      "id": "C98C881D-6C90-4D74-9322-E24DA9575B64"
     },
     {
       "class": "symbolInstance",
-      "id": "A81C75B2-4E5A-4851-A17A-FB66423D9BBA"
+      "id": "85FC7C15-EC2D-411A-8DC1-7FF1E44E58F9"
     },
     {
       "class": "symbolInstance",
-      "id": "AC34F3D8-6142-47F5-9276-252F4D69EA29"
+      "id": "582A3176-2359-4037-BB8C-C42DDC4743A5"
     },
     {
       "class": "symbolInstance",
-      "id": "C32F5ABE-2AB1-4978-8F06-9E8998545491"
+      "id": "342DE2B7-11A3-4A42-91EF-0D0D27E585FE"
     },
     {
       "class": "symbolInstance",
-      "id": "ED4735FB-A238-4BBC-BBA2-5D8AC53AD9C4"
+      "id": "DF4D5945-8FE8-470E-B5EF-18B6D2981E42"
     },
     {
       "class": "symbolInstance",
-      "id": "EB4DC084-53FB-4914-9938-98298478E655"
+      "id": "8EF42698-95D7-4352-8AC7-529EDEB421B6"
     },
     {
       "class": "symbolInstance",
-      "id": "B27AACB7-1C55-4978-8FB2-F9CA68385C21"
+      "id": "52695D83-BB3F-4E7F-8271-759508B0F477"
     },
     {
       "class": "symbolInstance",
-      "id": "C41B6EBC-7D65-42FA-8019-8B323607FA13"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DF1DDE21-925A-42C5-911B-B616998AD77A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D39CA200-1894-482E-96F6-547A9C36AA9A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8A897856-29C4-40C0-80C7-D19F2B73C03E"
+      "id": "DC6E441F-4904-4C51-A036-330BA5AE2E34"
     }
   ],
-  "name": "tutors / basic",
+  "name": "tutors / tutorProfile / makeReservation",
   "nameIsFixed": false,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "8A897856-29C4-40C0-80C7-D19F2B73C03E_symbolID"
+      "overrideName": "DF4D5945-8FE8-470E-B5EF-18B6D2981E42_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "DF1DDE21-925A-42C5-911B-B616998AD77A_symbolID"
+      "overrideName": "85FC7C15-EC2D-411A-8DC1-7FF1E44E58F9_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "C32F5ABE-2AB1-4978-8F06-9E8998545491_symbolID"
+      "overrideName": "8EF42698-95D7-4352-8AC7-529EDEB421B6_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "AC34F3D8-6142-47F5-9276-252F4D69EA29_symbolID"
+      "overrideName": "582A3176-2359-4037-BB8C-C42DDC4743A5_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "7FBD4672-88EC-4469-B0C3-B022FD328991_symbolID"
+      "overrideName": "52695D83-BB3F-4E7F-8271-759508B0F477_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "D39CA200-1894-482E-96F6-547A9C36AA9A_symbolID"
+      "overrideName": "C98C881D-6C90-4D74-9322-E24DA9575B64_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "ED4735FB-A238-4BBC-BBA2-5D8AC53AD9C4_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "A81C75B2-4E5A-4851-A17A-FB66423D9BBA_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C41B6EBC-7D65-42FA-8019-8B323607FA13_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "EB4DC084-53FB-4914-9938-98298478E655_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "B27AACB7-1C55-4978-8FB2-F9CA68385C21_symbolID"
+      "overrideName": "342DE2B7-11A3-4A42-91EF-0D0D27E585FE_symbolID"
     }
   ],
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -167,7 +135,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "136E5CA7-4328-42D2-A38E-452C1A773DA4",
+  "symbolID": "9F424DF9-9259-44B9-8C40-B438E0C69C08",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "228910BC-5AD9-46A6-BA8A-6E1D2A35B300",
+  "do_objectID": "85FC7C15-EC2D-411A-8DC1-7FF1E44E58F9",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D90A4C7D-8BD5-43B2-BD33-12E83FC661D8",
+    "do_objectID": "167ABDD5-8BD5-4B57-AA16-F90957B6BB80",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "FA3B2E96-D404-4AE6-A85A-0888BACF0145",
-    "height": 48,
+    "do_objectID": "DAE02AA8-7293-4834-9309-215793CA3046",
+    "height": 20,
     "width": 375,
     "x": 0,
-    "y": 236
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,21 +57,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / listEach48",
-  "nameIsFixed": true,
+  "name": "Bars/Status Bar/Dark Status Bar",
+  "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "FC5D541D-E5D9-4CF3-96DE-97C48684805A",
-      "overrideName": "396C0E87-44B0-44ED-A6D0-D0B46A8AF026_stringValue",
-      "value": "4/18/2019, 10:00 AM"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "C9046739-1575-4497-8B12-F1586E8F7629",
-      "overrideName": "215101CD-53B1-4480-B767-240C89363BC0/AF6F0313-3991-4D62-A708-4302E8EEB927_symbolID",
-      "value": "927C0650-8C96-451D-ACD8-49BE7E3154D7"
-    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -80,12 +68,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "58DB9672-6140-4B22-952F-BCF0D0B2E54D",
+    "do_objectID": "356885E6-5A2A-4357-BBF3-F4CF4017DE5B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "716A88C6-E576-4138-B568-6513D40F3EAD",
+  "symbolID": "6707F115-3409-4453-ACCF-66E71AD49C66",
   "verticalSpacing": 0
 }

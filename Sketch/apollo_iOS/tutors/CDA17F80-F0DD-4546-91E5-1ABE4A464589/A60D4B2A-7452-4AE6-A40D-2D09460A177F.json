@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3D224155-7B24-4E2B-853A-2B079D5411F0",
+  "do_objectID": "A60D4B2A-7452-4AE6-A40D-2D09460A177F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F57C81A2-1130-4E55-BEB7-9CA8AA59EDA8",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +42,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7740E38F-BEF0-4080-9312-F0FB222DC5E8",
-    "height": 48,
+    "height": 667,
     "width": 375,
     "x": 0,
-    "y": 331
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,21 +55,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / checkboxOnLight",
+  "name": "tutors / tutorProfile / makeReservation",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "1B30F386-5C87-49E5-9161-F2EC66DD26AF",
-      "overrideName": "22DD15A7-A22B-441E-9EB6-F49E1E0237C9_stringValue",
-      "value": "Advanced"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "E391568D-FFBD-4353-B975-B302378E8F62",
-      "overrideName": "8A20461C-A21A-4444-AF7E-A1DBE7EEB484/088965AA-D609-48AB-9CCB-7752DB7B86B9_symbolID",
-      "value": ""
-    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -80,12 +66,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "34E1453C-2B06-452F-B3A2-0D8FFF5518D0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FF197A76-77E7-4A44-9D8E-EF55B53E4E57",
+  "symbolID": "9F424DF9-9259-44B9-8C40-B438E0C69C08",
   "verticalSpacing": 0
 }

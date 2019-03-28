@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8E5EBC4F-0F39-416F-A1B6-C32CF68728E3",
+  "do_objectID": "DC6E441F-4904-4C51-A036-330BA5AE2E34",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EA077BEE-798C-497E-AB95-756FCAF54EDF",
+    "do_objectID": "AD735CC5-5839-4940-8443-74993B445078",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "72DB68A2-B9F3-4CF4-9E40-02BF2E5E7F4B",
-    "height": 20,
+    "do_objectID": "78B41007-7052-4B02-92AC-F270119ACD1E",
+    "height": 80,
     "width": 375,
     "x": 0,
-    "y": 0
+    "y": 84
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,9 +57,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bars/Status Bar/Dark Status Bar",
+  "name": "tutor / profileBasic",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A0016E18-65A5-4A61-81EC-AC57C116D07F",
+      "overrideName": "CEB15C43-1CF9-4B38-ADFF-2D0584EEE1DB_symbolID",
+      "value": "715ED9ED-8E88-4779-AC3E-A056D37B32DB"
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -68,12 +74,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "9FC96B3E-7E62-4D14-A93C-6B5E15BDA939",
+    "do_objectID": "4A0DA526-1E8B-4AF0-A2A0-39C268F6ED85",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "6707F115-3409-4453-ACCF-66E71AD49C66",
+  "symbolID": "26068DE5-5ECA-4B03-AFF9-644C96B184CE",
   "verticalSpacing": 0
 }

@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3D224155-7B24-4E2B-853A-2B079D5411F0",
+  "do_objectID": "C98C881D-6C90-4D74-9322-E24DA9575B64",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F57C81A2-1130-4E55-BEB7-9CA8AA59EDA8",
+    "do_objectID": "C26C8452-E283-44C8-9E05-53BD6767B1D3",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7740E38F-BEF0-4080-9312-F0FB222DC5E8",
+    "do_objectID": "1CD8FE2B-712E-43D6-AC18-BAB4D742DA48",
     "height": 48,
     "width": 375,
     "x": 0,
-    "y": 331
+    "y": 20
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,20 +57,32 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / checkboxOnLight",
+  "name": "header / basic",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "1B30F386-5C87-49E5-9161-F2EC66DD26AF",
-      "overrideName": "22DD15A7-A22B-441E-9EB6-F49E1E0237C9_stringValue",
-      "value": "Advanced"
+      "do_objectID": "B46D8313-D2DC-44DD-B126-3345DD18E508",
+      "overrideName": "100EC8AB-0C6C-41DC-A7AA-F91817E6B2F1_stringValue",
+      "value": "Make a Reservation"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "E391568D-FFBD-4353-B975-B302378E8F62",
-      "overrideName": "8A20461C-A21A-4444-AF7E-A1DBE7EEB484/088965AA-D609-48AB-9CCB-7752DB7B86B9_symbolID",
-      "value": ""
+      "do_objectID": "DC64424A-AF57-418B-8DEB-36DFC3DE4BB8",
+      "overrideName": "756C225A-5C44-4819-A95C-E4694A5C1D99_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF3200BC-8AB7-43C3-99F5-6A1576EE938F",
+      "overrideName": "756C225A-5C44-4819-A95C-E4694A5C1D99_textStyle",
+      "value": "C9E87EF4-A378-43CC-89A2-33EAFAAAA3CC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "93B2AFA6-1781-403A-B87B-24FEBBECE44F",
+      "overrideName": "3F998C87-2C7B-4527-B370-1366BECF68CA/AF6F0313-3991-4D62-A708-4302E8EEB927_symbolID",
+      "value": "4D599E7C-9D3B-4676-B3FD-4FCBABBE2349"
     }
   ],
   "resizingConstraint": 13,
@@ -80,12 +92,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "34E1453C-2B06-452F-B3A2-0D8FFF5518D0",
+    "do_objectID": "39622776-BE34-449C-8F5E-B149650B3E53",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FF197A76-77E7-4A44-9D8E-EF55B53E4E57",
+  "symbolID": "4B38187F-E7D4-4623-8A89-97C442E958F0",
   "verticalSpacing": 0
 }

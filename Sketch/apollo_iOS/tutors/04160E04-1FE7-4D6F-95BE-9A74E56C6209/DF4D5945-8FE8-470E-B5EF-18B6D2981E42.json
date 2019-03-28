@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3D224155-7B24-4E2B-853A-2B079D5411F0",
+  "do_objectID": "DF4D5945-8FE8-470E-B5EF-18B6D2981E42",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F57C81A2-1130-4E55-BEB7-9CA8AA59EDA8",
+    "do_objectID": "988A60B2-B560-4AF9-A46D-D98A75842E4B",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7740E38F-BEF0-4080-9312-F0FB222DC5E8",
+    "do_objectID": "964D8C69-FAF9-42C8-9F04-F4A460217E2F",
     "height": 48,
     "width": 375,
     "x": 0,
-    "y": 331
+    "y": 292
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,20 +57,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / checkboxOnLight",
+  "name": "list / title48",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "1B30F386-5C87-49E5-9161-F2EC66DD26AF",
-      "overrideName": "22DD15A7-A22B-441E-9EB6-F49E1E0237C9_stringValue",
-      "value": "Advanced"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "E391568D-FFBD-4353-B975-B302378E8F62",
-      "overrideName": "8A20461C-A21A-4444-AF7E-A1DBE7EEB484/088965AA-D609-48AB-9CCB-7752DB7B86B9_symbolID",
-      "value": ""
+      "do_objectID": "FE481C23-C460-4675-8EF9-04E41DACFAC0",
+      "overrideName": "D9C89AAE-303A-40DF-8EB7-A7055800E2D4_stringValue",
+      "value": "Choose a time"
     }
   ],
   "resizingConstraint": 13,
@@ -80,12 +74,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "34E1453C-2B06-452F-B3A2-0D8FFF5518D0",
+    "do_objectID": "532872C9-B002-4D48-89D9-3F257703D685",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FF197A76-77E7-4A44-9D8E-EF55B53E4E57",
+  "symbolID": "78024422-ABFA-460B-9D59-D448102F428D",
   "verticalSpacing": 0
 }

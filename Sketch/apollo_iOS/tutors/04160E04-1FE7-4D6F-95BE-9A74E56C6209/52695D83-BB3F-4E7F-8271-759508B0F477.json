@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B136490E-6DEC-43DA-B11A-2C26C9C26B4C",
+  "do_objectID": "52695D83-BB3F-4E7F-8271-759508B0F477",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "001B33FF-7A33-417C-9327-F76E6284ECB9",
+    "do_objectID": "03C9E635-1988-4F92-BD96-FF5514734B22",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1F33BACF-0EB0-4D5B-9EF9-DE5CE01F805D",
-    "height": 56,
+    "do_objectID": "658A8682-ECFD-488E-9E18-4FF6FBED047D",
+    "height": 48,
     "width": 375,
     "x": 0,
-    "y": 611
+    "y": 180
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,14 +57,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / basicFullWhite",
+  "name": "list / title48",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "899587FC-46EB-4FB4-BB95-BB7E7AA8660C",
-      "overrideName": "E1930392-2F44-47B8-9BA2-65C71C0BA4F5_stringValue",
-      "value": "Next"
+      "do_objectID": "FE481C23-C460-4675-8EF9-04E41DACFAC0",
+      "overrideName": "D9C89AAE-303A-40DF-8EB7-A7055800E2D4_stringValue",
+      "value": "Choose a duration"
     }
   ],
   "resizingConstraint": 13,
@@ -74,12 +74,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "98E48BBF-A8AC-482A-A604-5F32710F1BC0",
+    "do_objectID": "D65CB7CA-F17C-4518-B975-AB498B263DE5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "6E47714A-0B05-4263-93ED-715B6D094EA2",
+  "symbolID": "78024422-ABFA-460B-9D59-D448102F428D",
   "verticalSpacing": 0
 }

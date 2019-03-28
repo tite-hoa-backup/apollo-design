@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3D224155-7B24-4E2B-853A-2B079D5411F0",
+  "do_objectID": "A9398DDF-869A-48D9-8EF2-05066DC5F1CC",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F57C81A2-1130-4E55-BEB7-9CA8AA59EDA8",
+    "do_objectID": "39B73C92-98BD-4C2B-985F-9857F2ABB8CF",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7740E38F-BEF0-4080-9312-F0FB222DC5E8",
-    "height": 48,
+    "do_objectID": "E59C9801-14B9-43D1-9115-C89D842AD5E6",
+    "height": 286,
     "width": 375,
     "x": 0,
-    "y": 331
+    "y": 381
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,21 +57,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / checkboxOnLight",
+  "name": "misc / actionSheet",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "1B30F386-5C87-49E5-9161-F2EC66DD26AF",
-      "overrideName": "22DD15A7-A22B-441E-9EB6-F49E1E0237C9_stringValue",
-      "value": "Advanced"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "E391568D-FFBD-4353-B975-B302378E8F62",
-      "overrideName": "8A20461C-A21A-4444-AF7E-A1DBE7EEB484/088965AA-D609-48AB-9CCB-7752DB7B86B9_symbolID",
-      "value": ""
-    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -80,12 +68,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "34E1453C-2B06-452F-B3A2-0D8FFF5518D0",
+    "do_objectID": "1A51232F-2442-4D14-8D4D-D332C0219602",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FF197A76-77E7-4A44-9D8E-EF55B53E4E57",
+  "symbolID": "E5D2BDE6-828E-4D5F-823B-C0FA4E9ED203",
   "verticalSpacing": 0
 }

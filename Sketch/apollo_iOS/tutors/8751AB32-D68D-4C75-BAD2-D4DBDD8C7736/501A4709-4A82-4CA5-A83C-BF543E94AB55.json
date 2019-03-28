@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D9541C72-1A45-436A-9D3C-B0C10DB3A603",
+  "do_objectID": "501A4709-4A82-4CA5-A83C-BF543E94AB55",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "AF4DE976-DEFF-4ACE-88B4-5292B98C228D",
+    "do_objectID": "963B9B87-99DA-4CCD-9D14-DFA5AADD4856",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "62580B67-F5E1-4E23-9F7B-4D609CC54A0E",
-    "height": 48,
-    "width": 375,
-    "x": 0,
-    "y": 76
+    "do_objectID": "5D2C5F69-217E-4926-99D3-07988794FDDD",
+    "height": 56,
+    "width": 343,
+    "x": 16,
+    "y": 595
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,14 +57,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / title48",
+  "name": "btn / basicBrand56",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "FE481C23-C460-4675-8EF9-04E41DACFAC0",
-      "overrideName": "D9C89AAE-303A-40DF-8EB7-A7055800E2D4_stringValue",
-      "value": "Choose a duration"
+      "do_objectID": "C2FF9DB3-6CAF-4BC3-AC69-98CF889E24A9",
+      "overrideName": "DE8C655E-6A87-4AFF-9D26-F24132B0EB31_stringValue",
+      "value": "Reserve"
     }
   ],
   "resizingConstraint": 13,
@@ -74,12 +74,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "1D9E0184-5211-4DA1-8586-AAF34BF8E476",
+    "do_objectID": "25A5F8E4-CF93-4A35-8AC5-0E76CC871F8F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "78024422-ABFA-460B-9D59-D448102F428D",
+  "symbolID": "8339BC2C-670E-43C2-9EF4-37D5ADA84417",
   "verticalSpacing": 0
 }
