@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "777936CA-067A-4282-A04A-061E183A92F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "766A5806-8E95-444B-A78D-895EA7310C6F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E96A7887-D5F1-44BA-A30C-7DBD51930357",
+    "height": 15,
+    "width": 63,
+    "x": 11,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "A1D7F41E-393A-4E51-9E73-C8DAE923C9CC"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "05450481-9B5B-40EE-BC04-E346F55A29C4"
+    },
+    {
+      "class": "text",
+      "id": "5F2F47CE-2B48-427E-A165-8C2E74AC60E5"
+    }
+  ],
+  "name": "battery",
+  "nameIsFixed": true,
+  "resizingConstraint": 44,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1A66BF2F-A146-4101-9E72-9DEBF0DC4663",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

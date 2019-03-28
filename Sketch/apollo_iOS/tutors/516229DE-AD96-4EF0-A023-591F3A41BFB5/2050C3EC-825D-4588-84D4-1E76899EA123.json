@@ -1,0 +1,96 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2050C3EC-825D-4588-84D4-1E76899EA123",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 375,
+    "x": 0,
+    "y": 172
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / tutorListEach",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3C53BF92-8E90-4254-B9A1-0A7ABF9CE0DE",
+      "overrideName": "92A29F11-FE23-4D07-8634-F23CA09C5A3F/A1E13FA0-30BE-49C9-A606-A089D2DB27D4/2A199C68-53BC-4678-8984-C4CD764E7EF1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5440e0221d58aeaa812033a6512346feffb4d288.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "53476125-A621-45D0-AE4C-7AA69541646D",
+      "overrideName": "DE626FB8-F109-4E79-8418-FB9E8E7E6DD7/17E1CED2-A487-4C64-BB6F-38077A6F305B/76D4178F-4EAE-46D1-A17A-8F3ED368549A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c0b540b7277bbe071958837f42efe2428fdb4385.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "43DB6F8F-064C-4BA5-8901-9A019B2C45A4",
+  "verticalSpacing": 0
+}

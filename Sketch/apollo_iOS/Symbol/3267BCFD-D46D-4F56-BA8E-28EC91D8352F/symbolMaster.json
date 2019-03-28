@@ -1,0 +1,159 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B3FA2ECA-C6A8-46B8-9D6D-8728287AE140",
+    "green": 0.3008003048780488,
+    "red": 0.5166644590046954
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 5187,
+  "clippingMaskMode": 0,
+  "do_objectID": "3267BCFD-D46D-4F56-BA8E-28EC91D8352F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "645ABCEA-8CAC-4E0A-BB63-C00F6E4E77B8",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A622D93-3C7C-45CB-A2B8-982FFE0DC424",
+    "height": 72,
+    "width": 375,
+    "x": 1340,
+    "y": -280
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "4344D608-312B-438F-99E4-E5A22ED5618B"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "37670F61-E9BD-40E7-A2D1-55070ADFCEA1",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "511A71B1-3D12-4947-A94C-C668AB8CDD90"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "66D118DF-3FC9-4B20-822E-675E2EDC68D1"
+    },
+    {
+      "class": "text",
+      "id": "B7435DA5-E1B2-4546-AA08-1D02619CB74A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "86B2DD7F-7D1B-4CAD-8120-1C71C87FF6E5"
+    }
+  ],
+  "name": "form / basic",
+  "nameIsFixed": true,
+  "originalObjectID": "F7AA7B6A-81F1-443C-80F5-0F46FE73B0BE",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "66D118DF-3FC9-4B20-822E-675E2EDC68D1_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "511A71B1-3D12-4947-A94C-C668AB8CDD90_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B7435DA5-E1B2-4546-AA08-1D02619CB74A_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B7435DA5-E1B2-4546-AA08-1D02619CB74A_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "511A71B1-3D12-4947-A94C-C668AB8CDD90_stringValue"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "58D2D153-979A-4B2C-874B-31C4BBC436AB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AB34B566-7799-4923-B7AE-297E422C5E16",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "121569AE-2BCA-40BE-A038-3CD05B0C7D71",
+    "guides": [
+    ]
+  }
+}

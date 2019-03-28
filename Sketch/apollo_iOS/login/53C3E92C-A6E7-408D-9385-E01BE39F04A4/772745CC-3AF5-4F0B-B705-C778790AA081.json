@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "772745CC-3AF5-4F0B-B705-C778790AA081",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CDF91C51-22FF-4718-ABC9-BBEEA1469DE2",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EFA6C791-747B-4BC0-8C7D-06BC23A05411",
+    "height": 56,
+    "width": 343,
+    "x": 16,
+    "y": 451
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / loginLogoWhite",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F011EAB-DDA7-496D-929E-60C939292B32",
+      "overrideName": "F00C854D-0EA1-40A2-BB9C-DF27A315AFAC_stringValue",
+      "value": "Continue with Facebook"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F96D4E69-A839-4E76-8A4F-3DE522EDC4E6",
+      "overrideName": "37C9C3EC-21AA-462E-91CD-235795CB470E_symbolID",
+      "value": "E0C52178-9712-4B81-AF37-4997B0713DE7"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A34F917-43AC-473F-A905-60FBF68AB727",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B39BB5C3-A174-4CD1-8893-B6B75A452928",
+  "verticalSpacing": 0
+}
