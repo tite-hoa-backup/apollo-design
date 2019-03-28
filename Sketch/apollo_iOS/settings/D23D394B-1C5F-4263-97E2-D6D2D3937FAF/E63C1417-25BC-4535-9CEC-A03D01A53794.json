@@ -57,26 +57,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "header / basic",
-  "nameIsFixed": false,
+  "name": "header / basicIcon",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "B46D8313-D2DC-44DD-B126-3345DD18E508",
-      "overrideName": "100EC8AB-0C6C-41DC-A7AA-F91817E6B2F1_stringValue",
-      "value": "Settings"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "660B3B7A-1C5C-4E0F-9A70-6A6C8A4B61F2",
-      "overrideName": "3F998C87-2C7B-4527-B370-1366BECF68CA_symbolID",
+      "do_objectID": "4B991146-959C-4EF3-B768-D70C5254B708",
+      "overrideName": "01270E83-CB8C-4BCA-A735-44E5C1EFB616_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "90F2850C-63DC-4D40-9246-B2F88BA2F1F5",
-      "overrideName": "756C225A-5C44-4819-A95C-E4694A5C1D99_stringValue",
-      "value": " "
+      "do_objectID": "B05D18DF-3F4A-4D14-BF1B-70E665A224A1",
+      "overrideName": "6EA42983-FCD2-4F0C-AF8A-D007DF0D9613_stringValue",
+      "value": "Settings"
     }
   ],
   "resizingConstraint": 63,
@@ -92,6 +86,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4B38187F-E7D4-4623-8A89-97C442E958F0",
+  "symbolID": "98557023-EA38-4118-A2CD-4AFD5793DDC2",
   "verticalSpacing": 0
 }
