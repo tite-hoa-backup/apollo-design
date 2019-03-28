@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "73DCD846-465D-4A45-B5A7-956ADA20C277",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F81E6DC2-39AF-4444-9A09-BDF681701F40",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0B6AFB14-2AFD-487F-A6BB-EF626CE8D40C",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 236
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / checkboxWhite",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC3AA8BC-D7C6-414D-AC91-68174079D802",
+      "overrideName": "1579B890-9E4A-489E-8DB8-359DB6CC007A_stringValue",
+      "value": "Notify me when this tutor is online"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6EB74760-1C8F-42D8-9432-B42E6D61E32A",
+      "overrideName": "A28C0555-85DC-4890-A0D1-DD5DDEFFE639/AF6F0313-3991-4D62-A708-4302E8EEB927_symbolID",
+      "value": "45AF4014-1F47-4FB8-B557-38EDE2AAFEC5"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2199CA0E-0FF5-49FD-97E4-70075C8DBF7D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9229744D-7759-4B50-A14C-397D8BB9BCD6",
+  "verticalSpacing": 0
+}

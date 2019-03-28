@@ -92,6 +92,11 @@
   "nameIsFixed": true,
   "originalObjectID": "F7AA7B6A-81F1-443C-80F5-0F46FE73B0BE",
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "46772D27-1FA0-4677-8E62-AD8BD4ABD739_symbolID"
+    }
   ],
   "resizesContent": true,
   "resizingConstraint": 63,

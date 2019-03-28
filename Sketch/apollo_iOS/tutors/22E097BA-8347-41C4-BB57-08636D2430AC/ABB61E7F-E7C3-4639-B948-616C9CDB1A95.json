@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "541A94E4-22BF-4F6E-A5DF-7E0B56C40A92",
+  "do_objectID": "ABB61E7F-E7C3-4639-B948-616C9CDB1A95",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E8765D28-046E-4454-8742-CD0C9F8AC240",
+    "do_objectID": "B31D8F78-5E8E-4E80-A6EB-583498B02EFC",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "43CF8454-B83B-4DA0-9790-38A82A0A9929",
-    "height": 80,
+    "do_objectID": "42D9FE48-C837-4545-8843-A2E36975D636",
+    "height": 48,
     "width": 375,
     "x": 0,
-    "y": 172
+    "y": 236
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,28 +57,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / tutorListEach",
+  "name": "list / checkboxWhite",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "3C53BF92-8E90-4254-B9A1-0A7ABF9CE0DE",
-      "overrideName": "92A29F11-FE23-4D07-8634-F23CA09C5A3F/A1E13FA0-30BE-49C9-A606-A089D2DB27D4/2A199C68-53BC-4678-8984-C4CD764E7EF1_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/5440e0221d58aeaa812033a6512346feffb4d288.png",
-        "_ref_class": "MSImageData"
-      }
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "53476125-A621-45D0-AE4C-7AA69541646D",
-      "overrideName": "DE626FB8-F109-4E79-8418-FB9E8E7E6DD7/17E1CED2-A487-4C64-BB6F-38077A6F305B/76D4178F-4EAE-46D1-A17A-8F3ED368549A_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/c0b540b7277bbe071958837f42efe2428fdb4385.png",
-        "_ref_class": "MSImageData"
-      }
+      "do_objectID": "CC3AA8BC-D7C6-414D-AC91-68174079D802",
+      "overrideName": "1579B890-9E4A-489E-8DB8-359DB6CC007A_stringValue",
+      "value": "Notify me when this tutor is online"
     }
   ],
   "resizingConstraint": 13,
@@ -88,12 +74,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "E3760CF7-3A58-4C44-B5E1-D876AC2FEC32",
+    "do_objectID": "1106DC6D-E868-4EF1-BF0B-E4B7512539BB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "43DB6F8F-064C-4BA5-8901-9A019B2C45A4",
+  "symbolID": "9229744D-7759-4B50-A14C-397D8BB9BCD6",
   "verticalSpacing": 0
 }

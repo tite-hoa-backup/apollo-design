@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6F758ABC-699B-4BCE-88B3-4930C81DC7FF",
+  "do_objectID": "215101CD-53B1-4480-B767-240C89363BC0",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C4C3E0C9-BCCE-487E-A2FE-0CE4357205F1",
+    "do_objectID": "1CB916E1-E145-4252-BF9A-1AE1AD49DF04",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6ED0CE65-0956-4EB7-8A6C-4B57C4013B25",
+    "do_objectID": "8F94EDD2-F186-4039-AC09-B9DAF4DCBDD8",
     "height": 48,
-    "width": 375,
-    "x": 0,
-    "y": 20
+    "width": 48,
+    "x": 327,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,41 +57,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "header / basic",
+  "name": "bound / 48",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "B46D8313-D2DC-44DD-B126-3345DD18E508",
-      "overrideName": "100EC8AB-0C6C-41DC-A7AA-F91817E6B2F1_stringValue",
-      "value": "Tutors"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "660B3B7A-1C5C-4E0F-9A70-6A6C8A4B61F2",
-      "overrideName": "3F998C87-2C7B-4527-B370-1366BECF68CA_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "DC64424A-AF57-418B-8DEB-36DFC3DE4BB8",
-      "overrideName": "756C225A-5C44-4819-A95C-E4694A5C1D99_stringValue",
-      "value": "Filters"
+      "do_objectID": "ABDEE2A8-5EBC-4657-89D6-43AB1963EBDD",
+      "overrideName": "AF6F0313-3991-4D62-A708-4302E8EEB927_symbolID",
+      "value": "54B9E71D-4A9B-432A-B14B-7C981E7F9029"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "7520832A-3793-44B4-A4C5-B220685D562A",
+    "do_objectID": "B04DBDAF-95B9-46FB-A3CC-B2F434AC1B1D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4B38187F-E7D4-4623-8A89-97C442E958F0",
+  "symbolID": "413B7DE5-A59C-42EC-817D-9AA5073F4A4E",
   "verticalSpacing": 0
 }

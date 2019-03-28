@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F21C79CF-534F-4C8A-BA31-6DBB1F6B0505",
+  "do_objectID": "6DFCC4E5-5401-4C96-A752-21D4D182A60F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "15C09762-B2B8-47F1-A208-17039D457AB0",
+    "do_objectID": "C088915D-A3C5-4160-9EC0-AD3102AC9A62",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7FE37E77-809C-48D2-BC87-C33253BD8CDE",
+    "do_objectID": "D356EAB2-65CA-4AE6-B67A-6CA16D1E71C4",
     "height": 48,
     "width": 375,
     "x": 0,
-    "y": 68
+    "y": 20
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,9 +57,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "header / searchBefore",
+  "name": "header / basic",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B46D8313-D2DC-44DD-B126-3345DD18E508",
+      "overrideName": "100EC8AB-0C6C-41DC-A7AA-F91817E6B2F1_stringValue",
+      "value": "Tutor's name"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DC64424A-AF57-418B-8DEB-36DFC3DE4BB8",
+      "overrideName": "756C225A-5C44-4819-A95C-E4694A5C1D99_stringValue",
+      "value": "Follow"
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -68,12 +80,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0B96788C-1741-45A5-A998-6D585931BFC8",
+    "do_objectID": "EE7B70FD-4DC5-4542-9F46-F7FF3BBD0531",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "34C834A3-943B-40CD-93E7-E08ED3055AB7",
+  "symbolID": "4B38187F-E7D4-4623-8A89-97C442E958F0",
   "verticalSpacing": 0
 }

@@ -8,7 +8,7 @@
     "red": 0.5166644590046954
   },
   "booleanOperation": -1,
-  "changeIdentifier": 52,
+  "changeIdentifier": 147,
   "clippingMaskMode": 0,
   "do_objectID": "8FEAE3BD-340E-4588-B1BF-CF44F8D2D195",
   "exportOptions": {
@@ -99,8 +99,63 @@
   "name": "tutors / basic",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EB4DC084-53FB-4914-9938-98298478E655_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DF1DDE21-925A-42C5-911B-B616998AD77A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C32F5ABE-2AB1-4978-8F06-9E8998545491_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AC34F3D8-6142-47F5-9276-252F4D69EA29_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7FBD4672-88EC-4469-B0C3-B022FD328991_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A81C75B2-4E5A-4851-A17A-FB66423D9BBA_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C41B6EBC-7D65-42FA-8019-8B323607FA13_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D39CA200-1894-482E-96F6-547A9C36AA9A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "ED4735FB-A238-4BBC-BBA2-5D8AC53AD9C4_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B27AACB7-1C55-4978-8FB2-F9CA68385C21_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8A897856-29C4-40C0-80C7-D19F2B73C03E_symbolID"
+    }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

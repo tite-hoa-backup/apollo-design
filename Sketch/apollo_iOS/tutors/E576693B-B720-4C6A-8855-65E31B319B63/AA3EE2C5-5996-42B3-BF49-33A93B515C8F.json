@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "35B550E2-B98D-41A5-A77E-5A0B647891FE",
+  "do_objectID": "AA3EE2C5-5996-42B3-BF49-33A93B515C8F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A3F68A58-4B04-4220-BAE9-CFE7CF43688A",
+    "do_objectID": "223518F4-184D-4939-A18C-F44FE14CD554",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "78B32191-4DED-459B-81EF-AFBD25934392",
-    "height": 20,
+    "do_objectID": "7A78BA68-E795-445E-8A75-ACDED2D954BD",
+    "height": 48,
     "width": 375,
     "x": 0,
-    "y": 0
+    "y": 588
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,9 +57,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bars/Status Bar/Dark Status Bar",
-  "nameIsFixed": false,
+  "name": "list / listEach48Text",
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A0AEFB63-5F42-4F0C-915A-624825BEB3D2",
+      "overrideName": "DE4A1DF8-6558-4F1A-B72C-5DC2AA048C9B_stringValue",
+      "value": "Fun & Gregarious"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "89109C55-F71B-4B6E-9BBB-603494ACA5F7",
+      "overrideName": "34E4CC18-D48D-4056-8E30-BAD84C5301A6_stringValue",
+      "value": " "
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -68,12 +80,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "070F1E08-5D4E-4602-8957-B84DC3B36104",
+    "do_objectID": "C013F4E0-5B77-454E-BCF9-A32450C79DDB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "6707F115-3409-4453-ACCF-66E71AD49C66",
+  "symbolID": "A354477C-E147-40DA-AFC7-EDF548D5BDF0",
   "verticalSpacing": 0
 }
