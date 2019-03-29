@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2F24203C-70B6-45A9-B65A-17627F2F8F7D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0781D4AD-E879-4CED-B9F9-8EFDE7ECFF49",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BDB8E34C-1D2B-4701-8602-34C5B6AAEC0D",
+    "height": 44,
+    "width": 270,
+    "x": 0,
+    "y": 147
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Secondary Action",
+  "nameIsFixed": true,
+  "originalObjectID": "5BEA1384-02DE-42B8-8FC9-E6A3AC2F459B",
+  "overrideValues": [
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EC2F5229-EE5E-43E7-A268-87C2B65F8F94",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "34CD210A-C83C-4053-B15F-857AE922373D",
+  "verticalSpacing": 0
+}

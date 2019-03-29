@@ -1,0 +1,106 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CA6D7B98-F966-42B1-A79E-479E6B01B88A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 105,
+    "width": 375,
+    "x": 0,
+    "y": 590
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / subscriptionRadioForm / withBadge",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF9CAFD2-19C9-46BE-9363-54541CFE45C9",
+      "overrideName": "40925898-2526-4276-AC3F-9108B0AC4786_stringValue",
+      "value": "1 Year"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F7CDCB69-A719-435E-ABAB-8E4B61EA6C93",
+      "overrideName": "9854DD11-B255-4B36-A962-18299BEACD78_stringValue",
+      "value": "₩ 126,750"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B0EB78FE-6AC0-4A5B-86D5-2FC67341787C",
+      "overrideName": "88BC69EF-9BE0-4392-8204-C305EC06F85A_stringValue",
+      "value": "Renews every 12 months"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "68661C15-6AB5-4FD1-B276-D5CD2D46689B",
+      "overrideName": "12C785A0-11AB-4CCB-93AD-52F5D30D925F_symbolID",
+      "value": "7541CFFE-C996-4342-B9DE-05DB00D0E09A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "726B22EB-602A-40B1-9667-00B29CCE3658",
+      "overrideName": "12C785A0-11AB-4CCB-93AD-52F5D30D925F/8F573E13-06E8-4177-8588-5C4424C4AB90/D0CD9052-6AFB-4146-8708-B0B87BA1D0BB_stringValue",
+      "value": "Save 35%"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F7EBAE3F-36E6-4579-B56A-BBF870A2E856",
+  "verticalSpacing": 0
+}

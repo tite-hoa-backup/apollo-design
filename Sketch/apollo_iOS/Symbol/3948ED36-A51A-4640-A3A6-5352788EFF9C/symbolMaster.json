@@ -1,0 +1,157 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "78130129-8860-4E55-A691-AC0BAAE730DD",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 5171,
+  "clippingMaskMode": 0,
+  "do_objectID": "3948ED36-A51A-4640-A3A6-5352788EFF9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "385E278C-6601-4BCB-AF54-9D1809C513E5",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5394EA22-2E42-4CA6-AD7F-A2A1865F9011",
+    "height": 44,
+    "width": 270,
+    "x": 3504,
+    "y": -196
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "59B55DD8-AE73-4E04-A73D-3C34D54EFC83"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E5AD5378-F4F7-40E7-B76D-C5E19D86483E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "26383E80-711F-4595-99C0-399A477666C3"
+    },
+    {
+      "class": "text",
+      "id": "C642492D-EBFF-4080-92FD-4613D6266AB9"
+    }
+  ],
+  "name": "Views/Alerts/_/2 ButtonsRed",
+  "nameIsFixed": true,
+  "originalObjectID": "56616F7F-87F8-4470-ADA3-40071F026432",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "11585FE0-7B04-47DB-8498-EDA3C1D442D3_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8197D7ED-DC47-47DE-8D38-6E8595E7E24C_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "26383E80-711F-4595-99C0-399A477666C3_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "11585FE0-7B04-47DB-8498-EDA3C1D442D3_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C642492D-EBFF-4080-92FD-4613D6266AB9_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8197D7ED-DC47-47DE-8D38-6E8595E7E24C_image"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0479F964-597C-45C3-A02A-BDF35C2F75C7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F1992D80-510F-43DC-81AB-87064F278099",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9A431C22-AB7C-4353-918E-C65A228460C7",
+    "guides": [
+    ]
+  }
+}
