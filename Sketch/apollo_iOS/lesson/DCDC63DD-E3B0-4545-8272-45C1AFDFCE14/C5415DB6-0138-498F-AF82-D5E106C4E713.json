@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C5415DB6-0138-498F-AF82-D5E106C4E713",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "397F8549-A4F0-4AC7-842D-20D90755854D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "795AED8F-FEB2-48F0-B5FF-DE679BC3C430",
+    "height": 70,
+    "width": 64,
+    "x": 116,
+    "y": 565
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / lessonOnDark",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF2CBE72-343D-4E45-B6F4-7863400613A9",
+      "overrideName": "A1F30756-C6C9-4F9D-A996-2516F05D71CB_symbolID",
+      "value": "E4A4C475-C9F4-4029-9C8B-0F4FBEED551E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4304F2E4-89EE-4494-94DC-28A8FB4D9BF5",
+      "overrideName": "545995C5-9567-495B-912E-B4DEB54E42CE_stringValue",
+      "value": "Volume On"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6130860C-7070-4C37-B114-44BB8D75626D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "812223AD-6C45-4746-9E1A-3872D7BCC341",
+  "verticalSpacing": 0
+}

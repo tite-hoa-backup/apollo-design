@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "14A366A7-152C-4780-9D1A-DEE76AD3569A",
-    "height": 1144,
+    "height": 1197,
     "width": 375,
     "x": 390,
     "y": -1251
@@ -54,6 +54,14 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "text",
+      "id": "3AB84F95-6279-4454-A969-C111D70D12E8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5CAC137-2D07-45B2-87DD-713A8E16A853"
+    },
     {
       "class": "symbolInstance",
       "id": "C011FF42-3AA8-4018-8F2A-E95FB81A24BA"
@@ -125,10 +133,6 @@
     {
       "class": "symbolInstance",
       "id": "81BA35C7-F323-42FD-91A3-371EF001F903"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D5CAC137-2D07-45B2-87DD-713A8E16A853"
     }
   ],
   "name": "home / subscription / basic",

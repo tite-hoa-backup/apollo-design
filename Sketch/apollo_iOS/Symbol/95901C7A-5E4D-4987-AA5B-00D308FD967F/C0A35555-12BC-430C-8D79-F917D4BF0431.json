@@ -29,11 +29,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 5,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "Total"
+    "string": "Total Price"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -86,7 +86,7 @@
     "x": 16,
     "y": 12
   },
-  "glyphBounds": "{{0, 5}, {41, 14}}",
+  "glyphBounds": "{{0, 4}, {87, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

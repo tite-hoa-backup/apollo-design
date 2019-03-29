@@ -1,0 +1,136 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.6705882352941176,
+    "green": 0.5098039215686274,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 11090,
+  "clippingMaskMode": 0,
+  "do_objectID": "DE7D8A16-5A45-442A-9481-5EE778619529",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "811D41B3-6E37-449A-8B88-05180A52119A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3FCAF2DC-16C1-463E-BD7B-ED3AAD540BB2",
+    "height": 48,
+    "width": 375,
+    "x": -85,
+    "y": 499
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "DF07885E-B8E2-49C5-87D6-F50C0EBA2B0B",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8B055724-4288-4484-B8B9-6FFDA981E5B0"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A6B7EF44-914E-4ADB-8FE2-C1D59712B80A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6841FBEE-2037-4362-8791-C7D024524183"
+    },
+    {
+      "class": "text",
+      "id": "02F6526C-2D4E-4F8E-AAA2-1F810339A998"
+    }
+  ],
+  "name": "misc / snackbarBrandSub48",
+  "nameIsFixed": true,
+  "originalObjectID": "4990C942-454A-42D0-B4A8-48A54E4FB400",
+  "overrideProperties": [
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DD7DD86A-3D97-41D4-B3AD-A747E5DF29AB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "217F94D0-AB00-449A-AA35-C801C3260824",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CB10D23D-859D-46CE-9272-2986A9C113EE",
+    "guides": [
+    ]
+  }
+}

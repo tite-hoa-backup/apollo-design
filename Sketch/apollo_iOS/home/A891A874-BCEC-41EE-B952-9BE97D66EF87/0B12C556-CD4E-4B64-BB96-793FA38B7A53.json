@@ -1,0 +1,97 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0B12C556-CD4E-4B64-BB96-793FA38B7A53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "536FFD11-A498-4AE1-BF97-08CF29E34521",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9CF22A35-F57A-49F7-84BE-3766097E05FE",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 283
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "header / onLight",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E65E4221-5460-43D4-BBAD-0AE434A5D726",
+      "overrideName": "FAC7B237-2FB9-4C9B-8185-378B0636F84F_stringValue",
+      "value": "Minutes per day"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "79B5E728-CA3A-4950-81DB-3B87ACFC84DC",
+      "overrideName": "94844182-EFCB-4F0E-A1E5-B45D426CC9BE_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0E4E8B8-08C4-44F8-951E-F4E37A267E52",
+      "overrideName": "9B430E7A-4FBD-4FEF-87ED-2597052F736A_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C5052D61-B5C3-42A1-BBE3-48156F1BB954",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "45F08113-1194-48E7-98ED-496DF7327467",
+  "verticalSpacing": 0
+}

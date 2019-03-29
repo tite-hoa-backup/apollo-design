@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-Bold",
+              "name": "SFProDisplay-Regular",
               "size": 16
             }
           },
@@ -86,7 +86,7 @@
     "x": 247,
     "y": 9
   },
-  "glyphBounds": "{{35, 5}, {77, 15}}",
+  "glyphBounds": "{{39, 5}, {73, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,12 +95,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textBold16W100Right",
+  "name": "textRegular16W100Right",
   "nameIsFixed": true,
   "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "683E8162-5536-415D-95DB-A54F45BCCF2A",
+  "sharedStyleID": "10041126-F31F-48EB-9A64-C493559C016E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -110,7 +110,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "A83E156F-ECE5-4033-85F9-0175F9930377",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -122,7 +121,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProDisplay-Bold",
+            "name": "SFProDisplay-Regular",
             "size": 16
           }
         },
