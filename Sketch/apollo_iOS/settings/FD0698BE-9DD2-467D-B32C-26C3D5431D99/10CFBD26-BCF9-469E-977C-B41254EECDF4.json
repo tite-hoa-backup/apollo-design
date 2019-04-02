@@ -1,0 +1,107 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "10CFBD26-BCF9-469E-977C-B41254EECDF4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "029F890E-4E76-488A-BD2C-488CDC028B63",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F167AD1C-374B-43CA-995A-1BDC6A7E65C4",
+    "height": 80,
+    "width": 375,
+    "x": 0,
+    "y": 396
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tutor / profileBasic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3FDF36CA-658F-42A3-9194-EC8B05F0FDCA",
+      "overrideName": "FD56791C-1C43-4D81-BEA3-DE2D1AEB0553/93D6275C-86BE-4663-A89D-E097519ABFFD/76D4178F-4EAE-46D1-A17A-8F3ED368549A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e9eb7b7e1b0fa6f95727d84b853dddb4daa91b5e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41FF4059-6BE9-410E-8912-E353630D2519",
+      "overrideName": "A339E85F-27EE-4AFF-B644-0A9BEE4DCBC7_stringValue",
+      "value": "5 minutes"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "55D07C4E-247D-4931-89DC-435C1F65E153",
+      "overrideName": "26EC3B19-3A24-442D-9DD7-DCB4D1296C89_stringValue",
+      "value": "4/18/2019, 8:45 AM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "367C6D58-8CB8-43E2-AC12-2F58394E3C15",
+      "overrideName": "CEB15C43-1CF9-4B38-ADFF-2D0584EEE1DB_symbolID",
+      "value": "715ED9ED-8E88-4779-AC3E-A056D37B32DB"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "88B398AD-3436-4CF5-9E26-65BCCDBA5657",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "26068DE5-5ECA-4B03-AFF9-644C96B184CE",
+  "verticalSpacing": 0
+}

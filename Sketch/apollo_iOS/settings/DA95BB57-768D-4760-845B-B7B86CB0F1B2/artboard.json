@@ -56,11 +56,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "C4F013A4-F505-4DE5-BC27-0BCD2CC8DC2D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BAED19FC-9BC3-421B-9936-56C8FDAD73A3"
+      "id": "F60E18B2-61D0-45BA-90ED-F2B3CCB5EFE2"
     }
   ],
   "name": "settings / history / basic",
@@ -72,7 +68,7 @@
     "offersLandscapeVariant": 1,
     "width": 375
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -1,0 +1,108 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 0.3019607843137255,
+    "red": 0.5176470588235293
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "23F3C7AA-E6BE-42C4-A687-88165F03B4B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "754BB338-46F3-432A-A48F-112970976B27"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "47AA4C87-0E8B-4CE4-A4EC-A748786534F3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3DDBEEF-39EC-4DE2-A431-F1276C5958DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EAD91036-F52E-4FC2-8E89-165AB3675C18"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F8DD03FB-21FC-444B-8D58-057CD275B5F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2746E491-753F-4846-8AD2-29671EE32A74"
+    },
+    {
+      "class": "group",
+      "id": "A222A489-1D66-4E6A-97C1-D30E41A439E4"
+    }
+  ],
+  "name": "login / first",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

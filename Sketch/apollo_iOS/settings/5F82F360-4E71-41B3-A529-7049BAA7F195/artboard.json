@@ -35,7 +35,7 @@
     "do_objectID": "FF447C7C-E529-4827-B568-A3E8D4AFFC57"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,11 +56,47 @@
   "layers": [
     {
       "class": "symbolInstance",
+      "id": "2022CC52-7DD3-4FD2-8290-4791F1F7540B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBCE2A57-3C0D-4E79-AE9A-8A9E525D5BA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FA5E46EB-F94B-40FD-B79F-9560A6BE72C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF5CCDAE-17FD-4EDE-8575-AB9534B71FEB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "06D5D4F5-F502-4C34-837E-F6423140E726"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D2FA68BC-7A2F-420A-A6DF-26B22F5E3A32"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F8B757D6-8413-47EC-9884-5E3133B4C4D2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5019AF26-5095-4172-BC4F-DE4FCF093257"
+    },
+    {
+      "class": "symbolInstance",
       "id": "B56673BD-22B8-4652-BB30-A8DC2053D078"
     },
     {
       "class": "symbolInstance",
       "id": "7FBA8DA7-E3C0-481B-9502-11D605AB244E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7C3792E3-4345-40D5-A13C-B179004C98BE"
     }
   ],
   "name": "settings / reservations / basic",

@@ -9,7 +9,7 @@
     "red": 0.5166644590046954
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5584,
+  "changeIdentifier": 5631,
   "clippingMaskMode": 0,
   "do_objectID": "2E9C5C46-1C89-445C-AD59-DA576A28EC2D",
   "exportOptions": {
@@ -63,7 +63,7 @@
     "do_objectID": "FA12B778-223E-406C-AFEB-E30680C56940"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -94,6 +94,10 @@
     {
       "class": "text",
       "id": "66017187-7921-4C36-AC61-83BCE088DE3E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD70FDF2-657D-4D94-88DC-3E2F53457BC1"
     }
   ],
   "name": "rating / tutorProfile",
@@ -108,7 +112,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "1C127C56-D6CB-46A0-A5F7-0ADF7E3179D9_stringValue"
+      "overrideName": "5E9B3AB2-57B0-4810-841A-7ED081016EBD_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -118,27 +122,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "1C127C56-D6CB-46A0-A5F7-0ADF7E3179D9_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "D755307F-627E-4A49-8E82-84609D29F65E_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "6DBE0BEB-234D-4C0F-9419-2187A7D8984D_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "6DBE0BEB-234D-4C0F-9419-2187A7D8984D_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "5E9B3AB2-57B0-4810-841A-7ED081016EBD_symbolID"
     }
   ],
   "resizesContent": true,

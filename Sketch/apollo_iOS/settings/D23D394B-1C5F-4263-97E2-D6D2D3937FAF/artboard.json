@@ -25,9 +25,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "AEF1B790-B403-47DC-9A9A-AA85F06F94A8",
-    "height": 667,
+    "height": 892,
     "width": 375,
-    "x": -560,
+    "x": -85,
     "y": -472
   },
   "groupLayout": {
@@ -52,7 +52,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -60,7 +60,19 @@
     },
     {
       "class": "symbolInstance",
+      "id": "05378447-7FEC-4FD0-920A-8A48A1254FA0"
+    },
+    {
+      "class": "symbolInstance",
       "id": "7F5773A9-992D-451F-9901-15F8DA93B99E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "98E775E6-3C0E-4690-AEE3-4BC6A54EE8AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C0AE4952-DBAC-46E0-A3DB-C0E8B69FD2C8"
     },
     {
       "class": "symbolInstance",
@@ -88,10 +100,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "F14F022C-3A52-410F-97D5-568CD8A2694C"
-    },
-    {
-      "class": "symbolInstance",
       "id": "05BA6D41-ECE8-4D9B-8285-F79B4DC1A295"
     },
     {
@@ -105,6 +113,10 @@
     {
       "class": "symbolInstance",
       "id": "6F7782D0-2B0D-48DA-9DC3-3851E257B21A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E1556673-5EFD-4C6F-8634-8612B373F4A0"
     }
   ],
   "name": "settings / basic",
@@ -116,7 +128,7 @@
     "offersLandscapeVariant": 1,
     "width": 375
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

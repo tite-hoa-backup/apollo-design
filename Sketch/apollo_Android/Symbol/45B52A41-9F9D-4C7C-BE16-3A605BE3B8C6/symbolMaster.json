@@ -1,0 +1,164 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "FCEB2457-3331-4E51-92BC-A362C619534A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 10690,
+  "clippingMaskMode": 0,
+  "do_objectID": "45B52A41-9F9D-4C7C-BE16-3A605BE3B8C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7DDB1710-4B0B-4A01-8F3C-C95446A2FF0F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "488F96A7-0769-41D4-AE7C-672E4183C025",
+    "height": 24,
+    "width": 360,
+    "x": -1640,
+    "y": -839
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "5C7126DF-4DB5-4D88-A300-BF188865497C"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9DEDCD92-39E0-4825-83EF-CF7C9E5E4F18",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "48B69894-4981-489E-BB8F-6E0E2D558945"
+    },
+    {
+      "class": "rectangle",
+      "id": "A3CD1ACF-CF00-4F41-A62A-7FA6B9318D98"
+    },
+    {
+      "class": "group",
+      "id": "78512B66-656B-435A-85B5-B299CCD69D8C"
+    },
+    {
+      "class": "group",
+      "id": "B3F6E0C5-B482-404F-BECC-C13408094347"
+    },
+    {
+      "class": "group",
+      "id": "B27DF632-25D9-48A0-A13B-46127AC8F6A5"
+    },
+    {
+      "class": "group",
+      "id": "DBA6ED89-0441-4FFF-8072-808ED548AF6B"
+    }
+  ],
+  "name": "sys / status bar white",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2D8A60A9-7B32-4115-8E15-34B435A65259_stringValue"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE5D44AA-1408-4F65-8DE6-884C4B5C703A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A153ABF1-186B-4323-B231-6A0493358F7C",
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "version": 2
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AD81910B-D25E-4ABE-ABB7-26BA0D60F31F",
+    "guides": [
+    ]
+  }
+}

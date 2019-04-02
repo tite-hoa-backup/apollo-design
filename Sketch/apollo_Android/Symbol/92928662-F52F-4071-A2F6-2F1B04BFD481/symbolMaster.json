@@ -1,0 +1,155 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E240F84F-B8B1-49A4-840D-D65CD77A919A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 9106,
+  "clippingMaskMode": 0,
+  "do_objectID": "92928662-F52F-4071-A2F6-2F1B04BFD481",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E0BD0FF4-85FF-4766-A133-7D33C1A5B243",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DEC5FD09-8E7E-4E7F-A4D8-DBE23C5A6E08",
+    "height": 24,
+    "width": 118,
+    "x": -1640,
+    "y": -983
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F692C4F1-8B36-48A8-8947-4567B675D37C"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7849E6D0-27A5-42E4-A180-80FA9088FFA7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A37599A1-B055-430A-98FD-229DC5248A1B"
+    },
+    {
+      "class": "group",
+      "id": "4C65892C-7B69-4310-B5F4-B0B4A62AF904"
+    },
+    {
+      "class": "group",
+      "id": "D2572ABB-2718-49CB-AEF2-3FC857B26334"
+    },
+    {
+      "class": "group",
+      "id": "C86A1ED2-43E1-4A09-A531-FAA450464FDE"
+    },
+    {
+      "class": "group",
+      "id": "A2DED708-1B14-426F-B253-EED0106E5D1E"
+    }
+  ],
+  "name": "Material/Android/Status bar content",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C026B50A-3984-4864-B4F8-E9C392188719_stringValue"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EEE677D0-855C-4534-AFB2-835775B6B60C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3DAF4574-0849-4088-87F8-45325DF9DC6A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DC9156B0-6858-4B86-B473-8A7490AB6CD6",
+    "guides": [
+    ]
+  }
+}

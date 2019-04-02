@@ -95,15 +95,20 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textRegular16W100Left",
+  "name": "textRegular16W87Left",
   "nameIsFixed": true,
   "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "13E8626C-720F-4809-AFBA-04097CF8F64D",
+  "sharedStyleID": "A21F9F1D-6E51-48F7-82F9-8D6345E90A3B",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.87
+    },
     "do_objectID": "41B1451D-AD6D-4927-8CF7-B2E708DB1472",
     "endMarkerType": 0,
     "miterLimit": 10,

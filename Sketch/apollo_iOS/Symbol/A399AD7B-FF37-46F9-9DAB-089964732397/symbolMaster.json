@@ -9,7 +9,7 @@
     "red": 0.5166644590046954
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5583,
+  "changeIdentifier": 5730,
   "clippingMaskMode": 0,
   "do_objectID": "A399AD7B-FF37-46F9-9DAB-089964732397",
   "exportOptions": {
@@ -63,7 +63,7 @@
     "do_objectID": "A6307F79-E027-4735-8C94-D481ECF1DE9C"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -102,12 +102,21 @@
     {
       "class": "text",
       "id": "000D000B-0C1A-4D64-B155-C10888F7175C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF6C891C-FB10-4950-AC09-B2C4CDB58F36"
     }
   ],
   "name": "tutor / profileBasic",
   "nameIsFixed": true,
   "originalObjectID": "F7AA7B6A-81F1-443C-80F5-0F46FE73B0BE",
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DF6C891C-FB10-4950-AC09-B2C4CDB58F36_symbolID"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
