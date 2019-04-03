@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "799321A6-0E20-4986-8408-CF79070FD6E6",
+  "do_objectID": "049EC8D8-451C-4C8F-9889-BA3818B55CE5",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0CCB81BF-01FF-42EB-A7A8-EA96A5A634B1",
+    "do_objectID": "D0B6A524-6955-4084-BBDB-32780074D684",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6E88FE0A-FB46-47D6-854E-406C9251916B",
-    "height": 24,
+    "do_objectID": "E536B4E5-4A56-43F8-89BC-84443ED531BE",
+    "height": 48,
     "width": 360,
     "x": 0,
-    "y": 0
+    "y": 24
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,9 +75,27 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "sys / status bar white",
+  "name": "header / basicIcon",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5A28C865-1953-4A41-A87D-23D768BDA9DB",
+      "overrideName": "B15AC07F-0352-4566-9679-AA20678C4D86_stringValue",
+      "value": "Stats"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4780DF88-21E4-40AF-AD7C-0866F2F3E648",
+      "overrideName": "8C3A6E90-1BA7-44AA-8600-42B4895B9866_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A699636-DA5D-4C32-9C9F-EC1DAE3E6949",
+      "overrideName": "23066DF3-1FD3-4594-AD2B-E4908E5C92F1/7F4ED141-5BEA-4547-83ED-8BF12713F7F2_symbolID",
+      "value": "71EA27F9-44DA-4D5A-98E6-31BE0F38FA42"
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -86,12 +104,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "59A34DC7-86D6-48EE-83D3-1775CAD57837",
+    "do_objectID": "836C2EEA-71BD-4B21-8C63-F73DB689EFD5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A153ABF1-186B-4323-B231-6A0493358F7C",
+  "symbolID": "A64CE8A3-9447-46C3-8A8C-AA9EDFF8C6DD",
   "verticalSpacing": 0
 }

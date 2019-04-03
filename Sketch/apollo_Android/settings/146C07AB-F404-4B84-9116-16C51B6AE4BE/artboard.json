@@ -35,7 +35,7 @@
     "do_objectID": "F1C1EDC7-EA4A-47F0-B987-1F3F9606D7DD"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,11 +56,23 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "5C135E9B-659F-4788-95ED-330799DB1E98"
+      "id": "33BE22D9-902F-4D66-962C-7159F5B99BEA"
     },
     {
       "class": "symbolInstance",
-      "id": "33BE22D9-902F-4D66-962C-7159F5B99BEA"
+      "id": "20CD3C8B-1167-4C2E-A631-BECCF7997F4D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2574B8C6-F150-4CAE-ADAD-71A33521BA61"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0040AB2-2EA9-40B0-A22E-EE6238C2D8B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E029EBA-EFCD-4652-BD08-107887742BE2"
     }
   ],
   "name": "settings / basic",

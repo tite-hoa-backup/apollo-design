@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5C135E9B-659F-4788-95ED-330799DB1E98",
+  "do_objectID": "66A7228C-B444-46CD-A116-9EDF52215BF1",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BA01178D-58CB-429A-829A-7AE4DE745B92",
+    "do_objectID": "6351181E-4D8F-44F7-BEF8-0A5CFBF7B499",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "881363E7-1E4E-47B0-BC8D-89386AE2CC6F",
-    "height": 24,
+    "do_objectID": "088093DE-0D6D-4590-81F5-B7BBBFD96440",
+    "height": 80,
     "width": 360,
     "x": 0,
-    "y": 0
+    "y": 176
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,9 +75,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "sys / status bar white",
+  "name": "list / tutorListEach",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7E9C9520-D8C5-4E76-A68D-C01931D2A8C0",
+      "overrideName": "DB733AA1-ACB6-4F5B-8AA7-29F29FDCC36D/E671C3F2-D686-4368-982E-EAB545D27D90/61531450-0B95-441F-944E-B1FFAF23CBF2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6e1396418980a229c1c7340de14e501d8bc067b2.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BF8753DA-C957-4CF0-92B3-D903A03B1001",
+      "overrideName": "FF812A70-B822-45A8-B84E-D297B7111ADA/FC273CCF-8565-4CEC-8DAD-86BEDD9ED246/0A79F754-4172-444B-B77A-582B24D5BD29_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/bc9653c3760fdcf282e81a1c6afaebf53148a302.png",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -86,12 +106,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "90C66639-D800-4A48-8D22-19C91CE6EAA7",
+    "do_objectID": "7FDC09EB-0D56-4CE2-A736-B017316F4524",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A153ABF1-186B-4323-B231-6A0493358F7C",
+  "symbolID": "247F13BE-F159-4F1A-8E29-2683D5A5BD9A",
   "verticalSpacing": 0
 }

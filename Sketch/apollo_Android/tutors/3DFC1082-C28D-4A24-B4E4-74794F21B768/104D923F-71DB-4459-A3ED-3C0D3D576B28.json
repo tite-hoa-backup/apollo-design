@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7E9A8D72-9B7D-4DD2-9128-A69399FDEB72",
+  "do_objectID": "104D923F-71DB-4459-A3ED-3C0D3D576B28",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6D71897C-77C2-4C45-AC08-8801C25C56D9",
+    "do_objectID": "3E3739A5-D8C6-4351-B2B4-F8F684A7024D",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "547E3B56-7B32-428C-A5EF-3459F6F88F47",
-    "height": 24,
+    "do_objectID": "A0EF09DB-1A01-441D-9249-04FE1435A198",
+    "height": 48,
     "width": 360,
     "x": 0,
-    "y": 0
+    "y": 72
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,9 +75,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "sys / status bar white",
+  "name": "header / searchBefore",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C5F1388F-1F00-488C-B44D-BD105AACA957",
+      "overrideName": "37216FE5-3786-47EB-8665-C71D817B0DB0_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -86,12 +92,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "DBA3FD96-BBA4-4911-A7AB-8574054FEB84",
+    "do_objectID": "B8C3AA1B-80D3-4276-AFFE-B238A71F656C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A153ABF1-186B-4323-B231-6A0493358F7C",
+  "symbolID": "D6727E34-71E5-445C-A960-CC1B7FF71C46",
   "verticalSpacing": 0
 }

@@ -35,7 +35,7 @@
     "do_objectID": "A0FC24F8-F930-4C26-9BA0-34134A245EEC"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,11 +56,23 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "7E9A8D72-9B7D-4DD2-9128-A69399FDEB72"
+      "id": "2F8C218D-495C-4057-9B06-811A8388DB66"
     },
     {
       "class": "symbolInstance",
-      "id": "2F8C218D-495C-4057-9B06-811A8388DB66"
+      "id": "D051375F-FCF7-4A26-A491-B212074C4B87"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B45A9B5A-55B1-4BF5-84CA-3EBB17A13772"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "11E1FA12-9962-4B5F-B465-267BAE7C59AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE215BC9-791D-4B2A-8313-1A986BC671C1"
     }
   ],
   "name": "topics / basic",

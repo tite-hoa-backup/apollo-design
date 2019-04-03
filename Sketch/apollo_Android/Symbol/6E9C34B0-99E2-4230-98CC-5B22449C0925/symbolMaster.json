@@ -8,7 +8,7 @@
     "red": 0.2
   },
   "booleanOperation": 0,
-  "changeIdentifier": 11014,
+  "changeIdentifier": 11023,
   "clippingMaskMode": 0,
   "do_objectID": "6E9C34B0-99E2-4230-98CC-5B22449C0925",
   "exportOptions": {
@@ -73,7 +73,7 @@
     "height": 1,
     "width": 360,
     "x": -1640,
-    "y": -211
+    "y": -139
   },
   "grid": {
     "_class": "simpleGrid",
@@ -87,7 +87,7 @@
     "do_objectID": "B62551AA-39FE-4177-8FDE-7E5CE317D9EA"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

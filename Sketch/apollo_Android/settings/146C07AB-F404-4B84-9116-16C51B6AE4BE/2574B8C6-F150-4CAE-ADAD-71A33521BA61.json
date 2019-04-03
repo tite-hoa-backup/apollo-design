@@ -1,0 +1,139 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2574B8C6-F150-4CAE-ADAD-71A33521BA61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1320FD06-37FD-4168-BD23-4C13CBE24EF8",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "71FA4DCD-317D-48E9-88D7-2EF929E936DB",
+    "height": 56,
+    "width": 360,
+    "x": 0,
+    "y": 536
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tab / bottomTab",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EEB10DB1-A58B-4705-B0F1-CF473CB9FD62",
+      "overrideName": "3A851929-9DC6-4B5C-90D3-63E9C0A3BC9F/0B20C274-40A5-4178-BB76-D5857A8596B4_stringValue",
+      "value": "Tutors"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "61EE3920-F1BB-4C59-AC6A-47410ECB8A5D",
+      "overrideName": "BD80D78D-9A96-49DB-8EEB-2C4AF3D9971D/0B20C274-40A5-4178-BB76-D5857A8596B4_stringValue",
+      "value": "Topics"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B2C783BD-BBEB-428F-9E6F-3C434DCB0737",
+      "overrideName": "91191F4F-06D7-49A2-B706-D75519C66B4F_symbolID",
+      "value": "9B053E96-1D2E-4BAA-B30B-EE69ADE70D3E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1C7C09FA-0AC8-40E4-980C-56932D09A69F",
+      "overrideName": "91191F4F-06D7-49A2-B706-D75519C66B4F/0B20C274-40A5-4178-BB76-D5857A8596B4_stringValue",
+      "value": "Home"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4F749914-E0D4-4133-809E-2F2263DCE8AB",
+      "overrideName": "C0F52117-A26C-4F51-A30B-907249EC66D7_symbolID",
+      "value": "E7EF22C8-878B-4525-9436-9FFC0F6F742D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1A0991B5-5E9D-4D45-8B78-FD541BCC07BB",
+      "overrideName": "C0F52117-A26C-4F51-A30B-907249EC66D7/6794146B-FCEB-48B2-B8AF-D9467CCC154B_stringValue",
+      "value": "Settings"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F4DA8C0F-5AD1-47C1-BAA4-13EFE95DC8AA",
+      "overrideName": "C0F52117-A26C-4F51-A30B-907249EC66D7/7FEA4BCC-A613-4F41-A91B-E983F07BE89E_symbolID",
+      "value": "84A79907-ABFE-485D-8FAA-9526FB534B59"
+    }
+  ],
+  "resizingConstraint": 37,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "86A8C763-9C9F-48E0-B50E-AF293CDD06B9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7777EBF7-612A-4EDF-952D-088A004072EA",
+  "verticalSpacing": 0
+}

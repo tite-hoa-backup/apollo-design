@@ -138,8 +138,8 @@
           "_class": "color",
           "alpha": 1,
           "blue": 1,
-          "green": 1,
-          "red": 1
+          "green": 0.3019607843137255,
+          "red": 0.5176470588235293
         },
         "fillType": 0,
         "gradient": {
@@ -173,7 +173,7 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
