@@ -60,11 +60,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
+    "constrainProportions": true,
     "do_objectID": "C5DEB70C-E456-4477-B548-65ECDF317DE4",
     "height": 64,
     "width": 64,
-    "x": 16,
+    "x": 16.00000000000007,
     "y": 8
   },
   "hasClippingMask": false,

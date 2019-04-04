@@ -60,11 +60,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
+    "constrainProportions": true,
     "do_objectID": "51C0FEE7-57E7-49A0-9C05-C19DFCDF2F95",
     "height": 64,
     "width": 64,
-    "x": 16,
+    "x": 16.0000000000001,
     "y": 8
   },
   "hasClippingMask": false,
@@ -79,7 +79,7 @@
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
