@@ -1,0 +1,111 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "57ACC92E-2A73-4944-857A-50E0A056ECE4",
+    "green": 0.3019607843137255,
+    "red": 0.5176470588235293
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5188665B-DC10-4D74-9938-3620AB7401FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1784565C-623C-4E74-A8FF-D57BF0409A2B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D0C430C9-5C81-45BB-8AE3-318501F5FEAF",
+    "height": 640,
+    "width": 360,
+    "x": -562,
+    "y": -1952
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "514B9F78-1852-48E4-94BD-4363D89A33E4"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C4DD4FE5-26E7-40B6-915A-E3E8D528753D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FF0309A9-A9EC-4CA0-8884-2B8AD25FA9C9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5AF03F67-5B44-4C6D-A8F2-1D2CD9C65BBF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC1DB121-53D3-4E51-BDE0-6A95FCFE8B0C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9A9DFD3B-E7E7-4D63-AE77-3A6C0513C1D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0D79BAF1-8A5D-4A56-BCB2-5C3FC24403E1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "96C81307-E18B-4969-8DA3-C01415E45517"
+    }
+  ],
+  "name": "tutors / searchExampleEmpty",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F3095A22-FFC3-482F-ADCD-AB53CF1750F3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F1A1506C-BE34-44AF-862F-C8C7C13A596F",
+    "guides": [
+    ]
+  }
+}
