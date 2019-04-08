@@ -1,0 +1,134 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7191E943-2428-4E1D-9293-B6185E0872AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 360,
+    "x": 0,
+    "y": 536
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tab / bottomTab",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C0F52117-A26C-4F51-A30B-907249EC66D7/0B20C274-40A5-4178-BB76-D5857A8596B4_stringValue",
+      "value": "Settings"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "91191F4F-06D7-49A2-B706-D75519C66B4F_symbolID",
+      "value": "9B053E96-1D2E-4BAA-B30B-EE69ADE70D3E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "91191F4F-06D7-49A2-B706-D75519C66B4F/0B20C274-40A5-4178-BB76-D5857A8596B4_stringValue",
+      "value": "Home"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3A851929-9DC6-4B5C-90D3-63E9C0A3BC9F/4ECC67E1-6088-402C-B2B8-2CE636E30589_symbolID",
+      "value": "735B6D1C-1B2F-4D61-B292-B1AA49E549B1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3A851929-9DC6-4B5C-90D3-63E9C0A3BC9F/0B20C274-40A5-4178-BB76-D5857A8596B4_stringValue",
+      "value": "Tutors"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BD80D78D-9A96-49DB-8EEB-2C4AF3D9971D_symbolID",
+      "value": "E7EF22C8-878B-4525-9436-9FFC0F6F742D"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BD80D78D-9A96-49DB-8EEB-2C4AF3D9971D/6794146B-FCEB-48B2-B8AF-D9467CCC154B_stringValue",
+      "value": "Cities"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BD80D78D-9A96-49DB-8EEB-2C4AF3D9971D/7FEA4BCC-A613-4F41-A91B-E983F07BE89E_symbolID",
+      "value": "C08B41A0-4B64-4420-8565-ABBDF41ECE62"
+    }
+  ],
+  "resizingConstraint": 37,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7777EBF7-612A-4EDF-952D-088A004072EA",
+  "verticalSpacing": 0
+}

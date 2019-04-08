@@ -1,0 +1,107 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "134F574D-3691-4BDC-B11F-AD243209F8C1",
+    "green": 0.3019607843137255,
+    "red": 0.5176470588235293
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1C31637E-8E42-4819-95D3-D36F5D112D1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EAD052E2-11F3-4BB2-BF68-C2E2E0C45096",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9D0C408C-045A-4B03-9BE5-0C1F1B65A478",
+    "height": 640,
+    "width": 360,
+    "x": 818,
+    "y": -472
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "756BA6A5-5D1D-4760-A3AC-3C0B12F89C0F"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2438E9BE-3360-4611-B0FE-9DDECE544A44",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C71DB6EE-5501-48ED-A749-187FD0FF65BA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0348E035-09C5-43E0-B192-C879E37B559C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3245DC6-3256-4EF4-BD51-0D2F6BA24254"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A1DB258-4557-44C1-9341-872B89962565"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8A242997-143C-42CB-9DF3-A67DDAC3537F"
+    }
+  ],
+  "name": "topics / cities / details",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "222FB1ED-1939-4FFC-9DA1-A663C3619143",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1824229B-8E3F-49C5-9790-76AA49AD08C6",
+    "guides": [
+    ]
+  }
+}

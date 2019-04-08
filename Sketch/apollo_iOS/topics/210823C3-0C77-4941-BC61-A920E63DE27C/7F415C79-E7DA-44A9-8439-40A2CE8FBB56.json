@@ -1,0 +1,100 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7F415C79-E7DA-44A9-8439-40A2CE8FBB56",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A7E0988-DD82-4543-BFD6-F07A6D041CAA",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "06A085F9-51C4-49DE-8F18-FC7DB9A555A8",
+    "height": 80,
+    "width": 375,
+    "x": 0,
+    "y": 156
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / cities / cityEach",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "31AE1F93-3D2A-4877-814E-337C35201D49",
+      "overrideName": "08D498E5-B3F2-4691-AE8B-871ACE5E33C7_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ff03b1a84653d2ce03d19ff33736e00d6cedd4a4.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF0AB811-634D-42EB-A2E9-6BBB103BEBA7",
+      "overrideName": "EDAA533E-7E4F-4158-BEA2-C7CF4FE071A1_stringValue",
+      "value": "Riverside, CA"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "495417F4-F094-4003-9371-7EFA7DA011F3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AB31AE44-912E-421A-8FBD-A5CD7736960E",
+  "userInfo": {
+    "unsplash": {
+      "unsplash.search.term": "\"city\""
+    }
+  },
+  "verticalSpacing": 0
+}

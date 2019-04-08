@@ -1,0 +1,127 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "23CFA475-1050-46EE-9132-BBBDF954654F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EB0F02F6-6A11-4B88-B1AC-FE895D4EE8F0",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "642EDDE8-DA3E-4665-87A8-BCE2A4C85C68",
+    "height": 105,
+    "width": 360,
+    "x": 0,
+    "y": 489
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / subscriptionRadioForm / withBadge",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AFC5B389-76A4-48DD-8C55-5A775446A767",
+      "overrideName": "98E9844D-9C1C-4334-8123-201862C5EDBA_symbolID",
+      "value": "A0E2DEEE-2C91-4EB8-84F1-5F6A8BF86F09"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98564276-6F24-4C71-8CE4-8204F1EF8B0F",
+      "overrideName": "B75DF8AE-A65E-462B-8B7B-1C7F97A0115A_stringValue",
+      "value": "₩ 146,250"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E462B5C3-203F-41B9-AE2C-745E65B0EAF1",
+      "overrideName": "B74BBD07-6C8E-499C-BCCC-5D75C567D604_stringValue",
+      "value": "Renews every 6 months"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F409EBF0-7016-486F-8C08-3E56F4CA48E1",
+      "overrideName": "E8B44B07-C9CE-43E2-B34C-94FBCAC18267_stringValue",
+      "value": "6 Months"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B128699A-4C82-40B9-BA96-5C93057CDD41",
+      "overrideName": "98E9844D-9C1C-4334-8123-201862C5EDBA/8319E862-7AA8-49D7-B5CF-1C72F42AFB3A/D5943A56-151F-40D4-83B2-8F0A5100B644_stringValue",
+      "value": "Save 25%"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "28F442B1-8571-4DDF-BE1E-35981C61324A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BF6E9E86-181E-4B15-8C53-201A42627F40",
+  "verticalSpacing": 0
+}

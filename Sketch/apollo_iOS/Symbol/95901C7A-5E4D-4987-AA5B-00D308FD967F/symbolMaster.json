@@ -9,7 +9,7 @@
     "red": 0.5166644590046954
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5297,
+  "changeIdentifier": 5309,
   "clippingMaskMode": 0,
   "do_objectID": "95901C7A-5E4D-4987-AA5B-00D308FD967F",
   "exportOptions": {
@@ -63,7 +63,7 @@
     "do_objectID": "BFE9F537-5585-44F3-8C4C-8215D39B4A09"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -104,7 +104,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "C0A35555-12BC-430C-8D79-F917D4BF0431_stringValue"
+      "overrideName": "C0A35555-12BC-430C-8D79-F917D4BF0431_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -114,7 +114,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "C0A35555-12BC-430C-8D79-F917D4BF0431_textStyle"
+      "overrideName": "C0A35555-12BC-430C-8D79-F917D4BF0431_stringValue"
     }
   ],
   "resizesContent": true,

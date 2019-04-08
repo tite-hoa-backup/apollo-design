@@ -1,0 +1,100 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "669362D4-EB5A-4BCE-9722-F34A5FBD3157",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E09DFC2-DBAB-4DC6-9F65-6ECB68FFB639",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F0D2B9D3-A930-46E5-BCE4-E4A87CFE3B91",
+    "height": 80,
+    "width": 375,
+    "x": 0,
+    "y": 316
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / cities / cityEach",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2C2A5BD6-2BAE-4344-B753-52C2C577136D",
+      "overrideName": "08D498E5-B3F2-4691-AE8B-871ACE5E33C7_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cff824d5889fbb47426cf12e8b0b21fbb6b1992e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2AB91828-E3F8-48D6-8F06-A13A9FD6A378",
+      "overrideName": "EDAA533E-7E4F-4158-BEA2-C7CF4FE071A1_stringValue",
+      "value": "New York City, NY"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "33D1E296-EE5F-45B5-8DA5-75F90D9A8685",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AB31AE44-912E-421A-8FBD-A5CD7736960E",
+  "userInfo": {
+    "unsplash": {
+      "unsplash.search.term": "\"city\""
+    }
+  },
+  "verticalSpacing": 0
+}

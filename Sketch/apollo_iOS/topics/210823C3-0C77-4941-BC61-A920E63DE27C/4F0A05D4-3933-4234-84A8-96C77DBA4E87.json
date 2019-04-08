@@ -1,0 +1,111 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4F0A05D4-3933-4234-84A8-96C77DBA4E87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 611
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tab / bottomTab",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "588001C9-BF85-4825-AE18-DD272CDE209C_symbolID",
+      "value": "52CA06B3-983C-47CB-94A1-8A18F3026913"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "588001C9-BF85-4825-AE18-DD272CDE209C/9E158DAF-CC69-43C7-96E1-183D8B501D8E_stringValue",
+      "value": "Home"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "25DD35E2-254C-429A-B490-919C6BFF7CA8/FAB2C00D-2395-408B-AD04-830E68507912_symbolID",
+      "value": "F4557235-BF4C-4FE9-AF84-2D00E60B1010"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "25DD35E2-254C-429A-B490-919C6BFF7CA8/9E158DAF-CC69-43C7-96E1-183D8B501D8E_stringValue",
+      "value": "Tutors"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9CAE5E32-8163-4848-92DC-71A973D130DD_symbolID",
+      "value": "EB27C164-041C-4EA6-962F-5E5C18470473"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9CAE5E32-8163-4848-92DC-71A973D130DD/04FAAC53-787B-4E14-8167-9B7E29BD4A16_stringValue",
+      "value": "Cities"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9CAE5E32-8163-4848-92DC-71A973D130DD/7DC10B72-5A84-458F-92AC-E149A506510D_symbolID",
+      "value": "AE0486F9-21F7-40BE-BF05-A7BD8CC6C6FE"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1B772BFD-8819-4B04-B702-1AEC10053146",
+  "verticalSpacing": 0
+}

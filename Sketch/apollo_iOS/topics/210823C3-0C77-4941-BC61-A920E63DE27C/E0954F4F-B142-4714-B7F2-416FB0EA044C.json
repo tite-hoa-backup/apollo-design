@@ -1,0 +1,100 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E0954F4F-B142-4714-B7F2-416FB0EA044C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DCA98FDF-B214-4D75-9D74-AED467F0EBF1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "610822EF-3D3E-4BEF-92E6-2DC2F185573C",
+    "height": 80,
+    "width": 375,
+    "x": 0,
+    "y": 236
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / cities / cityEach",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F1D26EB6-4508-482A-90E5-BAD7E26138B7",
+      "overrideName": "08D498E5-B3F2-4691-AE8B-871ACE5E33C7_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1eff23e74f1d1cb540cf5a28d6e7016446222f4c.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA1E8DA8-8FEA-4EED-A7A1-3ADFF57983F8",
+      "overrideName": "EDAA533E-7E4F-4158-BEA2-C7CF4FE071A1_stringValue",
+      "value": "Dallas, TX"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EC5687EF-8FF4-462C-AAF0-8284C64067E9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AB31AE44-912E-421A-8FBD-A5CD7736960E",
+  "userInfo": {
+    "unsplash": {
+      "unsplash.search.term": "\"city\""
+    }
+  },
+  "verticalSpacing": 0
+}
