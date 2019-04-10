@@ -1,0 +1,161 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.2,
+    "do_objectID": "1B3D2207-7F1C-4A11-BA09-AD689B1FD38B",
+    "green": 0.2,
+    "red": 0.2
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 374,
+  "clippingMaskMode": 0,
+  "do_objectID": "E346C480-8BE2-4945-B8BB-63F36918780B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "389D5AE4-97AF-44BD-9125-CC69F42A4236",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B36E203C-8DC5-4E91-812C-51FD01C8638A",
+    "height": 164,
+    "width": 360,
+    "x": -215,
+    "y": 141
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "03871A43-2F05-4215-992B-FA0383963582"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C4221633-4FE2-47AF-8610-6181BA26954E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2DDF1D22-D2A3-4CA9-A9FA-A516BFA6B7DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "36702E6E-9406-4EE4-BB9B-9FFCD71D9F2D"
+    },
+    {
+      "class": "text",
+      "id": "30578002-C2E2-4C13-AA8B-3CDA0CAD0672"
+    },
+    {
+      "class": "oval",
+      "id": "C569794B-4D91-4D4C-ABA6-66061478544D"
+    }
+  ],
+  "name": "list / cities / attractions2Lines",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2DDF1D22-D2A3-4CA9-A9FA-A516BFA6B7DF_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "30578002-C2E2-4C13-AA8B-3CDA0CAD0672_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "30578002-C2E2-4C13-AA8B-3CDA0CAD0672_textStyle"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B67B8C0A-1A2E-4109-AE49-7331A4FD4340",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7C0F7A43-2DEF-4BDC-98BF-72C6F1D1B1D0",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "21CF3698-56EB-4EEF-9EB8-B1075D482449",
+    "guides": [
+    ]
+  }
+}

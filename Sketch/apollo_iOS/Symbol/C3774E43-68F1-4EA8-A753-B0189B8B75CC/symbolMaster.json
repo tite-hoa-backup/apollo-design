@@ -1,0 +1,142 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.2,
+    "green": 0.2,
+    "red": 0.2
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 246,
+  "clippingMaskMode": 0,
+  "do_objectID": "C3774E43-68F1-4EA8-A753-B0189B8B75CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4386FD4A-F225-4592-A5C6-165BB074467E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B1596CA-537D-44CE-8BAB-5E9BE0F4D260",
+    "height": 164,
+    "width": 375,
+    "x": 1340,
+    "y": 440
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "718497D7-D302-42C9-93BE-EB321BC4A3D7"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9BE8837A-C771-456F-9655-75B43780C319",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8E025D53-6C49-4945-888E-EC23058DC94D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "47C7DA20-A444-4B3C-A72A-63D164EC085F"
+    },
+    {
+      "class": "text",
+      "id": "1A505220-74B2-49B6-BC03-DE7E18CC7670"
+    },
+    {
+      "class": "oval",
+      "id": "EA030EE7-F7DF-4AA6-8AAB-4E462C51597D"
+    }
+  ],
+  "name": "list / cities / attractions",
+  "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1A505220-74B2-49B6-BC03-DE7E18CC7670_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8E025D53-6C49-4945-888E-EC23058DC94D_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1A505220-74B2-49B6-BC03-DE7E18CC7670_textStyle"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "14AD06CA-EBA3-4121-A812-0CB55B716BB8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E38B48B4-3EE2-43F0-8DDA-F590AA7C6836",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5A91D255-B353-4975-94EB-98EEABD43A01",
+    "guides": [
+    ]
+  }
+}

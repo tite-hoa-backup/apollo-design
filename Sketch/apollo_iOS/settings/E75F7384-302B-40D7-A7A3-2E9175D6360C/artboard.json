@@ -56,18 +56,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "A437A12C-1F83-44D0-B93A-5123FAF0C551"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F949A7C7-4FF3-405F-AA3C-A97682F2E4A8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "069D230C-03D4-4628-8107-61785B10D7A5"
-    },
-    {
-      "class": "symbolInstance",
       "id": "F7961018-E290-4416-96E9-FCA6B1BF5030"
     },
     {
@@ -115,12 +103,68 @@
       "id": "AE52A991-06E0-4223-B6C3-A1CAAA0327CA"
     },
     {
+      "class": "symbolInstance",
+      "id": "BF89D1CC-EB79-4586-9278-D27ABC23114A"
+    },
+    {
+      "class": "rectangle",
+      "id": "D4CC4912-8DB6-44BF-BD87-AB318239C0BA"
+    },
+    {
+      "class": "text",
+      "id": "CD1110D4-305E-4D8F-B32C-630212C00DBB"
+    },
+    {
+      "class": "rectangle",
+      "id": "4771500E-6D55-43D7-8802-8D49C2ACCDB5"
+    },
+    {
+      "class": "text",
+      "id": "2F8F7B92-520A-4AD0-A445-FA01D7926636"
+    },
+    {
+      "class": "rectangle",
+      "id": "A425AB02-86DB-4BE9-9E28-DDE47FD64644"
+    },
+    {
+      "class": "text",
+      "id": "9B995650-80CD-411E-B9AD-896282D0BAC8"
+    },
+    {
+      "class": "rectangle",
+      "id": "8047F098-A726-473A-8D0C-587B3557D64E"
+    },
+    {
+      "class": "text",
+      "id": "1CEC2517-3D3C-4878-A224-AADF4C254329"
+    },
+    {
+      "class": "rectangle",
+      "id": "D8B13279-AF10-4876-B0BE-1C6A1B737545"
+    },
+    {
+      "class": "text",
+      "id": "47EBD935-A69F-4D53-92CB-E56687B46BDB"
+    },
+    {
       "class": "rectangle",
       "id": "1714F377-4809-4AEC-9CE6-F00ABDF4E66A"
     },
     {
       "class": "text",
       "id": "9B12F988-D248-45A9-A306-586B551A19C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A437A12C-1F83-44D0-B93A-5123FAF0C551"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F949A7C7-4FF3-405F-AA3C-A97682F2E4A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "069D230C-03D4-4628-8107-61785B10D7A5"
     }
   ],
   "name": "settings / messages / details",

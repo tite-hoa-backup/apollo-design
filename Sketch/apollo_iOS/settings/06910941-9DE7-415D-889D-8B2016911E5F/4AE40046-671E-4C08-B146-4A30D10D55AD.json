@@ -1,0 +1,106 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4AE40046-671E-4C08-B146-4A30D10D55AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 168,
+    "width": 270,
+    "x": 53,
+    "y": 250
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Alerts/Default 3 Lines",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B71E5B4-524D-428D-A8DA-5F906F738A1D",
+      "overrideName": "CC642EF5-EC7F-46A4-A317-BFF296272075_symbolID",
+      "value": "9E1D5F6A-2460-4383-97F2-0AD7D13CA40B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "61EEF1D2-02A6-4262-A235-A5090CCEBF1C",
+      "overrideName": "CC642EF5-EC7F-46A4-A317-BFF296272075/ED64F631-18C6-4128-A259-A3970413B960_stringValue",
+      "value": "Rate Now"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4A40178F-C68E-41A1-ADCA-62417CEDAB54",
+      "overrideName": "CC642EF5-EC7F-46A4-A317-BFF296272075/A7994B38-555F-4611-B08D-8AD14CCBD63B_stringValue",
+      "value": "Maybe Later"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A681D19D-6AF5-4485-9BC8-039901377779",
+      "overrideName": "0D78BE43-F577-4FD5-8E2B-06D02CAE4E15_stringValue",
+      "value": "Rate Apollo"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5AC5B5DF-EC63-4203-9827-05CB2217DCFF",
+      "overrideName": "64B4DFD0-96F8-45C1-BD26-9C9D980BCF31_stringValue",
+      "value": "If you enjoy using Apollo, please take a moment to rate this app. Thanks for your support!"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8CF23770-A589-4E94-94ED-5BD4FA2BB329",
+  "verticalSpacing": 0
+}
