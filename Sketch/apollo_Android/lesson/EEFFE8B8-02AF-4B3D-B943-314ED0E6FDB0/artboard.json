@@ -59,48 +59,24 @@
       "id": "BC96C6E4-A6CC-4A1C-8B18-5C2902B08F0B"
     },
     {
-      "class": "symbolInstance",
-      "id": "B3E77CD5-0B60-4AF8-8271-C38A0BD8BCC5"
-    },
-    {
       "class": "rectangle",
       "id": "95D7C272-278B-4B5F-BF8F-5DE6B5E5048D"
     },
     {
+      "class": "symbolInstance",
+      "id": "B4713E37-E025-4366-9833-CFB63AADFC35"
+    },
+    {
+      "class": "rectangle",
+      "id": "B20A1761-6571-4566-BD77-E7BBE2C73FF7"
+    },
+    {
+      "class": "text",
+      "id": "31AD57A4-DD4B-4F82-9A11-0D6522ABF881"
+    },
+    {
       "class": "text",
       "id": "6A65AC50-9D9A-4E69-B75D-CA2CAFBE4ABB"
-    },
-    {
-      "class": "rectangle",
-      "id": "FADEF299-8368-4919-9495-3585794C91EC"
-    },
-    {
-      "class": "text",
-      "id": "18B80866-1571-4C4B-977B-A0CC20969F25"
-    },
-    {
-      "class": "rectangle",
-      "id": "FF1FBB58-5A10-4241-8230-07E79F033E7C"
-    },
-    {
-      "class": "text",
-      "id": "054FB101-E4FC-4B98-BFBB-07BDADA45107"
-    },
-    {
-      "class": "rectangle",
-      "id": "01A26B3D-71E6-4B2F-A8DB-A59B499F5FCC"
-    },
-    {
-      "class": "text",
-      "id": "D4537400-20C8-4034-8063-FF32F842727F"
-    },
-    {
-      "class": "rectangle",
-      "id": "5701473E-FFD9-44F6-97D3-15C67AC9E8F5"
-    },
-    {
-      "class": "text",
-      "id": "4CB4B430-7F17-4C46-ADA5-69B6F7520FCC"
     },
     {
       "class": "symbolInstance",
@@ -112,11 +88,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "E9B75871-9AA8-48BF-B564-5E95A90DBF53"
+      "id": "DCA12DA9-969B-4222-B14A-E844DDA723DA"
     },
     {
       "class": "symbolInstance",
-      "id": "DCA12DA9-969B-4222-B14A-E844DDA723DA"
+      "id": "B247E554-EF88-4A77-B7E9-685AF17BAC03"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E9B75871-9AA8-48BF-B564-5E95A90DBF53"
     }
   ],
   "name": "lesson / basicChatKbdUp",
