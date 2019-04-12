@@ -29,11 +29,11 @@
             "minimumLineHeight": 32
           }
         },
-        "length": 62,
+        "length": 59,
         "location": 0
       }
     ],
-    "string": "What kinds of activities\nare you currently most\ninterested in?"
+    "string": "Answer the following questions to find your learning style."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -86,7 +86,7 @@
     "x": 16,
     "y": 84
   },
-  "glyphBounds": "{{1, 6}, {282, 84}}",
+  "glyphBounds": "{{0, 6}, {264, 88}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,7 +95,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textBold24W100Left",
+  "name": "Answer the following",
   "nameIsFixed": false,
   "resizingConstraint": 13,
   "resizingType": 0,
