@@ -1,5 +1,6 @@
 {
   "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -129,7 +130,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "E6B2CAF3-BA42-4738-9A90-E1698C2CA331_textStyle"
+      "overrideName": "4AD78331-DA7E-4505-9D5C-61C841BD5438_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -139,7 +140,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "875E0A5C-05FF-416F-99D5-964301FED2C6_textStyle"
+      "overrideName": "E6B2CAF3-BA42-4738-9A90-E1698C2CA331_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -154,12 +155,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "4CA42DCA-8A45-4E5A-A9B3-B65C032625E9_textStyle"
+      "overrideName": "875E0A5C-05FF-416F-99D5-964301FED2C6_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "4AD78331-DA7E-4505-9D5C-61C841BD5438_textStyle"
+      "overrideName": "4CA42DCA-8A45-4E5A-A9B3-B65C032625E9_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

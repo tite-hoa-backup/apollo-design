@@ -62,10 +62,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F761DC99-9464-44FD-B6E1-56FDF48216F9",
-    "height": 48,
+    "height": 72,
     "width": 360,
     "x": 0,
-    "y": 376
+    "y": 352
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,14 +75,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / checkboxWhite",
-  "nameIsFixed": false,
+  "name": "list / checkboxWhite2Lines",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "8DDE6581-F2E4-4515-82E3-8D4EDDEE8E43",
-      "overrideName": "D95FB181-45BE-4368-86BC-16F2DDB70A65_stringValue",
-      "value": "Discuss complex topics"
+      "do_objectID": "33B7138B-54F6-46CF-AA35-02996B8AEBE9",
+      "overrideName": "788CA8BA-A28F-45F9-A450-556571405C99_stringValue",
+      "value": "I have a hard time explaining how I come up with my answers"
     }
   ],
   "resizingConstraint": 13,
@@ -98,6 +98,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "628F3A4F-6894-42E0-8F8D-60012F50F297",
+  "symbolID": "9366D1DC-7FF8-4A2F-AE94-6BBCD9700644",
   "verticalSpacing": 0
 }

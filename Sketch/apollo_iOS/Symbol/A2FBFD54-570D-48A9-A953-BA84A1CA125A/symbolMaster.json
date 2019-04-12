@@ -1,5 +1,6 @@
 {
   "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -9,7 +10,7 @@
     "red": 0.5166644590046954
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6457,
+  "changeIdentifier": 6459,
   "clippingMaskMode": 0,
   "do_objectID": "A2FBFD54-570D-48A9-A953-BA84A1CA125A",
   "exportOptions": {
@@ -56,14 +57,14 @@
     "height": 105,
     "width": 375,
     "x": 390,
-    "y": 488
+    "y": 656
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "B4883C46-4B45-4771-9C58-216297AE1AA1"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

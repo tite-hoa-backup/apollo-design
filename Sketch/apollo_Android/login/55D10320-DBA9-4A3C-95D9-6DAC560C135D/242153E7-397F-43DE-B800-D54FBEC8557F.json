@@ -62,10 +62,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "34DB40EF-FE24-4170-AA61-8F7B323AE1C9",
-    "height": 48,
+    "height": 72,
     "width": 360,
     "x": 0,
-    "y": 280
+    "y": 232
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,14 +75,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / checkboxWhite",
-  "nameIsFixed": false,
+  "name": "list / checkboxWhite2Lines",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "2B3DAAD3-25EF-4F85-8B37-F72325D6D43C",
-      "overrideName": "D95FB181-45BE-4368-86BC-16F2DDB70A65_stringValue",
-      "value": "Get used to speaking in English"
+      "do_objectID": "EE314794-5940-429A-A500-C6E45D80A393",
+      "overrideName": "788CA8BA-A28F-45F9-A450-556571405C99_stringValue",
+      "value": "I think mainly in pictures instead of words"
     }
   ],
   "resizingConstraint": 13,
@@ -98,6 +98,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "628F3A4F-6894-42E0-8F8D-60012F50F297",
+  "symbolID": "9366D1DC-7FF8-4A2F-AE94-6BBCD9700644",
   "verticalSpacing": 0
 }

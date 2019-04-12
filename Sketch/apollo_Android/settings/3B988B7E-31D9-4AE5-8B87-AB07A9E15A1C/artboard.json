@@ -35,7 +35,7 @@
     "do_objectID": "A0B0EB2B-65E5-455B-9341-B9210050CE33"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,6 +65,22 @@
     {
       "class": "symbolInstance",
       "id": "049EC8D8-451C-4C8F-9889-BA3818B55CE5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "383E99F4-C0A5-45E3-9986-CD1AD7926474"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7474B619-1B5C-4026-A8D4-73A49B167B91"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF91BB21-80AD-44A0-990A-E77248536536"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "794FFDC3-E551-41F6-AE60-E9204D16D12E"
     }
   ],
   "name": "settings / stats / basic",

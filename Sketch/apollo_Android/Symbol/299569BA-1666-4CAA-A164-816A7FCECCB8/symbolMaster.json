@@ -1,5 +1,6 @@
 {
   "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -9,7 +10,7 @@
     "red": 0.5166644590046954
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5076,
+  "changeIdentifier": 5080,
   "clippingMaskMode": 0,
   "do_objectID": "299569BA-1666-4CAA-A164-816A7FCECCB8",
   "exportOptions": {
@@ -117,7 +118,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "6AB824F9-850E-48D8-B757-64C425B199D2_symbolID"
+      "overrideName": "D95FB181-45BE-4368-86BC-16F2DDB70A65_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -127,7 +128,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "D95FB181-45BE-4368-86BC-16F2DDB70A65_stringValue"
+      "overrideName": "6AB824F9-850E-48D8-B757-64C425B199D2_symbolID"
     }
   ],
   "resizesContent": true,

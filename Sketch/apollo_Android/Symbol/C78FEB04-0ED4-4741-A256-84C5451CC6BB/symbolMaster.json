@@ -1,5 +1,6 @@
 {
   "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -113,12 +114,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "EB0C3F6E-0918-4512-8BDE-5B60F261C683_stringValue"
+      "overrideName": "86A741AE-B3F4-4309-93A6-8D824BDC1BE0_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "86A741AE-B3F4-4309-93A6-8D824BDC1BE0_image"
+      "overrideName": "EB0C3F6E-0918-4512-8BDE-5B60F261C683_stringValue"
     }
   ],
   "resizesContent": false,
