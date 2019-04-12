@@ -35,7 +35,7 @@
     "do_objectID": "733573C2-2E52-4FA9-BD11-526FD59E9E22"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -73,6 +73,10 @@
     {
       "class": "symbolInstance",
       "id": "1F2FDEE6-94AB-49BB-8C8E-D6B182FC917A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "21DF0866-C872-4383-8E72-758D6F1C2A81"
     }
   ],
   "name": "settings / reservations / basicEmpty",

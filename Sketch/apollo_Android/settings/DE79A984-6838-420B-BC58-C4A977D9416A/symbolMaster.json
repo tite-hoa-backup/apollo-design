@@ -9,7 +9,7 @@
     "red": 0.5176470588235293
   },
   "booleanOperation": -1,
-  "changeIdentifier": 566,
+  "changeIdentifier": 648,
   "clippingMaskMode": 0,
   "do_objectID": "DE79A984-6838-420B-BC58-C4A977D9416A",
   "exportOptions": {
@@ -50,12 +50,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "5CF0F93E-9BC8-4390-8ECD-87141DA2155A"
-    },
     {
       "class": "symbolInstance",
       "id": "8E73AD86-8085-4AA3-B197-376FBEAF3EC6"
@@ -83,6 +79,10 @@
     {
       "class": "symbolInstance",
       "id": "6352A923-4B8D-40B4-9389-B8563AABAE4D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF0C516A-A7CE-4884-BD1C-7B65B66A23F8"
     },
     {
       "class": "symbolInstance",

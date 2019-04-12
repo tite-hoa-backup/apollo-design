@@ -1,0 +1,109 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4BA88424-4027-4729-8CF5-C03C3E4E914E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "72A75703-345F-4A07-A764-5E1A09542CE0",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5068A35A-8720-43B9-AB67-1D4A459B595B",
+    "height": 147,
+    "width": 270,
+    "x": 53,
+    "y": 260
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Alerts/Default 3 Lines",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C43251C0-291F-4B8C-9ADB-575D510291A7",
+      "overrideName": "644812AD-9C06-4652-8BAE-1D43D0CDB587_symbolID",
+      "value": "F1992D80-510F-43DC-81AB-87064F278099"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AAFBEB88-F4E0-4C01-B51B-3114865D6350",
+      "overrideName": "04762018-F3AF-4C33-8DBC-5A87C8784CA6_stringValue",
+      "value": "The lesson is not finished yet. Would you really quit the lesson?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "51EEA8AF-217B-4FB5-A633-2A47772CBEFE",
+      "overrideName": "8062EF23-4F2D-4661-A3A7-5565AA3AA13D_stringValue",
+      "value": "Quit Lesson"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E78CA522-976B-4E40-BC20-24131E2982B7",
+      "overrideName": "644812AD-9C06-4652-8BAE-1D43D0CDB587/C642492D-EBFF-4080-92FD-4613D6266AB9_stringValue",
+      "value": "Cancel"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1600C5B3-F74C-4267-8636-5420F872E8CF",
+      "overrideName": "644812AD-9C06-4652-8BAE-1D43D0CDB587/26383E80-711F-4595-99C0-399A477666C3_stringValue",
+      "value": "Quit"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C21212C4-F1D7-4DA0-9FF3-511016BE07CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3B142148-4529-464A-A8DC-C7B523220F2E",
+  "verticalSpacing": 0
+}

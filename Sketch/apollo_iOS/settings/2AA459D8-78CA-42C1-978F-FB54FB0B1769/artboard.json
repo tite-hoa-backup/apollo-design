@@ -35,7 +35,7 @@
     "do_objectID": "DD921C7D-1A66-4729-B71F-0DCE4BBF0324"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -69,6 +69,10 @@
     {
       "class": "symbolInstance",
       "id": "EA912DE2-E7D8-4734-BBCC-81544DE84E60"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D04200AF-04AD-4AE2-ACF5-F219C13EC646"
     }
   ],
   "name": "settings / history / basicEmpty",
