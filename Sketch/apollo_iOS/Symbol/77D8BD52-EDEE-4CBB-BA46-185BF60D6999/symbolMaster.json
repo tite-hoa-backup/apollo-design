@@ -1,0 +1,159 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 5118,
+  "clippingMaskMode": 0,
+  "do_objectID": "77D8BD52-EDEE-4CBB-BA46-185BF60D6999",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8B1866B5-5D3F-455E-B87F-9DE7BCD87D52",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C23B4283-7BBD-4735-AB24-2F2C512AE800",
+    "height": 211,
+    "width": 375,
+    "x": -1035,
+    "y": 1517
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "1ED78ED2-32F0-439D-BEEE-12F90CEB090D"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D8001F68-FE9E-4D7E-ACDB-E5770A520587",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "21B86125-FA14-4D06-AE1C-089A8204DC74"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3922D6EE-3BD1-4D23-98BC-4912AD131917"
+    },
+    {
+      "class": "text",
+      "id": "1DAC23BC-1B03-45AB-9CF6-FD2A83486FCF"
+    },
+    {
+      "class": "text",
+      "id": "90B742EE-A87F-496A-8DCC-8BBCA1E3BEE3"
+    }
+  ],
+  "name": "misc / lessonWating",
+  "nameIsFixed": true,
+  "originalObjectID": "F7AA7B6A-81F1-443C-80F5-0F46FE73B0BE",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1DAC23BC-1B03-45AB-9CF6-FD2A83486FCF_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "90B742EE-A87F-496A-8DCC-8BBCA1E3BEE3_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3922D6EE-3BD1-4D23-98BC-4912AD131917_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1DAC23BC-1B03-45AB-9CF6-FD2A83486FCF_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "90B742EE-A87F-496A-8DCC-8BBCA1E3BEE3_stringValue"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "50F75B0B-A875-4943-80B6-EF25608EC4BC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EBD06A56-A146-43B7-8461-B9958AECCBAB",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A3045A04-9E2C-49B5-AF8A-45FEA6AAE0B8",
+    "guides": [
+    ]
+  }
+}

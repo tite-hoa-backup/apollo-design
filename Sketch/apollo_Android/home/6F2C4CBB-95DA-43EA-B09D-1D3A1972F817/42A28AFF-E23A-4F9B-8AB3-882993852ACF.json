@@ -2,17 +2,17 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "05EE8817-CD54-4177-9946-A749AA458181",
+  "do_objectID": "42A28AFF-E23A-4F9B-8AB3-882993852ACF",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "2125C4E3-D261-402E-A7AC-66199575C6C8",
+    "do_objectID": "EE05EB4C-05F0-4D7F-B699-143449CF211C",
     "exportFormats": [
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
+        "name": "mdpi/",
+        "namingScheme": 1,
         "scale": 1,
         "visibleScaleType": 0
       },
@@ -20,8 +20,17 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
         "scale": 2,
         "visibleScaleType": 0
       },
@@ -29,9 +38,18 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "@3x",
-        "namingScheme": 0,
+        "name": "xxhdpi/",
+        "namingScheme": 1,
         "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
         "visibleScaleType": 0
       }
     ],
@@ -43,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F5FD6077-A9CF-4CCF-BB7B-6897CDA99D57",
-    "height": 48,
-    "width": 375,
+    "do_objectID": "EA8C7195-8659-4FF8-AF6B-98434D8CC166",
+    "height": 224,
+    "width": 360,
     "x": 0,
-    "y": 0
+    "y": 368
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,7 +75,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "form / underlineBefore",
+  "name": "sys / kbd",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -68,12 +86,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "34E3398C-4C2A-4660-B4F4-A3C38AAA8CEE",
+    "do_objectID": "336033E1-C4FC-425E-9AD7-13760D9B3F69",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B2F5CB0C-964D-465B-AAEB-0930BA4828B5",
+  "symbolID": "376EF82A-A970-4701-B4CE-626ABBDCA789",
   "verticalSpacing": 0
 }

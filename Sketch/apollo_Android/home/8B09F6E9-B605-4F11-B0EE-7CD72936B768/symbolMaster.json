@@ -9,7 +9,7 @@
     "red": 0.5176470588235293
   },
   "booleanOperation": -1,
-  "changeIdentifier": 249,
+  "changeIdentifier": 412,
   "clippingMaskMode": 0,
   "do_objectID": "8B09F6E9-B605-4F11-B0EE-7CD72936B768",
   "exportOptions": {
@@ -33,7 +33,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -92,6 +92,51 @@
   "name": "home / basic",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "71ED8EA2-B52E-4299-BDC1-3C6D115C8A5C_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2B6093AB-281F-496F-ABFE-7E57F5345AA9_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "91BE807E-27F2-4EBA-9300-DEE0B8ED0737_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C0D48245-4725-40E7-BCE8-83CC52C9E0FF_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4CAF6158-8F40-4810-B0D9-40DF5108C8B7_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "51524E23-2591-438E-BEF5-8EB388201A29_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6FF2BAF2-FC4E-49C9-A39E-CF4BC66D481C_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "804743D4-900F-4E73-9780-6BB44A8C1A97_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C0446134-D6C7-47E5-BD8C-FCD02C9D7298_symbolID"
+    }
   ],
   "resizesContent": true,
   "resizingConstraint": 63,

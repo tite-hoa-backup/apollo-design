@@ -1,0 +1,127 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4D1DD68D-7959-476A-9AD1-156DFC0CEB9B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7A672646-F3DD-4DDE-AE3E-B4999E009B0A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EA76CAD0-AE1D-4281-8133-5B297B656A3B",
+    "height": 168,
+    "width": 270,
+    "x": 45,
+    "y": 236
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Alerts/Default 3 Lines",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B75D8ABD-5A99-4180-96F6-3664F2D987C4",
+      "overrideName": "19C087DD-71FA-4A50-BC5B-68F8AFE5B6A1_symbolID",
+      "value": "A80AC2E8-2354-40A6-B217-41457A65A91C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CB9F5466-AD07-4F47-8F10-EA7D2CD1FEA9",
+      "overrideName": "19C087DD-71FA-4A50-BC5B-68F8AFE5B6A1/7A64E212-FD9F-4269-8C2B-743BE17BBFD2_stringValue",
+      "value": "Yes"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "26FCDD8A-52BA-482E-B7B5-751E2ED9354B",
+      "overrideName": "19C087DD-71FA-4A50-BC5B-68F8AFE5B6A1/9B429078-3980-42A6-928F-AB483A345CE2_stringValue",
+      "value": "No"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9CD8AC87-37BF-425B-930B-06FACF2B200C",
+      "overrideName": "A21BFF37-E3C5-47AC-8125-DA572959BB7A_stringValue",
+      "value": "Tutor not available"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A2E5160-87F9-44C5-9E43-5458C60E1A2D",
+      "overrideName": "6139CB06-F058-4F53-AFEC-BD7DFF9715BD_stringValue",
+      "value": "Tutor's name isn't available yet. Would you like to invite other tutors to practice with you?"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C1719075-A363-4800-B65D-A062A3B0F7F1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7F1A9931-D4E7-49C5-9740-0D625D39B8E0",
+  "verticalSpacing": 0
+}
