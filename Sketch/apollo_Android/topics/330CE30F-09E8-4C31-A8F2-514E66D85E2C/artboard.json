@@ -1,0 +1,123 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C145A557-8F7B-436D-8D83-6FA80A2776C4",
+    "green": 0.3019607843137255,
+    "red": 0.5176470588235293
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "330CE30F-09E8-4C31-A8F2-514E66D85E2C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "92EF5E8C-44C1-4CBD-AD7A-9A9BF32D4282",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0EAFC87C-EC34-4DB9-9662-B23747EB400D",
+    "height": 640,
+    "width": 360,
+    "x": 3118,
+    "y": 1008
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "666ABB77-E94E-4195-A5A3-43186EC3C2D2"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CCFE9A52-1598-4B87-9CE4-E9B6797AC1B6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2B8575A7-D32A-498D-A02E-5BABD8F7A91D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "078CD170-F60C-4095-A214-BC9935E3612C"
+    },
+    {
+      "class": "text",
+      "id": "9ADA2874-CF21-4B31-89AE-65C0B94EECD0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F495B72-194C-45DC-BB27-5404B7461B57"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D02E285A-19B7-448E-88C1-DDECE2691CF1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D4E012B-2EA3-419F-B98F-7182FB7E0A8E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BFC87C58-451E-447D-9B6D-C832F961D6B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B1CAFD9F-663C-4FAF-AC4F-50FFC5511497"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8EADBCA4-ABEC-4720-8C04-F10DB6C562AB"
+    }
+  ],
+  "name": "topics / cities / details / VocabCard4",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D684A731-4F99-4426-BBB9-65BC95A92311",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D799715A-693F-4B8A-804C-6C35314F2572",
+    "guides": [
+    ]
+  }
+}

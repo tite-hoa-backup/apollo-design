@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CC753134-7394-4BD1-AFAF-DD2498D8EC00",
+  "do_objectID": "8EADBCA4-ABEC-4720-8C04-F10DB6C562AB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6FEEBEDE-8B11-41FD-AE39-53DBA68579E3",
+    "do_objectID": "4038FA3E-88D0-468F-9347-58BB85D9366F",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "8423C8F2-F070-4409-8E9D-9845654AF718",
-    "height": 56,
+    "do_objectID": "DD5D0004-8C75-466B-BD27-689E7E38FFAE",
+    "height": 48,
     "width": 360,
     "x": 0,
-    "y": 536
+    "y": 24
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,29 +75,39 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / basicFullWhite",
-  "nameIsFixed": false,
+  "name": "header / basic",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "F703A5E0-C83A-4865-A09D-6612186C35AC",
-      "overrideName": "DD93E58D-16A6-4353-A086-3723541D05C1_stringValue",
-      "value": "Watch Video"
+      "overrideName": "B15AC07F-0352-4566-9679-AA20678C4D86_stringValue",
+      "value": "Hollywood"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8C3A6E90-1BA7-44AA-8600-42B4895B9866_stringValue",
+      "value": "10/11"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6F6C6425-E671-4B36-B287-71F3714CF8F4",
+      "overrideName": "23066DF3-1FD3-4594-AD2B-E4908E5C92F1/7F4ED141-5BEA-4547-83ED-8BF12713F7F2_symbolID",
+      "value": "71EA27F9-44DA-4D5A-98E6-31BE0F38FA42"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "384D3070-59E8-4CE5-9905-27BC578EEB75",
+    "do_objectID": "77D6763B-EFBE-4DCC-9DF9-C2D4E2C18E58",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F85E9D66-B795-4C45-B52F-00C6F8F2AD79",
+  "symbolID": "A64CE8A3-9447-46C3-8A8C-AA9EDFF8C6DD",
   "verticalSpacing": 0
 }

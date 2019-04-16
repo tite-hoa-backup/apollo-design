@@ -2,17 +2,17 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1084DA86-48D3-4F38-8EA2-E56BBD4C27F3",
+  "do_objectID": "BA08503B-07C3-4D77-920B-2CC4053F85B2",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3FE006B5-3C33-4269-A9DE-53B2357F16B3",
+    "do_objectID": "873271E4-A686-4860-8626-F542A83225E7",
     "exportFormats": [
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
+        "name": "mdpi/",
+        "namingScheme": 1,
         "scale": 1,
         "visibleScaleType": 0
       },
@@ -20,8 +20,17 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
         "scale": 2,
         "visibleScaleType": 0
       },
@@ -29,9 +38,18 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "@3x",
-        "namingScheme": 0,
+        "name": "xxhdpi/",
+        "namingScheme": 1,
         "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
         "visibleScaleType": 0
       }
     ],
@@ -43,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "02333631-188C-4FDC-A99F-BF1C144E37A7",
-    "height": 56,
-    "width": 375,
+    "do_objectID": "52112DF4-8D79-4664-BB69-366921D08E89",
+    "height": 48,
+    "width": 360,
     "x": 0,
-    "y": 611
+    "y": 80
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,14 +75,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / basicFullWhite",
+  "name": "list / title48",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "069FA652-944D-4B12-8438-6CAD6970FBF6",
-      "overrideName": "E1930392-2F44-47B8-9BA2-65C71C0BA4F5_stringValue",
-      "value": "Watch Video"
+      "do_objectID": "5F1AD70D-4F03-444C-83ED-553A4D31D6CB",
+      "overrideName": "437054ED-6BD4-4B42-9631-F0B26DFCB5E4_stringValue",
+      "value": "Vocabulary / Expressions"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "25BF9300-04FF-42F9-A4CF-F82F0FA0E858",
+      "overrideName": "439DAC24-9EFB-442E-BB09-900633F53A0F_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 13,
@@ -74,12 +98,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "7E337782-DD73-4461-A7A6-490AD0A96FC9",
+    "do_objectID": "0D0B5E1B-5B7E-44A5-AC80-5A220D7DE073",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "6E47714A-0B05-4263-93ED-715B6D094EA2",
+  "symbolID": "A405B95F-E36B-40F2-A05F-279D3408A28C",
   "verticalSpacing": 0
 }
