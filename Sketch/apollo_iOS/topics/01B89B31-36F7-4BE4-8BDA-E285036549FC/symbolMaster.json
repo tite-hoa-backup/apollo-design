@@ -9,7 +9,7 @@
     "red": 0.5166644590046954
   },
   "booleanOperation": -1,
-  "changeIdentifier": 37,
+  "changeIdentifier": 44,
   "clippingMaskMode": 0,
   "do_objectID": "01B89B31-36F7-4BE4-8BDA-E285036549FC",
   "exportOptions": {
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -59,14 +59,6 @@
     {
       "class": "symbolInstance",
       "id": "75CB9427-8A7E-48A3-814F-4308F13F8CC6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AF6A4968-0123-492C-A80A-D0C1E9959CF0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D458836E-F6D5-474B-A2A8-8CDD71F148AC"
     },
     {
       "class": "symbolInstance",
@@ -79,6 +71,10 @@
     {
       "class": "symbolInstance",
       "id": "E558663A-3F14-4C97-A377-EAEE29955AFA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "984E0B50-932A-4348-B5C7-A24751797D77"
     }
   ],
   "name": "topics / cities / details / conversationCard1",
@@ -87,7 +83,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "D458836E-F6D5-474B-A2A8-8CDD71F148AC_symbolID"
+      "overrideName": "984E0B50-932A-4348-B5C7-A24751797D77_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -103,11 +99,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "ED135213-067B-4F4B-819B-8BD06DB23FC4_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "AF6A4968-0123-492C-A80A-D0C1E9959CF0_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

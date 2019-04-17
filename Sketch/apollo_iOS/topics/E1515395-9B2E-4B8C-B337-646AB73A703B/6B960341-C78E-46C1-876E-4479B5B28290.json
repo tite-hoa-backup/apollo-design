@@ -2,17 +2,17 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D7E98BFB-7A68-47D2-A3D5-D7B29A546E76",
+  "do_objectID": "6B960341-C78E-46C1-876E-4479B5B28290",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "468DF8C3-94DC-40A0-BBDE-583660CD32CF",
+    "do_objectID": "D2DD6CC8-F759-4D26-9443-0B7BE80DB94E",
     "exportFormats": [
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "mdpi/",
-        "namingScheme": 1,
+        "name": "",
+        "namingScheme": 0,
         "scale": 1,
         "visibleScaleType": 0
       },
@@ -20,17 +20,8 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "hdpi/",
-        "namingScheme": 1,
-        "scale": 1.5,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "xhdpi/",
-        "namingScheme": 1,
+        "name": "@2x",
+        "namingScheme": 0,
         "scale": 2,
         "visibleScaleType": 0
       },
@@ -38,18 +29,9 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "xxhdpi/",
-        "namingScheme": 1,
+        "name": "@3x",
+        "namingScheme": 0,
         "scale": 3,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "xxxhdpi/",
-        "namingScheme": 1,
-        "scale": 4,
         "visibleScaleType": 0
       }
     ],
@@ -61,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "607D1608-05D1-4A6B-9B16-BAF22CE49ABB",
+    "do_objectID": "367B86D2-43DA-4744-A9E6-886E0F6C4E8F",
     "height": 56,
-    "width": 160,
-    "x": 184,
-    "y": 520
+    "width": 375,
+    "x": 0,
+    "y": 611
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,29 +57,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / basicWhite56",
+  "name": "btn / basicFullWhite",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "FFBC86AD-E623-457D-AB8E-7038CF48F2A5",
-      "overrideName": "6B50795A-6AAF-4D3B-8629-A3E13A56BEC9_stringValue",
-      "value": "Next"
+      "do_objectID": "899587FC-46EB-4FB4-BB95-BB7E7AA8660C",
+      "overrideName": "E1930392-2F44-47B8-9BA2-65C71C0BA4F5_stringValue",
+      "value": "Select Tutor"
     }
   ],
-  "resizingConstraint": 37,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "39EBE232-99BE-479D-8B76-549DEB54BA22",
+    "do_objectID": "A4ED267E-6699-4809-A4FA-3CD132AEFBC0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "03C97FF0-1A5F-49CA-98EF-879D5F31BA22",
+  "symbolID": "6E47714A-0B05-4263-93ED-715B6D094EA2",
   "verticalSpacing": 0
 }

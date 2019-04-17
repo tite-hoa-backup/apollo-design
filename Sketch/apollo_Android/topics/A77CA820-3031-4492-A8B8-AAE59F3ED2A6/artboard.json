@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B05D2B33-19EC-4D83-8EC7-35B84435CE22",
-    "height": 851,
+    "height": 835,
     "width": 360,
     "x": 1278,
     "y": 268
@@ -35,7 +35,7 @@
     "do_objectID": "E9EFE8BE-0F78-4E10-BFE5-83E73DA81FEC"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -76,7 +76,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "3C662E7D-63D6-4B41-8244-5F87A6773A2E"
+      "id": "DC5A50A9-07C5-4BDC-AC91-45F460BAABF0"
     }
   ],
   "name": "topics / cities / details / TextCard",
