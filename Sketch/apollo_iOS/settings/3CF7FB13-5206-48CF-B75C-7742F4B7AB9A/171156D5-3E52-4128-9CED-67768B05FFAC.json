@@ -62,16 +62,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "765B0CFD-EA18-473F-BB06-AEB27A826D2C",
-      "overrideName": "FD56791C-1C43-4D81-BEA3-DE2D1AEB0553/93D6275C-86BE-4663-A89D-E097519ABFFD/76D4178F-4EAE-46D1-A17A-8F3ED368549A_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/30b7117b450f87bc4fc959117de2b7a9df9a26b6.png",
-        "_ref_class": "MSImageData"
-      }
-    },
-    {
-      "_class": "overrideValue",
       "do_objectID": "C7039F24-AC1A-43EE-BDD0-F82E41833FE1",
       "overrideName": "A339E85F-27EE-4AFF-B644-0A9BEE4DCBC7_stringValue",
       "value": "5 minutes"
@@ -87,6 +77,12 @@
       "do_objectID": "2B67759B-B95B-4FC2-9139-E5C0A96D3609",
       "overrideName": "CEB15C43-1CF9-4B38-ADFF-2D0584EEE1DB_symbolID",
       "value": "715ED9ED-8E88-4779-AC3E-A056D37B32DB"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "60C42182-3BAD-4585-AA72-C53FE587AB70",
+      "overrideName": "FD56791C-1C43-4D81-BEA3-DE2D1AEB0553_symbolID",
+      "value": "B7A1FE61-4156-4AF6-82D0-1A0188E0E455"
     }
   ],
   "resizingConstraint": 63,

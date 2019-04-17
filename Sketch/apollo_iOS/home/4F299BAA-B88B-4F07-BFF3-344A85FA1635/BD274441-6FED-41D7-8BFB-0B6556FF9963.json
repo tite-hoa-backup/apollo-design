@@ -60,19 +60,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "D22BB67D-426E-40F5-96D1-851E25A6DA84",
-      "overrideName": "536C0583-4F05-4AA9-ABD1-6CDE77B90769/76D4178F-4EAE-46D1-A17A-8F3ED368549A_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/62dcae6ea3c338c0fa2ff13dd993d6f943994756.png",
-        "_ref_class": "MSImageData"
-      }
-    },
-    {
-      "_class": "overrideValue",
       "do_objectID": "A55F66AD-4BA3-4628-A68A-8A5A539ED3C9",
       "overrideName": "D59B768B-ADBD-4EEA-AE65-503F3CEA0A61_stringValue",
       "value": "4/18/2019"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "458BD801-7295-46E6-B81E-AA19DCC84DB1",
+      "overrideName": "536C0583-4F05-4AA9-ABD1-6CDE77B90769_symbolID",
+      "value": "EDC763E6-0F5B-48F9-BC2C-C0C1757E38E0"
     }
   ],
   "resizingConstraint": 63,

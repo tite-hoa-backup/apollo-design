@@ -80,16 +80,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "FBD40EE4-F137-43CA-8F25-EE01D9B05503",
-      "overrideName": "EB9E4D3D-1CD0-41BF-A569-EBE2431348C7/FF75F0AE-560F-4F08-BD12-D311616D9BBA/0A79F754-4172-444B-B77A-582B24D5BD29_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/4f9077cdeb05136a2eb4879c7d694e51465bde89.png",
-        "_ref_class": "MSImageData"
-      }
-    },
-    {
-      "_class": "overrideValue",
       "do_objectID": "7EC5FB2E-BB64-48FD-8E7C-814162D4789A",
       "overrideName": "377EEA62-1BD3-4EFE-9186-B0F66E417316_stringValue",
       "value": "5 minutes"
@@ -99,6 +89,12 @@
       "do_objectID": "F2426320-9CF8-432E-A890-902BDF3572D0",
       "overrideName": "31812F6A-FAA9-43C4-AE30-C4AB4439EAA5_stringValue",
       "value": "4/18/2019, 8:45 AM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9AA2D5B7-829B-4FEA-9633-25F33CA682D6",
+      "overrideName": "EB9E4D3D-1CD0-41BF-A569-EBE2431348C7_symbolID",
+      "value": "A0D27A49-BF86-4F3C-B5B1-00510D7F3EAA"
     }
   ],
   "resizingConstraint": 63,

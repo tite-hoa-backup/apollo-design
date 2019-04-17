@@ -127,22 +127,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
-      }
-    ],
     "do_objectID": "7FD953C6-E89A-45D9-BCCE-BF0AB5E0BA6A",
     "endMarkerType": 0,
     "fills": [
@@ -158,7 +142,7 @@
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/fb48f528ae1847ce18517ca936c6fa4b6e1e2aa0.png",
+          "_ref": "images/efe96937e14030ac2a04bf7d76578574cef9d094.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
