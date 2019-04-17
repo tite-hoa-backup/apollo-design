@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F064EF83-A3B6-4F01-8417-0D5EC3732121",
+  "do_objectID": "6A53DCDF-AD60-4EBC-970A-71CFEA537AB4",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A78751EB-A5BE-4A8B-91D3-1983647880FC",
+    "do_objectID": "54B7942A-C61B-4F34-B502-B165AC31E53C",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3F62DE38-640C-4275-9850-C65766710D3B",
-    "height": 70,
-    "width": 64,
-    "x": 228,
-    "y": 506
+    "do_objectID": "4BB84B21-5CAB-4355-84E4-E968648A5BF9",
+    "height": 56,
+    "width": 360,
+    "x": 0,
+    "y": 80
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,35 +75,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / lessonOnDark",
+  "name": "list / notification / 1line",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "308CFB07-D7C9-4F26-9755-7B6F8BB9E1B7",
-      "overrideName": "6ADD04A1-7266-45A7-B11B-E74F8151AE5A_symbolID",
-      "value": "D04055B0-601E-4CE3-9BB2-4D035E8450AF"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "8C788B8E-1D05-4DCF-B9C4-3CFE030F4380",
-      "overrideName": "9010959F-11DE-41C2-9532-8D3EDDF5605E_stringValue",
-      "value": "Chat"
-    }
   ],
-  "resizingConstraint": 13,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F60FD278-3F8F-46C1-99A1-894F24ACB0A4",
+    "do_objectID": "3C1EB13B-725F-4FE1-B057-71CC4C59E76E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BB9FD56B-2A83-4749-90B3-7294D36CC5AB",
+  "symbolID": "68A0111C-98E7-462E-B67B-6283C7069953",
   "verticalSpacing": 0
 }

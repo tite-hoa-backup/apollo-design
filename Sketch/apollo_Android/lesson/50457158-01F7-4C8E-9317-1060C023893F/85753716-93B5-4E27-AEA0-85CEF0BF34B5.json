@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "367FDC41-C7EC-4A9E-8BC4-EAFE1C348097",
+  "do_objectID": "85753716-93B5-4E27-AEA0-85CEF0BF34B5",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4E7EE4FC-8E34-4457-B842-E1E11364B21D",
+    "do_objectID": "653AD693-6B0D-4E25-8A11-960E83C79677",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0A04E0D1-3AE1-4E2D-A2AB-1D6EAB291564",
+    "do_objectID": "7ECE06A8-67CD-46DD-A7E0-CD5BD3BDB6F3",
     "height": 70,
     "width": 64,
-    "x": 148,
-    "y": 506
+    "x": 188,
+    "y": 490
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -80,15 +80,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "EE424B7E-E71F-4C7D-957B-0803144FB9D6",
+      "do_objectID": "308CFB07-D7C9-4F26-9755-7B6F8BB9E1B7",
       "overrideName": "6ADD04A1-7266-45A7-B11B-E74F8151AE5A_symbolID",
-      "value": "467D77AA-4A66-419F-A0D1-AACFD24AB04A"
+      "value": "D04055B0-601E-4CE3-9BB2-4D035E8450AF"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "162CD50B-68B4-4BF8-935A-15EAC3536DCA",
+      "do_objectID": "8C788B8E-1D05-4DCF-B9C4-3CFE030F4380",
       "overrideName": "9010959F-11DE-41C2-9532-8D3EDDF5605E_stringValue",
-      "value": "Cam On"
+      "value": "Chat"
     }
   ],
   "resizingConstraint": 13,
@@ -98,7 +98,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "FB09E95D-D10C-457A-829B-F2F31A00ADF3",
+    "do_objectID": "44AEE97D-A1BC-4924-BF8A-E44B73CDAB4A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

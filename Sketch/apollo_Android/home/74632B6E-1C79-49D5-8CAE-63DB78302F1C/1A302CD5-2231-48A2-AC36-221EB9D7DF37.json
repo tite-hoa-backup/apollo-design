@@ -1,0 +1,121 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1A302CD5-2231-48A2-AC36-221EB9D7DF37",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E2A42C38-62B8-46EC-9D19-07E9769AA184",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61738A4A-B53E-499F-A92C-E1A6702600E6",
+    "height": 56,
+    "width": 360,
+    "x": 0,
+    "y": 536
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tab / bottomTab",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ADCD474F-52F8-40AD-B368-8F2FA76D8C40",
+      "overrideName": "91191F4F-06D7-49A2-B706-D75519C66B4F/6794146B-FCEB-48B2-B8AF-D9467CCC154B_stringValue",
+      "value": "Home"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EEB10DB1-A58B-4705-B0F1-CF473CB9FD62",
+      "overrideName": "3A851929-9DC6-4B5C-90D3-63E9C0A3BC9F/0B20C274-40A5-4178-BB76-D5857A8596B4_stringValue",
+      "value": "Tutors"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "61EE3920-F1BB-4C59-AC6A-47410ECB8A5D",
+      "overrideName": "BD80D78D-9A96-49DB-8EEB-2C4AF3D9971D/0B20C274-40A5-4178-BB76-D5857A8596B4_stringValue",
+      "value": "Topics"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AE94530B-82DD-461C-8A5E-207A3130F320",
+      "overrideName": "C0F52117-A26C-4F51-A30B-907249EC66D7/0B20C274-40A5-4178-BB76-D5857A8596B4_stringValue",
+      "value": "Settings"
+    }
+  ],
+  "resizingConstraint": 37,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C12E85AA-81A5-4C35-843E-7B3479D9CF3F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7777EBF7-612A-4EDF-952D-088A004072EA",
+  "verticalSpacing": 0
+}

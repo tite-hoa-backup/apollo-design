@@ -2,17 +2,17 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1A6E107B-1C56-440B-AA68-A6C9B45D1399",
+  "do_objectID": "291E1B3F-5625-41DC-A1DF-D26A65448B79",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0A8E4C1D-167E-42F1-A88F-0C0D017C003F",
+    "do_objectID": "B6881841-1604-4826-A70E-59A0F515FE05",
     "exportFormats": [
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
+        "name": "mdpi/",
+        "namingScheme": 1,
         "scale": 1,
         "visibleScaleType": 0
       },
@@ -20,8 +20,17 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
         "scale": 2,
         "visibleScaleType": 0
       },
@@ -29,9 +38,18 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "@3x",
-        "namingScheme": 0,
+        "name": "xxhdpi/",
+        "namingScheme": 1,
         "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
         "visibleScaleType": 0
       }
     ],
@@ -43,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6C561420-35F5-4DC4-A7EE-D682DD8675A1",
+    "do_objectID": "9D86D6DE-D5F4-47FC-B280-0B74CC0966DF",
     "height": 70,
     "width": 64,
-    "x": 76,
-    "y": 565
+    "x": 108,
+    "y": 490
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -62,9 +80,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "1EF2B712-A617-48F9-B529-A99232A84016",
-      "overrideName": "545995C5-9567-495B-912E-B4DEB54E42CE_stringValue",
-      "value": "Mic On"
+      "do_objectID": "EE424B7E-E71F-4C7D-957B-0803144FB9D6",
+      "overrideName": "6ADD04A1-7266-45A7-B11B-E74F8151AE5A_symbolID",
+      "value": "467D77AA-4A66-419F-A0D1-AACFD24AB04A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "162CD50B-68B4-4BF8-935A-15EAC3536DCA",
+      "overrideName": "9010959F-11DE-41C2-9532-8D3EDDF5605E_stringValue",
+      "value": "Cam On"
     }
   ],
   "resizingConstraint": 13,
@@ -74,12 +98,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "065B197A-EBB5-4D7D-8018-BC7A0F515E26",
+    "do_objectID": "A1424FE6-4E1F-4AD2-A096-4420BCD72BE3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "812223AD-6C45-4746-9E1A-3872D7BCC341",
+  "symbolID": "BB9FD56B-2A83-4749-90B3-7294D36CC5AB",
   "verticalSpacing": 0
 }

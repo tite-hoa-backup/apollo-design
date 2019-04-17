@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 9,
+  "changeIdentifier": 129,
   "clippingMaskMode": 0,
   "do_objectID": "50457158-01F7-4C8E-9317-1060C023893F",
   "exportOptions": {
@@ -50,7 +50,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -66,19 +66,23 @@
     },
     {
       "class": "symbolInstance",
-      "id": "F064EF83-A3B6-4F01-8417-0D5EC3732121"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "367FDC41-C7EC-4A9E-8BC4-EAFE1C348097"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A6D60366-F8E4-4997-BCB3-7AC7B1C60217"
-    },
-    {
-      "class": "symbolInstance",
       "id": "F3F4656F-FEBA-4EE2-9959-6F3227259B0C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D6C0F77D-F68A-4A0F-998A-5C59BE2785C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85753716-93B5-4E27-AEA0-85CEF0BF34B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "291E1B3F-5625-41DC-A1DF-D26A65448B79"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2C768325-640C-42D5-9F64-A91B4EA4BB8E"
     }
   ],
   "name": "lesson / loading",
