@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "78AA0B14-3C11-4983-B3BC-828F051CC4A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E7E655E3-F6FB-4A83-8AC9-123F0F141A43",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "880BB929-8C0C-473A-A049-96302F5CC8A0",
+    "height": 48,
+    "width": 448,
+    "x": 496,
+    "y": 672
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "misc / centerTextPlaceholder",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A22AB9BE-20EC-4FCC-87BE-57C001F116CF",
+      "overrideName": "1DCFFD58-35AA-488B-B917-FD5DBD8B6992_stringValue",
+      "value": "or, Sign Up with"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EF2C6155-3C6E-4437-8135-1E8F0C1315B5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D6AFFC63-D5F2-4091-A84A-986EBCBD9047",
+  "verticalSpacing": 0
+}

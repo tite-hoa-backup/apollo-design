@@ -44,10 +44,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "DFE22D66-3FE0-4A05-88F9-F41951E07EBE",
-    "height": 48,
+    "height": 72,
     "width": 375,
     "x": 0,
-    "y": 299
+    "y": 275
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,13 +57,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / checkboxWhite",
+  "name": "list / radio / checkboxWhite2Lines",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "CC3AA8BC-D7C6-414D-AC91-68174079D802",
-      "overrideName": "1579B890-9E4A-489E-8DB8-359DB6CC007A_stringValue",
+      "do_objectID": "F5AC399F-BFA1-40BA-A162-9A55D48E46C9",
+      "overrideName": "7C07DB42-2E2A-4CCE-9CA4-1A3FFE25FC88_stringValue",
       "value": "I think mainly in pictures instead of words"
     }
   ],
@@ -80,6 +80,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9229744D-7759-4B50-A14C-397D8BB9BCD6",
+  "symbolID": "C9D971CC-E1F0-4C08-BB40-A971BB3BA439",
   "verticalSpacing": 0
 }

@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "05FF0120-2CA0-4098-8D92-7AB9F0768772",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B7A69F23-BDCC-43D6-A504-5D8ACC68B317",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F0284938-8D51-4948-9FA8-4C403D3DEF69",
+    "height": 56,
+    "width": 200,
+    "x": 512,
+    "y": 728
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / loginLogoWhite",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EF3936AC-0B34-4CED-8DA8-77A2718C4F37",
+      "overrideName": "AC7C2803-245F-444C-AB43-1AB44391EAD0_stringValue",
+      "value": "Google"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D573F617-62A0-4BF0-8018-EE8871A15203",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2584080A-ED60-4C82-ABA1-B05AD033A18A",
+  "verticalSpacing": 0
+}

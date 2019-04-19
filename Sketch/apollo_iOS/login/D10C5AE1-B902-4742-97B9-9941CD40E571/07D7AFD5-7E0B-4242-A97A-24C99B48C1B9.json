@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "07D7AFD5-7E0B-4242-A97A-24C99B48C1B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B7D7B6B7-EE95-49FF-B0B7-E02C5824A675",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A6159363-D6A0-4070-A6EC-0F217F24AE11",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 347
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / radio / checkboxWhite",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "20C0E9FA-FA4F-4CDA-A3C8-4BAD03514752",
+      "overrideName": "25A89F60-F872-466D-A488-9CCCFF4CE4E2_stringValue",
+      "value": "I'm good at keeping track of time"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "591DA378-6D52-4A90-AFF1-AEF9AD303867",
+      "overrideName": "C9165EAF-5129-47A2-B286-AFE929EBCBFC/AF6F0313-3991-4D62-A708-4302E8EEB927_symbolID",
+      "value": "313E827D-9DA8-49C0-9359-705AB556871D"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ECDE2FE0-55C6-41BF-B2A2-86AFFDC0E649",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "045B5D0F-6579-49D9-AF5C-867AD4FB9164",
+  "verticalSpacing": 0
+}

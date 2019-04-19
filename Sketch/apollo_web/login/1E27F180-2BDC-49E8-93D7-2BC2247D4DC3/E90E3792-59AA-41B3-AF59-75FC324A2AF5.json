@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E90E3792-59AA-41B3-AF59-75FC324A2AF5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "48440AC7-17CF-4838-B9F3-874D761EF9EC",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC55321D-52A6-4AA4-9FAA-420FEFCBDFAE",
+    "height": 16,
+    "width": 104,
+    "x": 24,
+    "y": 24
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "logo_onDark",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.4444444444444444,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0A337E2C-55DF-4CBC-8414-87AB3A00F96E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.444444444444445,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "5AE99D31-EC1F-4B93-80F9-862310F62777",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FCB87135-8B62-4F5B-9DAA-3C4F60F7CB12",
+  "verticalSpacing": 0
+}

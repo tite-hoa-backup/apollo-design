@@ -28,7 +28,7 @@
     "height": 667,
     "width": 375,
     "x": 2375,
-    "y": 0
+    "y": -767
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -89,9 +89,13 @@
     {
       "class": "symbolInstance",
       "id": "E15E4B66-70BD-4421-BAC4-60FF28AD72BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31E66226-FE55-4FA4-BA17-E74091858E08"
     }
   ],
-  "name": "register / setup2",
+  "name": "register / setup2Before",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

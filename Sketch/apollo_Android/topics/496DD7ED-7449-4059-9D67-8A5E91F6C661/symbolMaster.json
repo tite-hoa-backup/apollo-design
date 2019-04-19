@@ -9,7 +9,7 @@
     "red": 0.5176470588235293
   },
   "booleanOperation": -1,
-  "changeIdentifier": 85,
+  "changeIdentifier": 200,
   "clippingMaskMode": 0,
   "do_objectID": "496DD7ED-7449-4059-9D67-8A5E91F6C661",
   "exportOptions": {
@@ -74,11 +74,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "CB758947-2851-43A1-94D3-D9F3F4A5F22F"
+      "id": "98374B44-D351-4652-A31F-88A69639E402"
     },
     {
       "class": "symbolInstance",
-      "id": "98374B44-D351-4652-A31F-88A69639E402"
+      "id": "AA4CBE19-5B4E-42C7-B3FE-428BA9CCE7AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "11C93A64-9404-4956-A01F-845DE8E217C5"
     }
   ],
   "name": "topics / cities / details / conversationCard1",
@@ -87,7 +91,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "CB758947-2851-43A1-94D3-D9F3F4A5F22F_symbolID"
+      "overrideName": "AA4CBE19-5B4E-42C7-B3FE-428BA9CCE7AD_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "11C93A64-9404-4956-A01F-845DE8E217C5_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -120,7 +129,7 @@
       "overrideName": "D81903D6-DA0C-484B-BB2E-2893803DD2C7_symbolID"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

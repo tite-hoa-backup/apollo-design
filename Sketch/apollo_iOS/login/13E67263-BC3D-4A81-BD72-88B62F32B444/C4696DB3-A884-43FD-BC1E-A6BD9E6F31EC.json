@@ -57,20 +57,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / checkboxWhite",
-  "nameIsFixed": false,
+  "name": "list / radio / checkboxWhite",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "CAAD27F9-54E1-429B-96E3-7A5EF0F1301A",
-      "overrideName": "1579B890-9E4A-489E-8DB8-359DB6CC007A_stringValue",
+      "do_objectID": "20C0E9FA-FA4F-4CDA-A3C8-4BAD03514752",
+      "overrideName": "25A89F60-F872-466D-A488-9CCCFF4CE4E2_stringValue",
       "value": "I'm good at keeping track of time"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "C7785E9E-0757-4B92-985B-3DB4E2097C4B",
-      "overrideName": "A28C0555-85DC-4890-A0D1-DD5DDEFFE639/AF6F0313-3991-4D62-A708-4302E8EEB927_symbolID",
-      "value": "45AF4014-1F47-4FB8-B557-38EDE2AAFEC5"
     }
   ],
   "resizingConstraint": 13,
@@ -86,6 +80,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9229744D-7759-4B50-A14C-397D8BB9BCD6",
+  "symbolID": "045B5D0F-6579-49D9-AF5C-867AD4FB9164",
   "verticalSpacing": 0
 }
