@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5439,
+  "changeIdentifier": 5444,
   "clippingMaskMode": 0,
   "do_objectID": "FFBD11AB-B65B-424F-BC26-3351523DB26F",
   "exportOptions": {
@@ -85,14 +85,19 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "520673C7-4FA4-4704-9468-14032B91622C"
+      "class": "symbolInstance",
+      "id": "65AC0A8A-08EA-47E9-8159-350C03CB0CA3"
     }
   ],
   "name": "btn / lessonOnDark / icChat",
   "nameIsFixed": true,
   "originalObjectID": "F7AA7B6A-81F1-443C-80F5-0F46FE73B0BE",
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "65AC0A8A-08EA-47E9-8159-350C03CB0CA3_symbolID"
+    }
   ],
   "resizesContent": true,
   "resizingConstraint": 63,

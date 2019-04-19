@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8534B318-4761-4CB3-A096-72C7F0E2103D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C9AF1C6-B17F-4FB2-A97E-30E66D12EFB1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2AC04C40-2B26-435E-9CA8-0CCC15337822",
+    "height": 18.32498560577708,
+    "width": 18.58249999999997,
+    "x": 2.708750000000009,
+    "y": 2.837507197111547
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "5FD6A40E-AE71-49C3-ABBA-FB1E875C7087"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "AE2ACFB3-1974-43D8-936B-3E22F30952E2"
+    },
+    {
+      "class": "shapePath",
+      "id": "4EFC8934-7F56-457A-945B-DE47624C47BE"
+    }
+  ],
+  "name": "icon/av/videocam_off_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "98BB7725-5892-4D96-BCD0-169B5DE77FD9",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

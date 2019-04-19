@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5424,
+  "changeIdentifier": 5429,
   "clippingMaskMode": 0,
   "do_objectID": "42DB5B27-3AD9-4089-ACB5-427A110E48AB",
   "exportOptions": {
@@ -85,14 +85,19 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "69E4BA1F-5E8D-4705-AE3B-5C92DDD3E812"
+      "class": "symbolInstance",
+      "id": "0CE3919A-719F-4126-8A4B-962B0869B565"
     }
   ],
   "name": "btn / lessonOnDark / icCamOff",
   "nameIsFixed": true,
   "originalObjectID": "F7AA7B6A-81F1-443C-80F5-0F46FE73B0BE",
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0CE3919A-719F-4126-8A4B-962B0869B565_symbolID"
+    }
   ],
   "resizesContent": true,
   "resizingConstraint": 63,

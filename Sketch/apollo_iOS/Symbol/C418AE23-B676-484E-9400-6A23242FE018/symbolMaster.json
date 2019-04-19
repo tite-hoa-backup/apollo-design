@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5434,
+  "changeIdentifier": 5439,
   "clippingMaskMode": 0,
   "do_objectID": "C418AE23-B676-484E-9400-6A23242FE018",
   "exportOptions": {
@@ -85,14 +85,19 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "239BF727-9EC1-425D-A0AE-98868D81F9D3"
+      "class": "symbolInstance",
+      "id": "5DBD59CF-EE12-483F-8BEC-CB412C76AE79"
     }
   ],
   "name": "btn / lessonOnDark / icVolumeOn",
   "nameIsFixed": true,
   "originalObjectID": "F7AA7B6A-81F1-443C-80F5-0F46FE73B0BE",
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5DBD59CF-EE12-483F-8BEC-CB412C76AE79_symbolID"
+    }
   ],
   "resizesContent": true,
   "resizingConstraint": 63,

@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5356,
+  "changeIdentifier": 5361,
   "clippingMaskMode": 0,
   "do_objectID": "2385F263-EACC-48DD-988B-B20105EE4C26",
   "exportOptions": {
@@ -85,14 +85,19 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "BAD1EEE1-7B80-404E-969B-B859CFA77327"
+      "class": "symbolInstance",
+      "id": "B06C935E-D74F-495D-8FA7-635C1B88E040"
     }
   ],
   "name": "btn / lessonOnDark / icMicOn",
   "nameIsFixed": true,
   "originalObjectID": "F7AA7B6A-81F1-443C-80F5-0F46FE73B0BE",
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B06C935E-D74F-495D-8FA7-635C1B88E040_symbolID"
+    }
   ],
   "resizesContent": true,
   "resizingConstraint": 63,
