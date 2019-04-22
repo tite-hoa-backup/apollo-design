@@ -78,12 +78,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "A93FF82C-1DB9-4A66-82A1-0D218679B916",
-      "overrideName": "110EBD08-FC33-4A79-8EF2-9A1A6B3D5147_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
       "do_objectID": "B4CA8468-B0FB-4918-BFD2-C00A6C67B2CE",
       "overrideName": "0ACAE748-005E-4A09-8391-C81047167BB0_stringValue",
       "value": " "
@@ -92,7 +86,13 @@
       "_class": "overrideValue",
       "do_objectID": "3DA835F0-F756-469A-BD0E-980C1975195C",
       "overrideName": "571DB78B-7C71-49D6-82DB-7C5F1DEB61D8_stringValue",
-      "value": "Quit"
+      "value": "5 minutes left"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D269588F-CC27-464F-8F79-527F29EAC7BD",
+      "overrideName": "110EBD08-FC33-4A79-8EF2-9A1A6B3D5147/7F4ED141-5BEA-4547-83ED-8BF12713F7F2_symbolID",
+      "value": "71EA27F9-44DA-4D5A-98E6-31BE0F38FA42"
     }
   ],
   "resizingConstraint": 13,
