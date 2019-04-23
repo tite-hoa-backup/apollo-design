@@ -5,18 +5,27 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "757F597B-6108-4589-8F9F-2E167D77E3D3",
-    "green": 1,
-    "red": 1
+    "do_objectID": "C0BBE287-303B-4B6A-B327-5D86E68F4DC1",
+    "green": 0.3008003048780488,
+    "red": 0.5166644590046954
   },
-  "booleanOperation": -1,
-  "changeIdentifier": 276,
+  "booleanOperation": 0,
+  "changeIdentifier": 5582,
   "clippingMaskMode": 0,
-  "do_objectID": "3C4ECA2B-0CC4-4FC3-851F-47449097BE63",
+  "do_objectID": "B0A890DA-D81C-49FB-A4FB-FAFDC5D2BF15",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "71A6D9F4-680E-48FE-AFB2-D24350D66695",
+    "do_objectID": "17BC5671-8765-4952-9A70-D2C5184ACD12",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -26,27 +35,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "1592BF8C-D679-4174-8EE5-55D3161A6851",
+    "do_objectID": "38FE0425-2C09-48EA-8D46-7469B96BD167",
     "height": 48,
     "width": 48,
-    "x": 1245,
-    "y": -24
+    "x": 1409,
+    "y": 146
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "3A73D0B7-8E74-46D8-ACDD-C35479DD27B6"
+    "do_objectID": "1878A048-8BFF-4A5C-9179-6D824F9AAD9A"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "4D2AB1CF-283D-43BC-9F6C-D67770A3B454",
+    "do_objectID": "B40AACE3-37D3-4D53-BD95-05C173B6BCAA",
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -57,29 +66,39 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DB95E657-7F3F-4971-99DE-820973B04125"
+    }
   ],
-  "name": "header / profile",
+  "name": "thumbnail / univOval48",
   "nameIsFixed": true,
+  "originalObjectID": "F7AA7B6A-81F1-443C-80F5-0F46FE73B0BE",
   "overrideProperties": [
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "5BF692C7-5C7A-44F2-B804-D8CC37F48DBF",
+    "do_objectID": "DAD39D1B-644F-402F-9FE6-75ABAE23943A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "85E126B6-AA95-4C54-92E0-A1BAD5217456",
+  "symbolID": "8FB76B80-9DE3-4ADA-8CB7-8B1B8F768A1F",
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "542B894C-B17C-40C2-A538-120CE986D729",
+    "do_objectID": "FFACE7A5-9AED-48F3-B557-8D0A843BADA7",
     "guides": [
     ]
   }

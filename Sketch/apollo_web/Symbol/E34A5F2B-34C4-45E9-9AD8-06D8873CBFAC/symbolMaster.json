@@ -9,12 +9,21 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 248,
+  "changeIdentifier": 375,
   "clippingMaskMode": 0,
   "do_objectID": "E34A5F2B-34C4-45E9-9AD8-06D8873CBFAC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -91,6 +100,10 @@
     {
       "class": "symbolInstance",
       "id": "D989CB99-39F0-496A-977E-97CDCCBE1CC9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AE9B6A07-FE10-4F51-BCE5-4CDAAFD95C40"
     }
   ],
   "name": "header / basic",
