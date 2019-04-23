@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.8392156862745098,
-    "green": 0.2509803921568627,
-    "red": 0.4313725490196079
+    "blue": 0.9568627450980391,
+    "green": 0.9568627450980391,
+    "red": 0.9568627450980391
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -35,8 +35,8 @@
     "do_objectID": "C8B5A83D-5BE2-4278-A755-EACD49EDFA62",
     "height": 1024,
     "width": 1440,
-    "x": 1540,
-    "y": 0
+    "x": 0,
+    "y": 1124
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -63,16 +63,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "FC12134E-57DA-4789-8206-A8D3A82F59E2"
+      "class": "symbolInstance",
+      "id": "7F505553-0403-461E-8794-FDC22F85DC93"
     },
     {
       "class": "symbolInstance",
-      "id": "BBC198AF-145A-401D-B7AE-7A29BFF6D154"
-    },
-    {
-      "class": "rectangle",
-      "id": "210D10A7-99FD-404E-9FD4-ED23B038DFFF"
+      "id": "9EB088BA-6757-4784-9891-638DFDD5BF6D"
     },
     {
       "class": "rectangle",

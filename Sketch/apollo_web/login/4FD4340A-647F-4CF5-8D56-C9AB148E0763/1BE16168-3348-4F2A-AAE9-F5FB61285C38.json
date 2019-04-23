@@ -37,13 +37,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / basicWhite56",
+  "name": "btn / basicWhite56Disabled",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "18B1443D-D4AE-430B-9ED9-809F23906125",
-      "overrideName": "F062CB2F-0550-4ADE-8702-4B3040BFEA8F_stringValue",
+      "do_objectID": "2E38888B-B8ED-4FDF-9D51-604E4D2FB74E",
+      "overrideName": "A0FBB610-0796-4E0F-A32D-95695052FE0B/F062CB2F-0550-4ADE-8702-4B3040BFEA8F_stringValue",
       "value": "Log In"
     }
   ],
@@ -54,16 +54,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.38
-    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "AF228F24-CAB2-41EA-8335-F82754B656A0",
+  "symbolID": "36C0C57F-3725-4F44-A2AC-E4C8D58BE3BC",
   "verticalSpacing": 0
 }

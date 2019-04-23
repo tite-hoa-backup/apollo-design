@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.8392156862745098,
-    "do_objectID": "06002747-44AB-4E3F-B94E-CC91FF680276",
-    "green": 0.2509803921568627,
-    "red": 0.4313725490196079
+    "blue": 0.9568627450980391,
+    "green": 0.9568627450980391,
+    "red": 0.9568627450980391
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -64,16 +63,20 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "228B1925-2AC7-4B1D-802C-7306C33BC400"
+      "class": "symbolInstance",
+      "id": "96C287C8-1F06-42B7-9426-CFB927FAAA42"
     },
     {
       "class": "symbolInstance",
-      "id": "3B6C7E8D-8933-45F5-BE05-A7CC4174AA2D"
+      "id": "A082017B-115B-43BF-90CC-671DFFE4F90C"
     },
     {
       "class": "rectangle",
-      "id": "CCFB1AE9-6341-4361-8B7C-7F3A6B8E0BCC"
+      "id": "A9E8138D-8419-4BFE-9DE0-C8B8DEC89802"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03D0A624-FEBE-40A8-98ED-409045EAC125"
     },
     {
       "class": "text",
@@ -82,10 +85,6 @@
     {
       "class": "text",
       "id": "88A9005B-0D0C-4B5A-B321-9994C1CAC565"
-    },
-    {
-      "class": "rectangle",
-      "id": "A9E8138D-8419-4BFE-9DE0-C8B8DEC89802"
     },
     {
       "class": "rectangle",

@@ -8,10 +8,10 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.54,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "alpha": 0.38,
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -77,12 +77,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textRegular16W54Left",
+  "name": "textRegular16B38Left",
   "nameIsFixed": true,
   "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "0F1CA906-1B58-4015-8922-FAFBACB3813F",
+  "sharedStyleID": "E5C137B6-6B89-478B-8E4D-7A4E8C4A96EC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -92,14 +92,13 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "0C2CEA55-6882-42D9-996C-8E10DDA29123",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.54,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "alpha": 0.38,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
