@@ -23,7 +23,7 @@
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 32,
             "minimumLineHeight": 32
@@ -68,7 +68,7 @@
     "x": 432,
     "y": 160
   },
-  "glyphBounds": "{{0, 6}, {133, 24}}",
+  "glyphBounds": "{{221, 6}, {134, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -77,12 +77,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Apollo Tutor",
-  "nameIsFixed": false,
+  "name": "textBold24B78Center",
+  "nameIsFixed": true,
   "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "136CD3E5-EA22-45C4-9CE9-49C91B710521",
+  "sharedStyleID": "C249D91D-05C1-4790-9F0B-9325454F8FD0",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -92,7 +92,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "4F34F64C-DA39-47B3-ABB0-8546DA3472A4",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -111,7 +110,7 @@
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 32,
           "minimumLineHeight": 32

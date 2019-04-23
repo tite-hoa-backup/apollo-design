@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D14A0B07-622D-434B-871A-C3CA14879B04",
+  "do_objectID": "3C73FDB4-3789-46F5-AB3F-A92F6C7FEF88",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "67321117-05C5-4C77-9F4D-21D62C310D85",
+    "do_objectID": "890AA071-1B00-49C8-996F-E3B741750426",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -25,11 +25,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3DFE4B81-65CA-4DF5-941C-142533875ECA",
-    "height": 438,
-    "width": 640,
-    "x": 400,
-    "y": 128
+    "do_objectID": "C028DEDA-840E-47DC-BE75-B73084CF4692",
+    "height": 56,
+    "width": 416,
+    "x": 512,
+    "y": 462
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -39,9 +39,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "base / login",
+  "name": "btn / basicWhite56",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "18B1443D-D4AE-430B-9ED9-809F23906125",
+      "overrideName": "F062CB2F-0550-4ADE-8702-4B3040BFEA8F_stringValue",
+      "value": "Edit Profile"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -50,12 +56,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "30F18790-724D-4C5D-B52B-F824EED61097",
+    "do_objectID": "A63AC8D2-1A74-4FA8-9958-7295978ECECC",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C3285D2A-B6A4-464B-9BBB-D1C9CE6D181E",
+  "symbolID": "AF228F24-CAB2-41EA-8335-F82754B656A0",
   "verticalSpacing": 0
 }
