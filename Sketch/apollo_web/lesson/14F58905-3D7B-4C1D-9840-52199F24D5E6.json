@@ -3,17 +3,16 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9568627450980391,
-    "do_objectID": "5A15D5FD-862D-4807-8ABF-C13F7404A0DB",
-    "green": 0.9568627450980391,
-    "red": 0.9568627450980391
+    "blue": 0,
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4849AEC7-1E13-4861-A256-0C029D114311",
+  "do_objectID": "14F58905-3D7B-4C1D-9840-52199F24D5E6",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BF27D122-677D-40F4-AAED-7B4D4804B46A",
+    "do_objectID": "A21C7F04-EE3F-45F0-929E-79D705A4A271",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -33,23 +32,23 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DD18ED8E-3ECE-46AC-917D-0245F0E30901",
+    "do_objectID": "3868BA7F-6FA5-4180-AAA3-E8DF570E87B5",
     "height": 1024,
     "width": 1440,
-    "x": -563,
+    "x": -564,
     "y": -472
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "F5EC033D-BBC0-4284-8D63-88CE6C8FE691"
+    "do_objectID": "84A95D1C-8122-4E2D-A526-E561B10821D2"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "0EBDE020-C89C-4E58-AB9C-58CA9487BA5C",
+    "do_objectID": "F60F0786-11C6-42B1-A542-CB31821946A1",
     "guides": [
     ]
   },
@@ -63,24 +62,8 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "symbolInstance",
-      "id": "20018DC1-E70E-490B-8A91-D908B299D0B7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DF627B46-F3E7-4AAD-B4C8-8FB0EF5086AF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "17BD6AD4-0C2B-4FFD-B82A-FBA4704BF11D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F7F58796-0904-427D-BE38-2F4B2785763B"
-    }
   ],
-  "name": "history / basic",
+  "name": "lesson / basic",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -89,14 +72,14 @@
     "offersLandscapeVariant": 0,
     "width": 1440
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "ACF60D00-E5BB-46C7-8BD5-CDEF0779C5C9",
+    "do_objectID": "234BA6BD-04BF-4946-B0BE-C9A8478E14DF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -105,7 +88,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "9BB4CF3C-9D28-4544-BF6F-AB17A510D9D4",
+    "do_objectID": "67096A56-8C4B-4265-9D2F-3B8F67D9CA27",
     "guides": [
     ]
   }

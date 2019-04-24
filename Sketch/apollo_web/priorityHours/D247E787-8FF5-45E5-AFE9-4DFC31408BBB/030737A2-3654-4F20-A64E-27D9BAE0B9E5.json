@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "17BD6AD4-0C2B-4FFD-B82A-FBA4704BF11D",
+  "do_objectID": "030737A2-3654-4F20-A64E-27D9BAE0B9E5",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "2A7ED2EE-9872-48BA-B23C-FCBE5BB9D21E",
+    "do_objectID": "0B02C5DD-91AF-4521-BAD6-253DA9B22194",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -25,11 +25,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C6372C54-DA01-435C-AD8D-ECBA1B9B57C0",
-    "height": 668,
+    "do_objectID": "E7E5796F-EAC2-4617-9547-2F4163A97AC7",
+    "height": 48,
     "width": 280,
-    "x": 180,
-    "y": 292
+    "x": 48,
+    "y": 136
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -39,35 +39,35 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "base / login",
-  "nameIsFixed": true,
+  "name": "list / checkboxWhite",
+  "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "49119C0C-1F58-4647-8DC9-C2B898A3AC80",
-      "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/A7F18A83-FC5A-4B8F-891D-F08E89FBA1BB_stringValue",
-      "value": "My Regulars"
+      "do_objectID": "489C6757-5210-4B25-8CE6-1AD6518C2FD6",
+      "overrideName": "6FB1EB37-BCC7-47BB-AE5F-92EFF8A2E2CF_stringValue",
+      "value": "My Priority Hours\n"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "8B346B5F-E95B-4D60-9DBD-BBC64454C7C3",
-      "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/86C29F30-13E7-4ED6-AEED-D3F66743AE0A_symbolID",
-      "value": ""
+      "do_objectID": "6934B83B-3399-4D98-AA51-83E1B5CA5CC7",
+      "overrideName": "BA8C7734-5232-4E7D-B438-5BF01A523060/C467DEAD-D81B-48CB-8081-03539A11884F_symbolID",
+      "value": "69B5C64C-10A4-42F5-9B43-C795687C13C8"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "542E2596-5AA1-43A2-BD97-F2D9950D66C3",
+    "do_objectID": "52140DCA-F3F1-49A6-A4F1-314A8AE8E6A2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C3285D2A-B6A4-464B-9BBB-D1C9CE6D181E",
+  "symbolID": "DBC107D4-040F-4672-90AF-904C77AC8904",
   "verticalSpacing": 0
 }

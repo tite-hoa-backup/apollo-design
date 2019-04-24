@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B9EE59F6-3938-4DBD-9575-EFB6CEF17320",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "804091BC-8771-4FF2-A723-D51166A4102F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F3F0936A-469D-4AFC-A2D8-FC65099781B6",
+    "height": 32,
+    "width": 80,
+    "x": 80,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / tabButton / each",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1F3CA478-8251-4CBF-AF7E-9E0F9C41B608",
+      "overrideName": "CF536425-1E06-49E6-BFBB-C1AC08428314_stringValue",
+      "value": "Today"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6EEB2351-3B28-4C50-A3E3-98ED667BDF8A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EE21EC3B-2A4A-4326-80B7-2E59A0A2F2C8",
+  "verticalSpacing": 0
+}

@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "17BD6AD4-0C2B-4FFD-B82A-FBA4704BF11D",
+  "do_objectID": "918C1583-7DF3-4920-8F66-13BAE7BE8025",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "2A7ED2EE-9872-48BA-B23C-FCBE5BB9D21E",
+    "do_objectID": "3A5EB351-46A1-466D-847F-D086DB263903",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -25,11 +25,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C6372C54-DA01-435C-AD8D-ECBA1B9B57C0",
-    "height": 668,
+    "do_objectID": "CC7DA9F7-818A-416C-A29C-7E664EEBC4C5",
+    "height": 48,
     "width": 280,
-    "x": 180,
-    "y": 292
+    "x": 48,
+    "y": 184
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -39,35 +39,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "base / login",
+  "name": "list / checkboxWhite",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "49119C0C-1F58-4647-8DC9-C2B898A3AC80",
-      "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/A7F18A83-FC5A-4B8F-891D-F08E89FBA1BB_stringValue",
-      "value": "My Regulars"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "8B346B5F-E95B-4D60-9DBD-BBC64454C7C3",
-      "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/86C29F30-13E7-4ED6-AEED-D3F66743AE0A_symbolID",
-      "value": ""
+      "do_objectID": "489C6757-5210-4B25-8CE6-1AD6518C2FD6",
+      "overrideName": "6FB1EB37-BCC7-47BB-AE5F-92EFF8A2E2CF_stringValue",
+      "value": "Available Priority Hours\n\n"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "542E2596-5AA1-43A2-BD97-F2D9950D66C3",
+    "do_objectID": "73CF4C13-4160-4401-A628-64F04530ACCD",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C3285D2A-B6A4-464B-9BBB-D1C9CE6D181E",
+  "symbolID": "DBC107D4-040F-4672-90AF-904C77AC8904",
   "verticalSpacing": 0
 }

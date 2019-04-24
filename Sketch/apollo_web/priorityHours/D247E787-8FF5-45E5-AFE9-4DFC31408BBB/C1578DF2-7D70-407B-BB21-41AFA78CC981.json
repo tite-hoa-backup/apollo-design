@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "17BD6AD4-0C2B-4FFD-B82A-FBA4704BF11D",
+  "do_objectID": "C1578DF2-7D70-407B-BB21-41AFA78CC981",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "2A7ED2EE-9872-48BA-B23C-FCBE5BB9D21E",
+    "do_objectID": "39D3A35A-AFC1-43E1-AF88-00DE9A1352B6",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -25,11 +25,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C6372C54-DA01-435C-AD8D-ECBA1B9B57C0",
-    "height": 668,
+    "do_objectID": "990A45A6-C107-43A7-80CC-2074D818E209",
+    "height": 152,
     "width": 280,
-    "x": 180,
-    "y": 292
+    "x": 48,
+    "y": 96
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -46,11 +46,11 @@
       "_class": "overrideValue",
       "do_objectID": "49119C0C-1F58-4647-8DC9-C2B898A3AC80",
       "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/A7F18A83-FC5A-4B8F-891D-F08E89FBA1BB_stringValue",
-      "value": "My Regulars"
+      "value": "Calendar Display\n"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "8B346B5F-E95B-4D60-9DBD-BBC64454C7C3",
+      "do_objectID": "82BA2D81-6430-4EFB-ACD6-1195297962B0",
       "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/86C29F30-13E7-4ED6-AEED-D3F66743AE0A_symbolID",
       "value": ""
     }
@@ -62,7 +62,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "542E2596-5AA1-43A2-BD97-F2D9950D66C3",
+    "do_objectID": "5DCBEB15-9420-4B1E-8B89-05A65F472C34",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
