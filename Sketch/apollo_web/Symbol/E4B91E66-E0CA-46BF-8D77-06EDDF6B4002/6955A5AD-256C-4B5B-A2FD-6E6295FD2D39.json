@@ -2,19 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9EB088BA-6757-4784-9891-638DFDD5BF6D",
+  "do_objectID": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -24,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 584,
-    "width": 480,
-    "x": 480,
-    "y": 128
+    "height": 32,
+    "width": 328,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -37,17 +28,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "base / login",
+  "name": "base / baseHeader",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "7A7868A4-27FE-4FD8-B19E-F8BD1149A667",
-      "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39_symbolID",
-      "value": ""
-    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -59,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C3285D2A-B6A4-464B-9BBB-D1C9CE6D181E",
+  "symbolID": "875BA7CE-86AD-478C-B41F-1C91D2DD1AF9",
   "verticalSpacing": 0
 }

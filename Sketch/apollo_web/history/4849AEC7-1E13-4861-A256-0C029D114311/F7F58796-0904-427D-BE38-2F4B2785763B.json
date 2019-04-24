@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9EB088BA-6757-4784-9891-638DFDD5BF6D",
+  "do_objectID": "F7F58796-0904-427D-BE38-2F4B2785763B",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "1A1160B1-0F77-4499-A5F1-F1B517872E82",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -24,10 +25,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 584,
-    "width": 480,
-    "x": 480,
-    "y": 128
+    "do_objectID": "EBD9EB22-442A-47E3-878C-8871BD100552",
+    "height": 164,
+    "width": 1080,
+    "x": 180,
+    "y": 96
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -42,7 +44,7 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "7A7868A4-27FE-4FD8-B19E-F8BD1149A667",
+      "do_objectID": "92611D45-B69A-487D-9878-02C41E8B4C40",
       "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39_symbolID",
       "value": ""
     }
@@ -54,6 +56,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "3534BFB8-674A-4B08-8ECA-87D03EC6923B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

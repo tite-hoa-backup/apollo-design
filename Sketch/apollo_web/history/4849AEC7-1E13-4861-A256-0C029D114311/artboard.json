@@ -66,6 +66,18 @@
     {
       "class": "symbolInstance",
       "id": "20018DC1-E70E-490B-8A91-D908B299D0B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F7F58796-0904-427D-BE38-2F4B2785763B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "17BD6AD4-0C2B-4FFD-B82A-FBA4704BF11D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF627B46-F3E7-4AAD-B4C8-8FB0EF5086AF"
     }
   ],
   "name": "history / basic",
@@ -77,7 +89,7 @@
     "offersLandscapeVariant": 0,
     "width": 1440
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9EB088BA-6757-4784-9891-638DFDD5BF6D",
+  "do_objectID": "DF627B46-F3E7-4AAD-B4C8-8FB0EF5086AF",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "AC5FDB0D-9E91-409E-9027-BF62597A104E",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -24,10 +25,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 584,
-    "width": 480,
-    "x": 480,
-    "y": 128
+    "do_objectID": "5F5E3746-8DA8-44E3-BA67-2311EE017792",
+    "height": 668,
+    "width": 768,
+    "x": 492,
+    "y": 292
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -37,14 +39,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "base / login",
-  "nameIsFixed": false,
+  "name": "base / login copy",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "7A7868A4-27FE-4FD8-B19E-F8BD1149A667",
-      "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39_symbolID",
-      "value": ""
+      "do_objectID": "49119C0C-1F58-4647-8DC9-C2B898A3AC80",
+      "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/A7F18A83-FC5A-4B8F-891D-F08E89FBA1BB_stringValue",
+      "value": "Call Log"
     }
   ],
   "resizingConstraint": 63,
@@ -54,6 +56,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "74BBF536-A4E7-4D60-A231-CF3996942A71",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
