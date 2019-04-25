@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "469A71EE-B199-4553-80F3-A8421DFF3B42",
+  "do_objectID": "C789F21D-D152-4EC3-BB98-457A6EF74449",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "F572128F-3C89-41EB-A2D7-A18007791BD2",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -42,10 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 234,
-    "x": 71,
-    "y": 148
+    "do_objectID": "A6A186F8-6E1B-403E-9FD8-E028B4DB71D2",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 200
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,9 +57,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "logo_onDark",
+  "name": "misc / centerTextPlaceholder",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6E9AC1B0-CAC1-44E1-A42E-CE53B56C2795",
+      "overrideName": "32BEF489-A6AC-4B91-8498-52A9004281F9_stringValue",
+      "value": "Practice Speaking with Native English Speakers"
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -66,11 +74,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "4F33A504-CAD5-4123-BBA6-8E9A7D6FF42B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "DDBDC877-0B80-4526-A999-76CD60BBE13A",
+  "symbolID": "DA025FAC-07DE-40E9-884E-EB0BF8882D00",
   "verticalSpacing": 0
 }

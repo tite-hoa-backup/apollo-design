@@ -2,16 +2,17 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "469A71EE-B199-4553-80F3-A8421DFF3B42",
+  "do_objectID": "72E292D4-A5D7-495A-9ABA-4A8C4919BD9E",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "E304E8CF-BC64-4366-BD80-C89C9DB097FA",
     "exportFormats": [
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
+        "name": "mdpi/",
+        "namingScheme": 1,
         "scale": 1,
         "visibleScaleType": 0
       },
@@ -19,8 +20,17 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
         "scale": 2,
         "visibleScaleType": 0
       },
@@ -28,9 +38,18 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "@3x",
-        "namingScheme": 0,
+        "name": "xxhdpi/",
+        "namingScheme": 1,
         "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
         "visibleScaleType": 0
       }
     ],
@@ -42,10 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 234,
-    "x": 71,
-    "y": 148
+    "do_objectID": "065728E9-5C5D-4963-AFE6-3620517471CF",
+    "height": 48,
+    "width": 360,
+    "x": 0,
+    "y": 176
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,9 +75,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "logo_onDark",
+  "name": "misc / centerTextPlaceholder",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A967202-E827-4315-BD5C-CA68AC7CA617",
+      "overrideName": "C329408D-2BDF-4779-A5CF-F460641B71AA_stringValue",
+      "value": "Practice Speaking with Native English Speakers"
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -66,11 +92,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "B38D9701-F5A9-4516-9CD6-E84837D6D838",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "DDBDC877-0B80-4526-A999-76CD60BBE13A",
+  "symbolID": "CBA62E75-F276-449B-B382-7AC0749A22A6",
   "verticalSpacing": 0
 }
