@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "72065D75-38AF-40AA-A084-16CB8F55A68A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "140F015E-DC13-404A-9578-0C9CDCB0AA95",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F3A91FD6-7789-4F0F-AE4E-31FA972150CC",
+    "height": 164,
+    "width": 192,
+    "x": 688,
+    "y": 96
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / historyStats",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D03DCCE2-2B26-4EC4-BDBA-29D874A09AE7",
+      "overrideName": "FBC6B743-CA94-4DBA-8FA4-F1C77A7A37A5_stringValue",
+      "value": "16"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "88E8B735-AC7F-48D1-A34F-3B5C79C472DE",
+      "overrideName": "42E627FE-3187-46FD-88BD-737DAAFD07DC_stringValue",
+      "value": "Students met"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3F8542F9-846B-43CB-93D4-CEEE072253F7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C9BD5862-BC85-4507-85A0-DAA0DD712AAB",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "78677E4E-9FDE-486F-920F-16CDE55BCFEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "07D4CEF7-2E46-49F3-BB44-3E0354B28D25",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BD99212C-8742-40DC-B8DF-AE9804FC0996",
+    "height": 164,
+    "width": 192,
+    "x": 80,
+    "y": 96
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / historyStats",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D03DCCE2-2B26-4EC4-BDBA-29D874A09AE7",
+      "overrideName": "FBC6B743-CA94-4DBA-8FA4-F1C77A7A37A5_stringValue",
+      "value": "US $14.50"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "88E8B735-AC7F-48D1-A34F-3B5C79C472DE",
+      "overrideName": "42E627FE-3187-46FD-88BD-737DAAFD07DC_stringValue",
+      "value": "Current balance"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2B32B333-076C-47BB-AD14-1BB8FAE19491",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C9BD5862-BC85-4507-85A0-DAA0DD712AAB",
+  "verticalSpacing": 0
+}

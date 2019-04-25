@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B18EEB1E-71A5-4F90-96D3-D0A7886E6A5E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CB81BB7B-A023-4162-9882-B25403ABEAD0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9D3E9809-662C-468B-86B3-86264242F3D2",
+    "height": 164,
+    "width": 192,
+    "x": 496,
+    "y": 96
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / historyStats",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D03DCCE2-2B26-4EC4-BDBA-29D874A09AE7",
+      "overrideName": "FBC6B743-CA94-4DBA-8FA4-F1C77A7A37A5_stringValue",
+      "value": "32"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "88E8B735-AC7F-48D1-A34F-3B5C79C472DE",
+      "overrideName": "42E627FE-3187-46FD-88BD-737DAAFD07DC_stringValue",
+      "value": "Total chats"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "73004D03-341B-48A0-A145-9647C2320DB9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C9BD5862-BC85-4507-85A0-DAA0DD712AAB",
+  "verticalSpacing": 0
+}
