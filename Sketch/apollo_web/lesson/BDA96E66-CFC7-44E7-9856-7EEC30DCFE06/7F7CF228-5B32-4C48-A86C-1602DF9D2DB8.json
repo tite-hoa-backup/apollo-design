@@ -24,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 90,
+    "height": 86,
     "width": 96,
     "x": 728,
-    "y": 870
+    "y": 874
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -42,15 +42,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "3E416CCE-97C2-4E8E-8BF0-91769061935D",
-      "overrideName": "D89F232A-3082-48B4-AEF5-292F9C90B623_stringValue",
-      "value": "Cam On"
+      "do_objectID": "575DEE98-402B-41DC-AC00-85536AEE9967",
+      "overrideName": "3693561F-EF28-4549-ADB2-5B0E65C68402_symbolID",
+      "value": "203205AB-B804-4D65-BE4C-8423E706C2A1"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "62D126E4-2D34-433A-8BE1-C7C03865D684",
-      "overrideName": "3693561F-EF28-4549-ADB2-5B0E65C68402_symbolID",
-      "value": "203205AB-B804-4D65-BE4C-8423E706C2A1"
+      "do_objectID": "AEEA39EA-53C1-4484-BE6B-1763FC1F6976",
+      "overrideName": "D89F232A-3082-48B4-AEF5-292F9C90B623_stringValue",
+      "value": "Cam On"
     }
   ],
   "resizingConstraint": 63,

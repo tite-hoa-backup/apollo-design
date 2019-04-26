@@ -26,10 +26,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "ABCF28A4-AB50-42B8-A2D1-9659D4650756",
-    "height": 90,
+    "height": 86,
     "width": 96,
     "x": 616,
-    "y": 870
+    "y": 874
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -44,15 +44,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "3E416CCE-97C2-4E8E-8BF0-91769061935D",
-      "overrideName": "6555B0CD-E9BE-4B1C-BBC6-9133867DA038_stringValue",
-      "value": "Mic On"
+      "do_objectID": "73BA8DA7-09E2-4C2C-B5D4-53B49ECC3A68",
+      "overrideName": "3693561F-EF28-4549-ADB2-5B0E65C68402_symbolID",
+      "value": "CE08A07E-9BB0-4D3A-A1A0-609BB2B38064"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "26824638-5D37-4D3D-88E4-AB7A0A6B9CEF",
-      "overrideName": "DBE2052E-2CA5-47F0-A195-0986B556E661_symbolID",
-      "value": "CE08A07E-9BB0-4D3A-A1A0-609BB2B38064"
+      "do_objectID": "862DEA62-4386-47B9-90C8-A79137B92960",
+      "overrideName": "D89F232A-3082-48B4-AEF5-292F9C90B623_stringValue",
+      "value": "Mic On"
     }
   ],
   "resizingConstraint": 63,
@@ -68,6 +68,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A1812021-3399-4C8D-88D3-6A8F58FAC81B",
+  "symbolID": "BC8FB314-81BF-45D1-A867-FE62FC7A96DD",
   "verticalSpacing": 0
 }

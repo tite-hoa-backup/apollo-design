@@ -26,10 +26,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F1F7923A-C82B-4971-A946-04B2390166D8",
-    "height": 90,
+    "height": 86,
     "width": 96,
     "x": 728,
-    "y": 870
+    "y": 874
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -44,15 +44,15 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "3E416CCE-97C2-4E8E-8BF0-91769061935D",
-      "overrideName": "6555B0CD-E9BE-4B1C-BBC6-9133867DA038_stringValue",
-      "value": "Cam On"
+      "do_objectID": "9EE12DCE-56BA-48FB-80DC-31C51D0C101A",
+      "overrideName": "3693561F-EF28-4549-ADB2-5B0E65C68402_symbolID",
+      "value": "203205AB-B804-4D65-BE4C-8423E706C2A1"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "62D126E4-2D34-433A-8BE1-C7C03865D684",
-      "overrideName": "DBE2052E-2CA5-47F0-A195-0986B556E661_symbolID",
-      "value": "203205AB-B804-4D65-BE4C-8423E706C2A1"
+      "do_objectID": "BDAE500E-D78C-4092-9ACC-0D458AA18370",
+      "overrideName": "D89F232A-3082-48B4-AEF5-292F9C90B623_stringValue",
+      "value": "Cam On"
     }
   ],
   "resizingConstraint": 63,
@@ -68,6 +68,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A1812021-3399-4C8D-88D3-6A8F58FAC81B",
+  "symbolID": "BC8FB314-81BF-45D1-A867-FE62FC7A96DD",
   "verticalSpacing": 0
 }
