@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7F7CF228-5B32-4C48-A86C-1602DF9D2DB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 96,
+    "x": 728,
+    "y": 870
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / lessonOnDark",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3E416CCE-97C2-4E8E-8BF0-91769061935D",
+      "overrideName": "D89F232A-3082-48B4-AEF5-292F9C90B623_stringValue",
+      "value": "Cam On"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "62D126E4-2D34-433A-8BE1-C7C03865D684",
+      "overrideName": "3693561F-EF28-4549-ADB2-5B0E65C68402_symbolID",
+      "value": "203205AB-B804-4D65-BE4C-8423E706C2A1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BC8FB314-81BF-45D1-A867-FE62FC7A96DD",
+  "verticalSpacing": 0
+}

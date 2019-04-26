@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4109B09A-6441-43E7-8234-896038F470DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DF20BD9C-392C-41CA-8222-EA9446A01C39",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A78B31AE-6867-4D28-BF31-67DE0D0BD7ED",
+    "height": 48,
+    "width": 48,
+    "x": 696,
+    "y": 488
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Controls / Progress Indicator / Dark - Indeterminate Spinner",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.371428571428571,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "2A9E55AD-BDE4-4417-90D1-DF2E050C98E6",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.71428571428572,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "4C4015BB-8597-4E38-837B-AF0A8D9A128E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DB535F6F-74AA-4C69-9E9E-3CF5ED4431FE",
+  "verticalSpacing": 0
+}

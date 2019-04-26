@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "93760EB0-2CA9-44A5-A7ED-F30FFD44518C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 360,
+    "x": 540,
+    "y": 552
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "misc / centerTextPlaceholder",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1BBCA173-CF1D-4C40-A992-45591BA72D0F",
+      "overrideName": "1DCFFD58-35AA-488B-B917-FD5DBD8B6992_textStyle",
+      "value": "E04A9866-16DD-4076-81DA-ED4FCC16FEA3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4F762752-2368-438A-AADC-1EAF269D802F",
+      "overrideName": "1DCFFD58-35AA-488B-B917-FD5DBD8B6992_stringValue",
+      "value": "Connecting to Camera..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D6AFFC63-D5F2-4091-A84A-986EBCBD9047",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,112 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "do_objectID": "E6536BB7-928F-4352-92C8-DB761E3121EF",
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BDA96E66-CFC7-44E7-9856-7EEC30DCFE06",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8A64B85B-2510-4C3D-949A-465A7BE74897",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1BC622F4-B9A6-4DE9-8EAC-2F1681920DFA",
+    "height": 1024,
+    "width": 1440,
+    "x": -564,
+    "y": 652
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0D04B24F-9840-4257-9EDF-A4D46AED56AC"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D07D6EF9-39AC-410C-9C20-243569E604A7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C5B59769-2126-4DB3-8ABA-B4CD1BCC2116"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7F7CF228-5B32-4C48-A86C-1602DF9D2DB8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3B51536-127A-49FD-935B-BE5BD5A70FD4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34502E3F-C68B-4BE3-952C-89C94C5C916A"
+    }
+  ],
+  "name": "lesson / connecting-camera",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B3BE2EB8-6CA9-4D0B-8FE8-B6E28F7FA47E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C9CC3DB7-494D-4987-A459-5CC88E3FDBA4",
+    "guides": [
+    ]
+  }
+}
