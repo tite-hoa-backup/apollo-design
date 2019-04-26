@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ED6A8923-D731-4FA8-B3FE-80D85B44D3A9",
+  "do_objectID": "7C856B24-167F-41E1-B36E-5F4930DD0B05",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F5B659FD-A9C7-4A3F-A2DF-0BBC3242DD28",
+    "do_objectID": "B766CE6F-48D5-4204-B9A8-F08043E88559",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -25,11 +25,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2B7D2C1A-7DC7-4222-931C-338E43988397",
-    "height": 32,
+    "do_objectID": "E7361D0F-0EAA-4E90-BB87-2BE28181F649",
+    "height": 86,
     "width": 320,
     "x": 32,
-    "y": 398
+    "y": 280
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -46,11 +46,11 @@
       "_class": "overrideValue",
       "do_objectID": "49119C0C-1F58-4647-8DC9-C2B898A3AC80",
       "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/A7F18A83-FC5A-4B8F-891D-F08E89FBA1BB_stringValue",
-      "value": "Export Calendar"
+      "value": "Timezone\n"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "E874E195-0F1E-415A-878F-6805B7BDC9F4",
+      "do_objectID": "3C3367A7-A25B-4AA2-8840-7FD543AF3B1E",
       "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/86C29F30-13E7-4ED6-AEED-D3F66743AE0A/AB73D1F8-C8B7-4574-86FE-3963C3CECE16_symbolID",
       "value": "0DCB4ED6-E5E8-416A-8367-3E48B427F9E0"
     }
@@ -62,7 +62,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0421695D-1919-4112-94E9-AF1412AA35A7",
+    "do_objectID": "3291A048-A975-4BAB-B960-4D8839C77B45",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
