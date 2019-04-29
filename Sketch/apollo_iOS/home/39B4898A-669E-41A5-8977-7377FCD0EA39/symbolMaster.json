@@ -1,0 +1,150 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A7C42B9D-465C-4D15-9D8A-5689CEFA52B0",
+    "green": 0.3008003048780488,
+    "red": 0.5166644590046954
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 316,
+  "clippingMaskMode": 0,
+  "do_objectID": "39B4898A-669E-41A5-8977-7377FCD0EA39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EB8DD92A-84C6-4056-ABCA-8C38B7EA3495",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61A8B9E2-F2AD-4043-B605-3D8F27B1E7C0",
+    "height": 667,
+    "width": 375,
+    "x": -1535,
+    "y": 1050
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D069852E-BBD4-415F-9431-B452A61ABA2E"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5BED4BDC-862E-4E64-B545-695A0BDB51C4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C92CA022-C9A8-42B2-B68E-3CB83473CC10"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ADB84E51-99C6-44DE-ACCB-4F36E3D41271"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D21F37D2-3D3F-4010-998E-8B8C24110DDE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "60E435AE-A90D-4885-B26E-1BC67A632738"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "075352FC-EEDC-4015-A3BD-7775A10DE1CC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E4E618A-9D82-4F71-97F3-AD21C1E20831"
+    }
+  ],
+  "name": "home / basicNoHighlight",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BF564B11-873D-4762-87A3-B7ADF794E320_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "075352FC-EEDC-4015-A3BD-7775A10DE1CC_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "ADB84E51-99C6-44DE-ACCB-4F36E3D41271_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "60E435AE-A90D-4885-B26E-1BC67A632738_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D21F37D2-3D3F-4010-998E-8B8C24110DDE_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0E4E618A-9D82-4F71-97F3-AD21C1E20831_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C92CA022-C9A8-42B2-B68E-3CB83473CC10_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "751661D1-8B07-458D-9850-2767BFEFA131_symbolID"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0D2361A1-6658-49FD-A749-B2684ED54A6B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "640FDBBC-9C21-405D-A341-0737F3FED834",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B5FF0DE6-2966-4D0C-AE28-747689D695A8",
+    "guides": [
+    ]
+  }
+}
