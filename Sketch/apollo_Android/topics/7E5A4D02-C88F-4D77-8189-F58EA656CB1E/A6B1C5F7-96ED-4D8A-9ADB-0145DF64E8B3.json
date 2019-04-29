@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E8FB387E-8B1E-41BC-9DA1-A02BBAE934E5",
+  "do_objectID": "A6B1C5F7-96ED-4D8A-9ADB-0145DF64E8B3",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "07B7A8EB-C011-45ED-BCE0-7D41193C0E24",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,10 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
+    "do_objectID": "5D6747EA-09CB-4433-93D1-C7BD114F1C91",
+    "height": 48,
     "width": 360,
     "x": 0,
-    "y": 480
+    "y": 24
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -73,24 +75,26 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / cities / cityEach",
-  "nameIsFixed": false,
+  "name": "header / basic",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "6D813E3A-C6FB-432C-8216-D8D3FE79D684",
-      "overrideName": "2FD14B0D-F92B-4CE7-884E-340886F2E706_stringValue",
-      "value": "Oakland, CA"
+      "do_objectID": "D8F33DE5-D6AE-42FD-871C-1F8DB04B8E18",
+      "overrideName": "23066DF3-1FD3-4594-AD2B-E4908E5C92F1_symbolID",
+      "value": ""
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "DFD4701A-0B19-4DA5-A235-AFE1C42398BC",
-      "overrideName": "319800FD-5C6F-454C-B176-CBEFEB554497_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/4729d07f02e1ec2edc765fe71a1194ac9b9079a9.png",
-        "_ref_class": "MSImageData"
-      }
+      "do_objectID": "F84FB046-76C4-4DAE-9772-66E0D139E225",
+      "overrideName": "B15AC07F-0352-4566-9679-AA20678C4D86_stringValue",
+      "value": "Topics"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CD9786A1-9A4E-43A2-AE96-76FDDDF6C040",
+      "overrideName": "8C3A6E90-1BA7-44AA-8600-42B4895B9866_stringValue",
+      "value": "Filters"
     }
   ],
   "resizingConstraint": 13,
@@ -100,16 +104,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "823575DE-82B6-4965-B2B6-2A13F9EDA5B5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "2FE0E14A-95A5-45A6-961C-91619C747380",
-  "userInfo": {
-    "unsplash": {
-      "unsplash.search.term": "\"city\""
-    }
-  },
+  "symbolID": "A64CE8A3-9447-46C3-8A8C-AA9EDFF8C6DD",
   "verticalSpacing": 0
 }

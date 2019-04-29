@@ -75,26 +75,32 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "tab / headerTab",
-  "nameIsFixed": false,
+  "name": "tab / headerTabHalf",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "80A52CF4-6828-4DC7-9FD0-7A91BBB297E0",
-      "overrideName": "004363F6-0FA8-4F25-89DB-DD6C5BE66A61/A2266EAD-C8FB-40AC-AC1B-BCD83A0D5235_stringValue",
+      "do_objectID": "19FCF3FD-F1C8-4E6A-B58D-66786D88EA8D",
+      "overrideName": "2F7DD471-6D56-4798-8DA0-224C3EDE85D8_symbolID",
+      "value": "0FE72FAE-6E4B-4E8C-A5DB-DDA2B04BF983"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5DEFBCB8-62BA-475C-BB1C-6C82C478BA92",
+      "overrideName": "2F7DD471-6D56-4798-8DA0-224C3EDE85D8/7A9E13FF-DCF6-44CD-81FA-44FF731DADF0_stringValue",
+      "value": "Cities"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0718683D-EA70-48A5-AE15-874B73D901A1",
+      "overrideName": "242C1C70-A022-4E18-8B3B-88666F40254E_symbolID",
+      "value": "73EA593B-7E88-4A84-97D4-235EC49E571A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "029F55B2-94E2-4E83-95AF-3DACF69EDDDF",
+      "overrideName": "242C1C70-A022-4E18-8B3B-88666F40254E/A2266EAD-C8FB-40AC-AC1B-BCD83A0D5235_stringValue",
       "value": "Examination"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "0BA5F29C-F135-4F55-AC55-4DC5B480796F",
-      "overrideName": "FF147A56-3341-485F-93F1-ECC339DB1B49/7A9E13FF-DCF6-44CD-81FA-44FF731DADF0_stringValue",
-      "value": "Conversational"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "1B4EFB86-F594-47BA-B828-C9781735400C",
-      "overrideName": "4F234B19-CC2E-4393-97F8-A9DB25CBF506/7A9E13FF-DCF6-44CD-81FA-44FF731DADF0_stringValue",
-      "value": "Professional"
     }
   ],
   "resizingConstraint": 13,
@@ -110,6 +116,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "60074061-A24B-46CA-ADF9-00E0D5A38F50",
+  "symbolID": "4D0A0E71-6474-4F5F-A083-4A29BBBE4800",
   "verticalSpacing": 0
 }

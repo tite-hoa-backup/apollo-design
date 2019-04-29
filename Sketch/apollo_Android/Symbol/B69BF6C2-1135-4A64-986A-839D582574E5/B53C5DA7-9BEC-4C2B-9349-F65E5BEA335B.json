@@ -2,16 +2,17 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E912F5BF-DF0B-437B-9F1C-1C82F0E1F8E8",
+  "do_objectID": "B53C5DA7-9BEC-4C2B-9349-F65E5BEA335B",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "EBB19A8A-6C4C-40B7-BC75-545B4A9CDB30",
     "exportFormats": [
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
+        "name": "mdpi/",
+        "namingScheme": 1,
         "scale": 1,
         "visibleScaleType": 0
       },
@@ -19,8 +20,17 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
         "scale": 2,
         "visibleScaleType": 0
       },
@@ -28,9 +38,18 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "@3x",
-        "namingScheme": 0,
+        "name": "xxhdpi/",
+        "namingScheme": 1,
         "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
         "visibleScaleType": 0
       }
     ],
@@ -42,10 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
-    "width": 375,
+    "do_objectID": "2F5196E5-FF60-4FE4-891F-29CB88B856BC",
+    "height": 1,
+    "width": 360,
     "x": 0,
-    "y": 556
+    "y": 47
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,25 +75,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / cities / cityEach",
+  "name": "misc / strokeWhite38",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "AA82241E-6203-4DCE-80B7-CFE0CB3C271A",
-      "overrideName": "08D498E5-B3F2-4691-AE8B-871ACE5E33C7_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/3df06786cb72b9d315152fc864fb186f536decb8.png",
-        "_ref_class": "MSImageData"
-      }
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "825B07B9-4ADC-45BA-AF4C-2B4E47CE31A2",
-      "overrideName": "EDAA533E-7E4F-4158-BEA2-C7CF4FE071A1_stringValue",
-      "value": "Philadelphia, PA"
-    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -82,16 +86,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "B2DB53AB-8849-4728-9A9F-D69DBA7A641D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "AB31AE44-912E-421A-8FBD-A5CD7736960E",
-  "userInfo": {
-    "unsplash": {
-      "unsplash.search.term": "\"city\""
-    }
-  },
+  "symbolID": "FE3C0033-F64F-4299-9114-DB34CC75B214",
   "verticalSpacing": 0
 }

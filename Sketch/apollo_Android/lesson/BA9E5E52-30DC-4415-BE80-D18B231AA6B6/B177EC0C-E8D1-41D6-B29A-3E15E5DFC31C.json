@@ -2,17 +2,17 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "25B812BB-4311-4BAB-8EF0-BE0241CC9CC3",
+  "do_objectID": "B177EC0C-E8D1-41D6-B29A-3E15E5DFC31C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B05B4EC8-C29C-4C66-A47E-5039F11C3A13",
+    "do_objectID": "87DF6A56-3AF6-4936-B776-5375D8957F1A",
     "exportFormats": [
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
+        "name": "mdpi/",
+        "namingScheme": 1,
         "scale": 1,
         "visibleScaleType": 0
       },
@@ -20,8 +20,17 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "@2x",
-        "namingScheme": 0,
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
         "scale": 2,
         "visibleScaleType": 0
       },
@@ -29,9 +38,18 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "@3x",
-        "namingScheme": 0,
+        "name": "xxhdpi/",
+        "namingScheme": 1,
         "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
         "visibleScaleType": 0
       }
     ],
@@ -43,11 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "43F3319E-3651-401C-97E6-F9BD74A2ED74",
-    "height": 80,
-    "width": 375,
+    "do_objectID": "BC074A07-1FF5-4E73-93DC-EE267A071970",
+    "height": 640,
+    "width": 360,
     "x": 0,
-    "y": 524
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,25 +75,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / cities / cityEach",
+  "name": "misc / dimLayer54",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "97CC0F28-59CE-491E-A087-FAAEA4029BFB",
-      "overrideName": "08D498E5-B3F2-4691-AE8B-871ACE5E33C7_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/d99b9382c41b5193412a83351cc342b15aafda78.png",
-        "_ref_class": "MSImageData"
-      }
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "817F67F3-5D6F-4BF2-B5E1-2B8D788534FE",
-      "overrideName": "EDAA533E-7E4F-4158-BEA2-C7CF4FE071A1_stringValue",
-      "value": "Oakland, CA"
-    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -84,17 +86,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6E8BEFF3-BF6D-44FC-B9FF-14C122408BD5",
+    "do_objectID": "4E2B96A1-75F9-453C-A61C-C6CE027CEECF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "AB31AE44-912E-421A-8FBD-A5CD7736960E",
-  "userInfo": {
-    "unsplash": {
-      "unsplash.search.term": "\"city\""
-    }
-  },
+  "symbolID": "CAB52C90-1DE4-43C4-BC9F-5710136944B4",
   "verticalSpacing": 0
 }

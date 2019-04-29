@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6E787986-D287-470F-8E67-9997CDD69C62",
+  "do_objectID": "AC942A78-A62F-4638-8BC1-7B032BAEB552",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "3CFC804E-0EBA-41A0-A87C-C5DEB8BCA1F2",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -60,10 +61,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "1155D9FB-FCE9-4988-AA58-56E20239DF3E",
     "height": 48,
     "width": 360,
     "x": 0,
-    "y": 24
+    "y": 72
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -73,23 +75,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "header / basic",
+  "name": "tab / headerTabHalf",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "23066DF3-1FD3-4594-AD2B-E4908E5C92F1_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "B15AC07F-0352-4566-9679-AA20678C4D86_stringValue",
+      "do_objectID": "AD0C1C84-22CC-4C92-9D77-55800800A283",
+      "overrideName": "2F7DD471-6D56-4798-8DA0-224C3EDE85D8/A2266EAD-C8FB-40AC-AC1B-BCD83A0D5235_stringValue",
       "value": "Cities"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "8C3A6E90-1BA7-44AA-8600-42B4895B9866_stringValue",
-      "value": "Filters"
+      "do_objectID": "346CCE9D-CEDC-4365-B116-84B656EA0AE2",
+      "overrideName": "242C1C70-A022-4E18-8B3B-88666F40254E/7A9E13FF-DCF6-44CD-81FA-44FF731DADF0_stringValue",
+      "value": "Examination"
     }
   ],
   "resizingConstraint": 13,
@@ -99,11 +98,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "6B59DA99-8133-45EB-ABF2-9EEEC706E65E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A64CE8A3-9447-46C3-8A8C-AA9EDFF8C6DD",
+  "symbolID": "4D0A0E71-6474-4F5F-A083-4A29BBBE4800",
   "verticalSpacing": 0
 }
