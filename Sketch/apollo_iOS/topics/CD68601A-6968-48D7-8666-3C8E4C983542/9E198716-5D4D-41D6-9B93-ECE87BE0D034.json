@@ -1,0 +1,100 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9E198716-5D4D-41D6-9B93-ECE87BE0D034",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A529832-7333-42F7-8140-BCABA9F4F01F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2F9D1181-3A73-4D9B-8BAA-6EB3082CCF85",
+    "height": 164,
+    "width": 375,
+    "x": 0,
+    "y": 508
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / cities / attractions",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1DB0FAA5-C11D-4AE1-98D3-CB7A284E61F5",
+      "overrideName": "8E025D53-6C49-4945-888E-EC23058DC94D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/def788e805531ad5ce14cf38ffb132acc4969080.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "42BB33ED-E0F1-433E-8427-A4454797FFB7",
+      "overrideName": "1A505220-74B2-49B6-BC03-DE7E18CC7670_stringValue",
+      "value": "Getty Museum"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0D1F1D54-64C2-43A1-9498-6B18243B3D97",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E38B48B4-3EE2-43F0-8DDA-F590AA7C6836",
+  "userInfo": {
+    "unsplash": {
+      "unsplash.search.term": "\"Getty Museum\""
+    }
+  },
+  "verticalSpacing": 0
+}
