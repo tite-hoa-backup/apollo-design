@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "628DE9C7-F1DD-420B-82DB-A265503FDA73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B6FA9E23-A638-42A6-9604-2A8239C74EB1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F8F19417-0C71-43D9-B9AE-707251A17DC2",
+    "height": 112,
+    "width": 375,
+    "x": 0,
+    "y": 404
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / testprep / lesson",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B65349A2-321E-4246-9BC2-D61270339A96",
+      "overrideName": "12E178A6-9AF4-488C-9405-CC3DD4708ABC_stringValue",
+      "value": "Tourist Attraction"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C7A7BE1D-95AD-4733-B680-A60B61C6BAD3",
+      "overrideName": "E05BB686-A5CF-4AAD-9D1C-6D3A58293DDA_stringValue",
+      "value": "Lesson 3"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6C378FEB-FFC2-45F4-A5FA-918A4F2447CA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "42B261AE-F145-42C4-8E12-F23EC14B4BA6",
+  "verticalSpacing": 0
+}

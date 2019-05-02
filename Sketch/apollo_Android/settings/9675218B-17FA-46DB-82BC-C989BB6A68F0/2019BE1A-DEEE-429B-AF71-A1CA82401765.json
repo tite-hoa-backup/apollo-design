@@ -60,10 +60,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 168,
+    "height": 147,
     "width": 270,
     "x": 45,
-    "y": 236
+    "y": 247
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -73,38 +73,38 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Views/Alerts/Default 3 Lines",
-  "nameIsFixed": false,
+  "name": "Views/Alerts/Default 2 Lines",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "B75D8ABD-5A99-4180-96F6-3664F2D987C4",
-      "overrideName": "19C087DD-71FA-4A50-BC5B-68F8AFE5B6A1_symbolID",
+      "do_objectID": "40D6F710-2AF1-4495-8751-E01897B1E246",
+      "overrideName": "56C6B25F-DFDD-4210-A2B8-44DB707A3E43_symbolID",
       "value": "A80AC2E8-2354-40A6-B217-41457A65A91C"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "CB9F5466-AD07-4F47-8F10-EA7D2CD1FEA9",
-      "overrideName": "19C087DD-71FA-4A50-BC5B-68F8AFE5B6A1/7A64E212-FD9F-4269-8C2B-743BE17BBFD2_stringValue",
+      "do_objectID": "9449C9B1-C555-499F-B5EA-717342748D0C",
+      "overrideName": "56C6B25F-DFDD-4210-A2B8-44DB707A3E43/7A64E212-FD9F-4269-8C2B-743BE17BBFD2_stringValue",
       "value": "Rate Now"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "26FCDD8A-52BA-482E-B7B5-751E2ED9354B",
-      "overrideName": "19C087DD-71FA-4A50-BC5B-68F8AFE5B6A1/9B429078-3980-42A6-928F-AB483A345CE2_stringValue",
+      "do_objectID": "603A7278-59BF-450A-9B2C-885662304548",
+      "overrideName": "56C6B25F-DFDD-4210-A2B8-44DB707A3E43/9B429078-3980-42A6-928F-AB483A345CE2_stringValue",
       "value": "Maybe Later"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "9CD8AC87-37BF-425B-930B-06FACF2B200C",
-      "overrideName": "A21BFF37-E3C5-47AC-8125-DA572959BB7A_stringValue",
-      "value": "Rate Apollo"
+      "do_objectID": "DEE5EF2D-35F9-44B0-8937-4149E1C4EC98",
+      "overrideName": "0AE8E77D-0A38-4EA2-B4E2-1E24291F86E8_stringValue",
+      "value": "If you enjoy using Apollo, please take a moment to rate us. Thank you!"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "9A2E5160-87F9-44C5-9E43-5458C60E1A2D",
-      "overrideName": "6139CB06-F058-4F53-AFEC-BD7DFF9715BD_stringValue",
-      "value": "If you enjoy using Apollo, please take a moment to rate this app. Thanks for your support!"
+      "do_objectID": "2C3426F6-11C3-4160-BDF7-F77872624B8B",
+      "overrideName": "62C5644E-CE51-4BC5-B7BD-6FFB2B17D1F3_stringValue",
+      "value": "Rate Apollo"
     }
   ],
   "resizingConstraint": 13,
@@ -119,6 +119,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7F1A9931-D4E7-49C5-9740-0D625D39B8E0",
+  "symbolID": "83AC8743-A093-40A8-A225-1183970B8D1C",
   "verticalSpacing": 0
 }

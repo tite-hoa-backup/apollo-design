@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6825AF27-6C31-4402-AA14-C58C6DFAC8C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2D4F8DC7-7E4F-4144-AFE2-4EFE344AC68B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "422E7745-ABD7-44C0-B771-8182BF82BD23",
+    "height": 112,
+    "width": 375,
+    "x": 0,
+    "y": 516
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / testprep / lesson",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D56C82AA-D1E8-4D0B-83D2-3453D26886D1",
+      "overrideName": "12E178A6-9AF4-488C-9405-CC3DD4708ABC_stringValue",
+      "value": "Seminar"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F2E96F88-9B24-4205-9308-35A620480A39",
+      "overrideName": "E05BB686-A5CF-4AAD-9D1C-6D3A58293DDA_stringValue",
+      "value": "Lesson 4"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "67CD79F9-0A9A-448D-AE3F-7511A273BC69",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "42B261AE-F145-42C4-8E12-F23EC14B4BA6",
+  "verticalSpacing": 0
+}

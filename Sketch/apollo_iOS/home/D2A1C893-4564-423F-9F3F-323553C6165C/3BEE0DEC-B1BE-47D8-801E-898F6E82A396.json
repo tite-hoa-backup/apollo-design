@@ -42,10 +42,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 121,
+    "height": 144,
     "width": 270,
     "x": 53,
-    "y": 273
+    "y": 262
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,32 +55,32 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Views/Alerts/Default 2 Lines Title Only",
-  "nameIsFixed": false,
+  "name": "Views/Alerts/Default 3 Lines Title Only",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "4628998E-C6E7-4839-9399-2B0745C3D27F",
-      "overrideName": "377B7FF1-1520-498B-9FEA-CB842C2C03BA_stringValue",
-      "value": "You have no more minutes.\nWould you like to buy more?"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "41658792-D029-4C7F-A3D6-D6AFEC22E0FB",
-      "overrideName": "E1E09016-292E-42A8-A2FA-9092F0BDC402_symbolID",
+      "do_objectID": "6FFD7094-6451-4DBE-AC06-A02D91DFE740",
+      "overrideName": "28F6E66A-BAF1-4EDC-9C5A-240DB4302707_symbolID",
       "value": "9E1D5F6A-2460-4383-97F2-0AD7D13CA40B"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "ACF49D81-74E2-4F2D-8B79-5DF48D2F963B",
-      "overrideName": "E1E09016-292E-42A8-A2FA-9092F0BDC402/ED64F631-18C6-4128-A259-A3970413B960_stringValue",
+      "do_objectID": "15A33612-4C0E-49E4-8E78-39E6A2F25897",
+      "overrideName": "28F6E66A-BAF1-4EDC-9C5A-240DB4302707/ED64F631-18C6-4128-A259-A3970413B960_stringValue",
       "value": "OK"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "5B237238-E081-43E9-8C03-6472F5917234",
-      "overrideName": "E1E09016-292E-42A8-A2FA-9092F0BDC402/A7994B38-555F-4611-B08D-8AD14CCBD63B_stringValue",
+      "do_objectID": "0639E59F-1F32-4F7C-B08F-E5AA7F586764",
+      "overrideName": "28F6E66A-BAF1-4EDC-9C5A-240DB4302707/A7994B38-555F-4611-B08D-8AD14CCBD63B_stringValue",
       "value": "Maybe Later"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DD80A698-A16F-487F-A40A-A72D14082463",
+      "overrideName": "877583E4-5C8A-44E8-AFB6-2EBC26C52E44_stringValue",
+      "value": "You need more minutes.\nWould you like to buy some to continue?"
     }
   ],
   "resizingConstraint": 13,
@@ -95,6 +95,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C6F11BBC-1D26-4816-A75D-8C30D95A67D1",
+  "symbolID": "24CAF2DB-9122-4693-9C21-A2CF3720C0A6",
   "verticalSpacing": 0
 }

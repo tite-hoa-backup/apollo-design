@@ -29,185 +29,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 36,
+        "length": 215,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Bold",
-              "size": 16
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22,
-            "paragraphSpacing": 1
-          }
-        },
-        "length": 10,
-        "location": 36
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Regular",
-              "size": 16
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22,
-            "paragraphSpacing": 1
-          }
-        },
-        "length": 62,
-        "location": 46
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Bold",
-              "size": 16
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22,
-            "paragraphSpacing": 1
-          }
-        },
-        "length": 9,
-        "location": 108
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Regular",
-              "size": 16
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22,
-            "paragraphSpacing": 1
-          }
-        },
-        "length": 35,
-        "location": 117
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Bold",
-              "size": 16
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22,
-            "paragraphSpacing": 1
-          }
-        },
-        "length": 10,
-        "location": 152
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Regular",
-              "size": 16
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22,
-            "paragraphSpacing": 1
-          }
-        },
-        "length": 103,
-        "location": 162
       }
     ],
-    "string": "Friends who are recommended receive 10 minutes. If your friend runs out of free trial credits, you will get 5 minutes, and when a friend pays the plan, 60 minutes will be added to your account. If you invite a lot of friends, there will be more Apollo free minutes."
+    "string": "Your friends will receive 10 minutes to try Apollo for free. You receive 5 minutes when your friend finishes their free trialand 60 minutes when they subscribe. Invite enough friends and you can use Apollo for free!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -273,12 +99,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4E4A5584-BB48-42E7-847E-1E45A13E34A1",
-    "height": 154,
+    "height": 110,
     "width": 328,
     "x": 16,
     "y": 184
   },
-  "glyphBounds": "{{0, 4}, {308, 146}}",
+  "glyphBounds": "{{0, 4}, {316, 105}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

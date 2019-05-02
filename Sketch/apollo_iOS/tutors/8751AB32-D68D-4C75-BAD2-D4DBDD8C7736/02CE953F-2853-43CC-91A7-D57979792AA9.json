@@ -29,7 +29,7 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 26,
+        "length": 20,
         "location": 0
       },
       {
@@ -59,7 +59,7 @@
           }
         },
         "length": 9,
-        "location": 26
+        "location": 20
       },
       {
         "_class": "stringAttribute",
@@ -88,7 +88,7 @@
           }
         },
         "length": 30,
-        "location": 35
+        "location": 29
       },
       {
         "_class": "stringAttribute",
@@ -117,7 +117,7 @@
           }
         },
         "length": 18,
-        "location": 65
+        "location": 59
       },
       {
         "_class": "stringAttribute",
@@ -145,11 +145,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 130,
-        "location": 83
+        "length": 86,
+        "location": 77
       }
     ],
-    "string": "Would you like to reserve 30 minute session with Tutor's name at 4/18/2019, 10:00AM? The minutes will be deducted from your account, but you can get your minutes returned if you cancel at least 6 hours in advance."
+    "string": "You are reserving a 30 minute session with Tutor's name at 4/18/2019, 10:00AM. The minutes will be deducted but returned if you cancel at least 6 hours in advance."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -197,12 +197,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F34A5386-F3B3-46CF-8A81-EA64AFD87306",
-    "height": 110,
+    "height": 88,
     "width": 343,
     "x": 16,
-    "y": 453
+    "y": 475
   },
-  "glyphBounds": "{{0, 5}, {330, 101}}",
+  "glyphBounds": "{{0, 5}, {341, 79}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

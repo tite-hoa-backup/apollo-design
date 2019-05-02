@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8AEEFF0D-C337-4AEA-85EA-58348D6ABE9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D9BE9E84-BE9E-4686-A4C8-C930E67C1C7B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B3B89185-DBF1-4BF8-ACFE-E303D67ED03F",
+    "height": 112,
+    "width": 360,
+    "x": 0,
+    "y": 296
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / testprep / lesson",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B6F71E1F-EA27-472E-A366-A09E2CD099FE",
+      "overrideName": "44E08927-C101-4C6C-BC26-1910A05B86A0_stringValue",
+      "value": "Airplane"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E87E35E2-7E7A-401E-829A-696BDF9D16C9",
+      "overrideName": "05FB2DF9-B99D-4665-9A8B-77002587BE7D_stringValue",
+      "value": "Lesson 2"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DB6154F7-D949-4504-A6E9-7280F902347E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "05C031F1-36C3-4432-8023-27F20625F408",
+  "verticalSpacing": 0
+}

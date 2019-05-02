@@ -29,11 +29,11 @@
             "minimumLineHeight": 32
           }
         },
-        "length": 52,
+        "length": 27,
         "location": 0
       }
     ],
-    "string": "How would you rate\nyour current English\nproficiency?"
+    "string": "What level is your English?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -81,12 +81,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "89CA5213-7EB4-49D8-BB7F-E0E3F402CE15",
-    "height": 96,
+    "height": 32,
     "width": 343,
     "x": 16,
     "y": 84
   },
-  "glyphBounds": "{{0, 7}, {244, 87}}",
+  "glyphBounds": "{{1, 6}, {321, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,7 +95,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textBold24W100Left",
+  "name": "What level is your E",
   "nameIsFixed": false,
   "resizingConstraint": 13,
   "resizingType": 0,

@@ -10,7 +10,7 @@
     "red": 0.5166644590046954
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5064,
+  "changeIdentifier": 5079,
   "clippingMaskMode": 0,
   "do_objectID": "9BE88086-20A7-4554-826A-FD43DC0A5F02",
   "exportOptions": {
@@ -73,8 +73,8 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": false,
-  "includeBackgroundColorInInstance": false,
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -101,6 +101,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "D9C89AAE-303A-40DF-8EB7-A7055800E2D4_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "43069067-0859-4B4F-B14B-248099C11F84_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

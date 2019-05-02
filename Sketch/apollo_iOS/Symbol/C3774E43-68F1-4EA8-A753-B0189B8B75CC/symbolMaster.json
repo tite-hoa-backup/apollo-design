@@ -9,7 +9,7 @@
     "red": 0.2
   },
   "booleanOperation": -1,
-  "changeIdentifier": 343,
+  "changeIdentifier": 373,
   "clippingMaskMode": 0,
   "do_objectID": "C3774E43-68F1-4EA8-A753-B0189B8B75CC",
   "exportOptions": {
@@ -96,8 +96,8 @@
       "id": "1A505220-74B2-49B6-BC03-DE7E18CC7670"
     },
     {
-      "class": "oval",
-      "id": "EA030EE7-F7DF-4AA6-8AAB-4E462C51597D"
+      "class": "symbolInstance",
+      "id": "DB79A4E4-1E82-424E-95D2-ACD933499155"
     }
   ],
   "name": "list / cities / attractions",
@@ -107,6 +107,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "1A505220-74B2-49B6-BC03-DE7E18CC7670_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "47C7DA20-A444-4B3C-A72A-63D164EC085F_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

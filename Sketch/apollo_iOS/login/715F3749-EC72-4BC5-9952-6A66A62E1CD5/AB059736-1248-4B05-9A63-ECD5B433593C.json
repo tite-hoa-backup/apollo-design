@@ -29,11 +29,11 @@
             "minimumLineHeight": 32
           }
         },
-        "length": 44,
+        "length": 34,
         "location": 0
       }
     ],
-    "string": "What kinds of topics\ncurrently interest you?"
+    "string": "What topics are you interested in?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -86,7 +86,7 @@
     "x": 16,
     "y": 84
   },
-  "glyphBounds": "{{1, 6}, {274, 56}}",
+  "glyphBounds": "{{1, 6}, {238, 52}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,7 +95,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textBold24W100Left",
+  "name": "What topics are you",
   "nameIsFixed": false,
   "resizingConstraint": 13,
   "resizingType": 0,

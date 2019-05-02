@@ -78,6 +78,12 @@
   "name": "list / listEach40TextPricing",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "460E9807-CBCD-4F96-8E6E-7DC7BDF47F54",
+      "overrideName": "52B8034F-AFD9-4577-80A7-C57C1462A847_stringValue",
+      "value": "Original Price"
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,

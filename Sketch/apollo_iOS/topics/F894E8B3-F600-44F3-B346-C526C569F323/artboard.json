@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1CBA6EB5-8A3C-4E54-B162-C5E2F2C11BD3",
-    "height": 667,
+    "height": 756,
     "width": 375,
     "x": -560,
     "y": 295
@@ -55,6 +55,10 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "0233668D-5012-445F-97CD-02E7242C4379"
+    },
+    {
       "class": "symbolInstance",
       "id": "E62CF1EB-F4B9-4053-B6A6-F407C67D478A"
     },
@@ -69,6 +73,26 @@
     {
       "class": "symbolInstance",
       "id": "6EBCBE71-F6CB-4D87-BABB-DD2F5A2AB061"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EE63B531-68C7-41F8-90E0-ED7CDB0565B0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6825AF27-6C31-4402-AA14-C58C6DFAC8C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "628DE9C7-F1DD-420B-82DB-A265503FDA73"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26A4402E-BF66-4571-92B4-D865A5F5A9E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "115AEF55-3F2B-44B8-BB41-0E966A791927"
     }
   ],
   "name": "topics / details",

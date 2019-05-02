@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC85D90B-890E-4FCE-8EF2-8E44E83719C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FAE1AD0F-6785-4908-9264-6BD3AE8C375D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9C91CD40-EE0A-498E-9320-337BCFE291C3",
+    "height": 112,
+    "width": 360,
+    "x": 0,
+    "y": 520
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / testprep / lesson",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8E4D3234-2585-41D6-8651-10169B26065B",
+      "overrideName": "44E08927-C101-4C6C-BC26-1910A05B86A0_stringValue",
+      "value": "Seminar"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9CA87776-D97B-4BE4-BF8C-664E4E2EFA86",
+      "overrideName": "05FB2DF9-B99D-4665-9A8B-77002587BE7D_stringValue",
+      "value": "Lesson 4"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "970CC57D-E7AB-4786-93DD-D86C7617C1A5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "05C031F1-36C3-4432-8023-27F20625F408",
+  "verticalSpacing": 0
+}

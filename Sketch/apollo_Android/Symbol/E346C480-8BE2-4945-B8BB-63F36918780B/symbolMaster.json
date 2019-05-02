@@ -10,7 +10,7 @@
     "red": 0.2
   },
   "booleanOperation": -1,
-  "changeIdentifier": 567,
+  "changeIdentifier": 598,
   "clippingMaskMode": 0,
   "do_objectID": "E346C480-8BE2-4945-B8BB-63F36918780B",
   "exportOptions": {
@@ -82,7 +82,7 @@
     "do_objectID": "03871A43-2F05-4215-992B-FA0383963582"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -115,8 +115,8 @@
       "id": "30578002-C2E2-4C13-AA8B-3CDA0CAD0672"
     },
     {
-      "class": "oval",
-      "id": "C569794B-4D91-4D4C-ABA6-66061478544D"
+      "class": "symbolInstance",
+      "id": "9485D221-21CE-4172-A0DE-02090EB63B93"
     }
   ],
   "name": "list / cities / attractions2Lines",

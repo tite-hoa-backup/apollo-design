@@ -29,11 +29,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 70,
+        "length": 46,
         "location": 0
       }
     ],
-    "string": "Be paitent. It may take a few minutes\nfor a tutor to become available."
+    "string": "Please wait while the tutor\nbecomes available."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -86,7 +86,7 @@
     "x": 16,
     "y": 146
   },
-  "glyphBounds": "{{35, 5}, {273, 39}}",
+  "glyphBounds": "{{75, 5}, {194, 39}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

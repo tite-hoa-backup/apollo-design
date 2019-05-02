@@ -44,10 +44,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "DABEB5BB-54B9-4937-A322-62042F073895",
-    "height": 168,
+    "height": 147,
     "width": 270,
     "x": 53,
-    "y": 250
+    "y": 260
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,38 +57,38 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Views/Alerts/Default 3 Lines",
-  "nameIsFixed": false,
+  "name": "Views/Alerts/Default 2 Lines",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "4B71E5B4-524D-428D-A8DA-5F906F738A1D",
-      "overrideName": "CC642EF5-EC7F-46A4-A317-BFF296272075_symbolID",
+      "do_objectID": "68CA5C84-EE13-44D7-BB51-EB14D2B8E865",
+      "overrideName": "644812AD-9C06-4652-8BAE-1D43D0CDB587_symbolID",
       "value": "9E1D5F6A-2460-4383-97F2-0AD7D13CA40B"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "61EEF1D2-02A6-4262-A235-A5090CCEBF1C",
-      "overrideName": "CC642EF5-EC7F-46A4-A317-BFF296272075/ED64F631-18C6-4128-A259-A3970413B960_stringValue",
+      "do_objectID": "D50A5C5B-E49A-4A23-88BF-DD2CFAA990C0",
+      "overrideName": "644812AD-9C06-4652-8BAE-1D43D0CDB587/ED64F631-18C6-4128-A259-A3970413B960_stringValue",
       "value": "Yes"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "4A40178F-C68E-41A1-ADCA-62417CEDAB54",
-      "overrideName": "CC642EF5-EC7F-46A4-A317-BFF296272075/A7994B38-555F-4611-B08D-8AD14CCBD63B_stringValue",
+      "do_objectID": "2E9DB65A-CD23-43D6-B1E1-8EA773B1B367",
+      "overrideName": "644812AD-9C06-4652-8BAE-1D43D0CDB587/A7994B38-555F-4611-B08D-8AD14CCBD63B_stringValue",
       "value": "No"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "A681D19D-6AF5-4485-9BC8-039901377779",
-      "overrideName": "0D78BE43-F577-4FD5-8E2B-06D02CAE4E15_stringValue",
-      "value": "Tutor not available"
+      "do_objectID": "06E36D09-4FD1-437D-AB86-B346BB079257",
+      "overrideName": "04762018-F3AF-4C33-8DBC-5A87C8784CA6_stringValue",
+      "value": "The tutor is not responding. Would you like to practice with another tutor?"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "5AC5B5DF-EC63-4203-9827-05CB2217DCFF",
-      "overrideName": "64B4DFD0-96F8-45C1-BD26-9C9D980BCF31_stringValue",
-      "value": "Tutor's name isn't available yet. Would you like to invite other tutors to practice with you?"
+      "do_objectID": "BBAA0F01-D9BC-4DF1-8ABC-861D8EFE7D9A",
+      "overrideName": "8062EF23-4F2D-4661-A3A7-5565AA3AA13D_stringValue",
+      "value": "Tutor not available"
     }
   ],
   "resizingConstraint": 13,
@@ -104,6 +104,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "8CF23770-A589-4E94-94ED-5BD4FA2BB329",
+  "symbolID": "3B142148-4529-464A-A8DC-C7B523220F2E",
   "verticalSpacing": 0
 }

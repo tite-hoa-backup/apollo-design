@@ -76,6 +76,12 @@
   "name": "list / listEach40TextPricingDiscount",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C088E711-9EAE-4675-AB22-C3D14F0F4F32",
+      "overrideName": "641D4213-C9DB-40A2-A6C3-898797334C62_stringValue",
+      "value": "3 month plan: You save 15%"
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,

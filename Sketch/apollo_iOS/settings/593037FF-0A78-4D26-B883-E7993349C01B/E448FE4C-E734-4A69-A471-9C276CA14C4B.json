@@ -29,11 +29,11 @@
             "minimumLineHeight": 32
           }
         },
-        "length": 53,
+        "length": 26,
         "location": 0
       }
     ],
-    "string": "Sign up for a class\nand send a message\nto your tutor!"
+    "string": "Subscribe to send messages"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -81,12 +81,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "BF361DDB-3959-4D6F-9274-6594656F9CC7",
-    "height": 96,
+    "height": 64,
     "width": 343,
     "x": 16,
     "y": 100
   },
-  "glyphBounds": "{{0, 6}, {244, 88}}",
+  "glyphBounds": "{{1, 6}, {216, 56}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,7 +95,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Sign up for a class",
+  "name": "Subscribe to send me",
   "nameIsFixed": false,
   "resizingConstraint": 13,
   "resizingType": 0,

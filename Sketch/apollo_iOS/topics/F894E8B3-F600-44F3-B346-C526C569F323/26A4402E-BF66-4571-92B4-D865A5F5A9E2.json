@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "26A4402E-BF66-4571-92B4-D865A5F5A9E2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "465C10FD-2A87-4F60-A986-BBA3F2BE3D4B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A1B62CEA-26BC-4DDD-B65D-AC4CFA7F837F",
+    "height": 112,
+    "width": 375,
+    "x": 0,
+    "y": 292
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / testprep / lesson",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9395A939-A86A-45C4-B44C-5B13F4EDAC3D",
+      "overrideName": "12E178A6-9AF4-488C-9405-CC3DD4708ABC_stringValue",
+      "value": "Airplane"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC9335DC-065F-4CC3-8389-9697434CDADA",
+      "overrideName": "E05BB686-A5CF-4AAD-9D1C-6D3A58293DDA_stringValue",
+      "value": "Lesson 2"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E129A2D5-DE9D-4BB8-8855-6FDCF7F4A368",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "42B261AE-F145-42C4-8E12-F23EC14B4BA6",
+  "verticalSpacing": 0
+}

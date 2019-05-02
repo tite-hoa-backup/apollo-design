@@ -29,11 +29,11 @@
             "minimumLineHeight": 32
           }
         },
-        "length": 43,
+        "length": 82,
         "location": 0
       }
     ],
-    "string": "Welcome!\nLet’s set Apollo up\nright for you."
+    "string": "Welcome to Apollo!\nAnswer a few questions to help us give you the best experience."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -99,12 +99,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E69284C8-CE5E-4F1F-8BEB-C87BE066F223",
-    "height": 96,
+    "height": 128,
     "width": 328,
     "x": 16,
     "y": 87
   },
-  "glyphBounds": "{{0, 6}, {198, 89}}",
+  "glyphBounds": "{{0, 6}, {284, 120}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -113,7 +113,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textBold24W100Left",
+  "name": "Welcome to Apollo! A",
   "nameIsFixed": false,
   "resizingConstraint": 13,
   "resizingType": 0,

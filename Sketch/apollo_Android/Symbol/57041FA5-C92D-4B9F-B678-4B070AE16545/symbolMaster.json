@@ -10,7 +10,7 @@
     "red": 0.2
   },
   "booleanOperation": -1,
-  "changeIdentifier": 551,
+  "changeIdentifier": 599,
   "clippingMaskMode": 0,
   "do_objectID": "57041FA5-C92D-4B9F-B678-4B070AE16545",
   "exportOptions": {
@@ -82,7 +82,7 @@
     "do_objectID": "BFEA1309-0B30-4FFE-AAAC-3FA398C599B2"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -115,13 +115,18 @@
       "id": "264DB53D-C610-4EC4-BAF8-C8E93B55D0A7"
     },
     {
-      "class": "oval",
-      "id": "19823C6F-3BA1-4E9B-8F4E-519A7ABC560B"
+      "class": "symbolInstance",
+      "id": "0A80B9B9-8916-43B6-A894-CB59FA98FD1E"
     }
   ],
   "name": "list / cities / attractions",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0A80B9B9-8916-43B6-A894-CB59FA98FD1E_symbolID"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
