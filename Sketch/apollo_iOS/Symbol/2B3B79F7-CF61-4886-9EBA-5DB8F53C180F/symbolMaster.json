@@ -5,24 +5,24 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "32C1853B-9FFF-47CA-A555-1A4252627865",
+    "do_objectID": "5FE591BF-A044-4BC5-99C1-AACF96C7F5CD",
     "green": 0.3008003048780488,
     "red": 0.5166644590046954
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5497,
+  "changeIdentifier": 5126,
   "clippingMaskMode": 0,
-  "do_objectID": "CE0CB0C1-C671-4C0A-8368-6217FC57914A",
+  "do_objectID": "2B3B79F7-CF61-4886-9EBA-5DB8F53C180F",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "67275E9E-A121-4254-9C3D-E3B1552305EE",
+    "do_objectID": "7E9D0D93-5E5A-478C-96DA-55A612F50434",
     "exportFormats": [
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "mdpi/",
-        "namingScheme": 1,
+        "name": "",
+        "namingScheme": 0,
         "scale": 1,
         "visibleScaleType": 0
       },
@@ -30,17 +30,8 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "hdpi/",
-        "namingScheme": 1,
-        "scale": 1.5,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "xhdpi/",
-        "namingScheme": 1,
+        "name": "@2x",
+        "namingScheme": 0,
         "scale": 2,
         "visibleScaleType": 0
       },
@@ -48,18 +39,9 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "xxhdpi/",
-        "namingScheme": 1,
+        "name": "@3x",
+        "namingScheme": 0,
         "scale": 3,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "xxxhdpi/",
-        "namingScheme": 1,
-        "scale": 4,
         "visibleScaleType": 0
       }
     ],
@@ -71,15 +53,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "46E5C358-62E2-43B9-9114-8C08AD4694D9",
-    "height": 48,
-    "width": 360,
-    "x": -1165,
-    "y": -15
+    "do_objectID": "2760DDA2-22A3-4393-B078-05451F9BF8F3",
+    "height": 57,
+    "width": 375,
+    "x": 390,
+    "y": -608
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "CC3BC870-75E3-4DBA-AB7D-64FCB30BBD20"
+    "do_objectID": "E38E02AB-79C6-4E2F-AB47-E70F37C25AA8"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -87,7 +69,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "4543FD52-2D65-4374-BF30-DBB5BBE35A98",
+    "do_objectID": "7B246A06-A5E5-4EB2-96B0-FEB8846E1314",
     "guides": [
     ]
   },
@@ -104,36 +86,22 @@
   "layers": [
     {
       "class": "text",
-      "id": "8249E838-E034-4636-A676-D58AA4319AC5"
-    },
-    {
-      "class": "text",
-      "id": "2CEDC783-BB2A-474E-AABC-CBEA8D209418"
+      "id": "6B8BC7F5-6CD8-493F-9919-44FECE6F97D0"
     }
   ],
-  "name": "list / listEach48Text",
+  "name": "list / text2Lines",
   "nameIsFixed": true,
   "originalObjectID": "F7AA7B6A-81F1-443C-80F5-0F46FE73B0BE",
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "8249E838-E034-4636-A676-D58AA4319AC5_stringValue"
+      "overrideName": "6B8BC7F5-6CD8-493F-9919-44FECE6F97D0_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "2CEDC783-BB2A-474E-AABC-CBEA8D209418_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "2CEDC783-BB2A-474E-AABC-CBEA8D209418_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "8249E838-E034-4636-A676-D58AA4319AC5_textStyle"
+      "overrideName": "6B8BC7F5-6CD8-493F-9919-44FECE6F97D0_stringValue"
     }
   ],
   "resizesContent": true,
@@ -143,13 +111,13 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "719454E2-5CA1-414A-96A9-4CA8BF67FE21",
+    "do_objectID": "77C99150-4D40-49D4-8AC2-478E7FED5C3A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E3AC48A7-25E4-460A-99D1-D7D9B2C481A2",
+  "symbolID": "19206D9F-358B-4A92-931B-AB1AAA9054E4",
   "userInfo": {
     "avocode": {
       "idsFixed": 1
@@ -158,7 +126,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "A4573E2A-7756-4A3C-8C27-AA8CBC3E2552",
+    "do_objectID": "C2C8DBBA-3566-4E68-80BD-19BF08062602",
     "guides": [
     ]
   }

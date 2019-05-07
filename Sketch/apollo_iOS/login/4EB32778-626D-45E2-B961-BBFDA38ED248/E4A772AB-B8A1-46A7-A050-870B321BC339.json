@@ -2,17 +2,16 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2746E491-753F-4846-8AD2-29671EE32A74",
+  "do_objectID": "E4A772AB-B8A1-46A7-A050-870B321BC339",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1A8F2BD6-2874-4B9C-A076-DD230BCB75AE",
     "exportFormats": [
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "mdpi/",
-        "namingScheme": 1,
+        "name": "",
+        "namingScheme": 0,
         "scale": 1,
         "visibleScaleType": 0
       },
@@ -20,17 +19,8 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "hdpi/",
-        "namingScheme": 1,
-        "scale": 1.5,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "xhdpi/",
-        "namingScheme": 1,
+        "name": "@2x",
+        "namingScheme": 0,
         "scale": 2,
         "visibleScaleType": 0
       },
@@ -38,18 +28,9 @@
         "_class": "exportFormat",
         "absoluteSize": 0,
         "fileFormat": "png",
-        "name": "xxhdpi/",
-        "namingScheme": 1,
+        "name": "@3x",
+        "namingScheme": 0,
         "scale": 3,
-        "visibleScaleType": 0
-      },
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "xxxhdpi/",
-        "namingScheme": 1,
-        "scale": 4,
         "visibleScaleType": 0
       }
     ],
@@ -61,11 +42,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "74B0BEB9-36FB-4C2C-A57D-B532006AC738",
-    "height": 56,
-    "width": 328,
-    "x": 16,
-    "y": 271
+    "height": 72,
+    "width": 375,
+    "x": 0,
+    "y": 523
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,14 +55,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / loginLogoWhite",
+  "name": "list / checkboxWhite2Lines",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "04A9C124-6F6E-41F8-869E-ABD4AAD83ADD",
-      "overrideName": "966883A0-27C4-48CB-9E82-70964E136F00_stringValue",
-      "value": "Continue with Google"
+      "do_objectID": "1C22FF3C-C355-4FA9-A695-4A78DA353D2B",
+      "overrideName": "43B99459-41B4-4D29-9D22-F047525018F6_stringValue",
+      "value": "I am a native English speaker who is 18 years of age or older"
     }
   ],
   "resizingConstraint": 13,
@@ -92,12 +72,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8A2E44B7-2A63-45F3-AC5F-FBD39D642D5E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E6754F9D-3437-49EA-A29E-21D8EA6F3A1F",
+  "symbolID": "DDA016EA-43C9-4138-9811-AF04E6805349",
   "verticalSpacing": 0
 }

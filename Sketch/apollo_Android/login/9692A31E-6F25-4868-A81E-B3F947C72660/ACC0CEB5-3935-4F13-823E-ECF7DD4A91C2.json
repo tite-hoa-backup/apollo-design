@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2746E491-753F-4846-8AD2-29671EE32A74",
+  "do_objectID": "ACC0CEB5-3935-4F13-823E-ECF7DD4A91C2",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1A8F2BD6-2874-4B9C-A076-DD230BCB75AE",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +60,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "74B0BEB9-36FB-4C2C-A57D-B532006AC738",
-    "height": 56,
-    "width": 328,
-    "x": 16,
-    "y": 271
+    "height": 72,
+    "width": 360,
+    "x": 0,
+    "y": 448
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,14 +73,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / loginLogoWhite",
+  "name": "list / checkboxWhite2Lines",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "04A9C124-6F6E-41F8-869E-ABD4AAD83ADD",
-      "overrideName": "966883A0-27C4-48CB-9E82-70964E136F00_stringValue",
-      "value": "Continue with Google"
+      "do_objectID": "19A2F13E-C4B5-49AE-883F-F44C45B1E78B",
+      "overrideName": "788CA8BA-A28F-45F9-A450-556571405C99_stringValue",
+      "value": "I am a native English speaker who is 18 years of age or older"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D79C98A3-6725-43B8-9AA6-E4493D46E4C5",
+      "overrideName": "73565E41-30FC-4FE7-8A62-A9F228F24BD1/7F4ED141-5BEA-4547-83ED-8BF12713F7F2_symbolID",
+      "value": "54D9CD06-D074-487D-AEC6-047EF057CA11"
     }
   ],
   "resizingConstraint": 13,
@@ -92,12 +96,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8A2E44B7-2A63-45F3-AC5F-FBD39D642D5E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E6754F9D-3437-49EA-A29E-21D8EA6F3A1F",
+  "symbolID": "9366D1DC-7FF8-4A2F-AE94-6BBCD9700644",
   "verticalSpacing": 0
 }

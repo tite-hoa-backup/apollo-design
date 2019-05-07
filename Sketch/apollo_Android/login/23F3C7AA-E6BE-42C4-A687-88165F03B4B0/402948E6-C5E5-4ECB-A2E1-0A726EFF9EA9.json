@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2746E491-753F-4846-8AD2-29671EE32A74",
+  "do_objectID": "402948E6-C5E5-4ECB-A2E1-0A726EFF9EA9",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1A8F2BD6-2874-4B9C-A076-DD230BCB75AE",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +60,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "74B0BEB9-36FB-4C2C-A57D-B532006AC738",
-    "height": 56,
-    "width": 328,
-    "x": 16,
-    "y": 271
+    "height": 57,
+    "width": 360,
+    "x": 0,
+    "y": 527
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,14 +73,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / loginLogoWhite",
+  "name": "list / text2Lines",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "04A9C124-6F6E-41F8-869E-ABD4AAD83ADD",
-      "overrideName": "966883A0-27C4-48CB-9E82-70964E136F00_stringValue",
-      "value": "Continue with Google"
+      "do_objectID": "2C326721-4B88-4F50-9945-0CE9763B1CD3",
+      "overrideName": "9DE4841E-2A3E-4896-BDF8-3D2E4C07C3D0_stringValue",
+      "value": "By signing up, you agree to our User Agreement and our Privacy Policy"
     }
   ],
   "resizingConstraint": 13,
@@ -92,12 +90,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8A2E44B7-2A63-45F3-AC5F-FBD39D642D5E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E6754F9D-3437-49EA-A29E-21D8EA6F3A1F",
+  "symbolID": "35A17D54-C66C-4219-96F7-8D78C40576B7",
   "verticalSpacing": 0
 }
