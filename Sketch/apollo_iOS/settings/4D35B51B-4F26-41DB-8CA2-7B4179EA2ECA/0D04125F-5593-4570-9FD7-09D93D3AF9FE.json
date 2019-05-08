@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "456C67F5-876C-402F-9B05-AE1CC6448965",
+  "do_objectID": "0D04125F-5593-4570-9FD7-09D93D3AF9FE",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "43B70BAB-60F3-4C36-8D6D-A4F22C3B2DEF",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +42,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "8B5DCD78-E1FF-4E73-8510-A1F312013261",
-    "height": 48,
-    "width": 375,
-    "x": 0,
-    "y": 403
+    "height": 98,
+    "width": 270,
+    "x": 53,
+    "y": 285
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,20 +55,26 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / title48",
+  "name": "Views/Alerts/Default 1 Line Title Only",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "FE481C23-C460-4675-8EF9-04E41DACFAC0",
-      "overrideName": "D9C89AAE-303A-40DF-8EB7-A7055800E2D4_stringValue",
-      "value": "Service"
+      "do_objectID": "4A5E8166-4B17-4B15-9A25-C90F723C3DFA",
+      "overrideName": "FD4790F3-FF1F-47DB-BBFF-82B74F7B065E_stringValue",
+      "value": "Do you really want to sign out?"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "998F7ABB-B63A-4BBE-82B3-9932FF321AD5",
-      "overrideName": "43069067-0859-4B4F-B14B-248099C11F84_symbolID",
-      "value": ""
+      "do_objectID": "9D13D5CE-EC19-4CB5-901D-D97139B87757",
+      "overrideName": "934E6AFE-2B58-4219-9DAA-EC2CF9F969DF/C642492D-EBFF-4080-92FD-4613D6266AB9_stringValue",
+      "value": "Cancel"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9CF43DD9-2200-429E-93A6-A998D9C1B54E",
+      "overrideName": "934E6AFE-2B58-4219-9DAA-EC2CF9F969DF/26383E80-711F-4595-99C0-399A477666C3_stringValue",
+      "value": "Sign out"
     }
   ],
   "resizingConstraint": 13,
@@ -80,12 +84,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D3C13488-5035-4D87-9AD6-DC9C0510BB9F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "78024422-ABFA-460B-9D59-D448102F428D",
+  "symbolID": "8EA9E120-BB3C-4593-A064-14A2E934BA34",
   "verticalSpacing": 0
 }

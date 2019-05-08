@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D0EFDBD4-09A3-4D65-AE03-BA5FDEDC1762",
+  "do_objectID": "3DA6A98D-8904-4681-905F-DCD039EDBB29",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "61D4DE25-0276-4997-8F54-572B6F514A8E",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -61,11 +60,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7BFC7E60-C7BD-4ECD-B396-3398CBF2D6E1",
-    "height": 48,
-    "width": 360,
-    "x": 0,
-    "y": 40
+    "height": 98,
+    "width": 270,
+    "x": 45,
+    "y": 271
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -75,14 +73,26 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / listEach48",
-  "nameIsFixed": true,
+  "name": "Views/Alerts/Default 1 Line Title Only",
+  "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "4C194DCF-F977-4C84-8360-FD2842723E1A",
-      "overrideName": "538F221C-D1C3-4250-8425-EC822C10C822_stringValue",
-      "value": "Free Minutes"
+      "do_objectID": "64399B07-516B-4B6A-AE6C-C13B20B84E5E",
+      "overrideName": "6E09D4A8-D798-4699-8D70-4AF06B66626A_stringValue",
+      "value": "Do you really want to sign out?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C7E567DD-5463-4C97-8E36-335C2EEDB446",
+      "overrideName": "BFC5A114-5D55-4B81-B583-724839BC455B/3A728D28-3165-4A1B-9821-9549A726BA0A_stringValue",
+      "value": "Sign out"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "029D4CA9-1FF5-4DD3-AE0F-9877D8F8A126",
+      "overrideName": "BFC5A114-5D55-4B81-B583-724839BC455B/F8D1D1FA-1C01-4B0E-99C4-CA47994562CD_stringValue",
+      "value": "Cancel"
     }
   ],
   "resizingConstraint": 13,
@@ -92,12 +102,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "CE467D63-C6A1-43A1-81BC-1217BF1D3E37",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BDE6F435-1F6C-4D3F-AA1E-38D67AC00199",
+  "symbolID": "FFE19773-D170-4560-BB30-A129E210D19D",
   "verticalSpacing": 0
 }
