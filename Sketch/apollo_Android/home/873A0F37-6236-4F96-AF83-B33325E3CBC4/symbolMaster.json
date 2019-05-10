@@ -10,7 +10,7 @@
     "red": 0.5176470588235293
   },
   "booleanOperation": -1,
-  "changeIdentifier": 540,
+  "changeIdentifier": 543,
   "clippingMaskMode": 0,
   "do_objectID": "873A0F37-6236-4F96-AF83-B33325E3CBC4",
   "exportOptions": {
@@ -84,11 +84,20 @@
     {
       "class": "symbolInstance",
       "id": "A7D23386-9957-422E-8E1A-26DC49662E63"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "42D3DB0D-F823-4288-9522-F7B1A0FA70AA"
     }
   ],
   "name": "home / basicNoHighlight",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "42D3DB0D-F823-4288-9522-F7B1A0FA70AA_symbolID"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
