@@ -10,8 +10,8 @@
             "_class": "color",
             "alpha": 1,
             "blue": 1,
-            "green": 1,
-            "red": 1
+            "green": 0.3008003048780488,
+            "red": 0.5166644590046954
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -38,11 +38,11 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "F062CB2F-0550-4ADE-8702-4B3040BFEA8F",
+  "do_objectID": "ABC8F861-45A9-4A1D-A197-750CFF9666EF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "033695AE-5F56-4540-84CB-24823B563CDF",
+    "do_objectID": "2341ED42-E9C5-4EBC-8EE4-A20A4A6B6ECF",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -62,7 +62,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DE0D7DF9-F64A-4D62-880E-AD5909AEF4BE",
+    "do_objectID": "26079789-2474-418E-9D59-ACB7785E3AA7",
     "height": 24,
     "width": 328,
     "x": 0,
@@ -77,16 +77,16 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textBold18W100Center",
+  "name": "textBold18BrandCenter",
   "nameIsFixed": true,
   "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "76FC7607-504B-4D8D-A3FB-0E8ADE2A8199",
+  "sharedStyleID": "5ECB273F-7701-4D46-A5FC-5093A689774B",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "088F8FC8-BF7B-4230-A8F4-3DAF728F008C",
+    "do_objectID": "4B6635DF-8C07-41E1-A85F-63814AE42FA0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -97,8 +97,8 @@
           "_class": "color",
           "alpha": 1,
           "blue": 1,
-          "green": 1,
-          "red": 1
+          "green": 0.3008003048780488,
+          "red": 0.5166644590046954
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
