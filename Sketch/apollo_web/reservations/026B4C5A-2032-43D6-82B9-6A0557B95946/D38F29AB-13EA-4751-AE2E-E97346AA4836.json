@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7C856B24-167F-41E1-B36E-5F4930DD0B05",
+  "do_objectID": "D38F29AB-13EA-4751-AE2E-E97346AA4836",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B766CE6F-48D5-4204-B9A8-F08043E88559",
+    "do_objectID": "4E8BE849-475F-4B1A-BA0A-625ACD939C1B",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -25,11 +25,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E7361D0F-0EAA-4E90-BB87-2BE28181F649",
-    "height": 86,
+    "do_objectID": "E856F2C7-22E5-457A-BC92-867628039E91",
+    "height": 152,
     "width": 320,
     "x": 32,
-    "y": 280
+    "y": 448
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -39,20 +39,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "base / login",
+  "name": "base / login copy",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
       "do_objectID": "49119C0C-1F58-4647-8DC9-C2B898A3AC80",
       "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/A7F18A83-FC5A-4B8F-891D-F08E89FBA1BB_stringValue",
-      "value": "Timezone\n"
+      "value": "Minimum Advance Notice*"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "3C3367A7-A25B-4AA2-8840-7FD543AF3B1E",
-      "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/86C29F30-13E7-4ED6-AEED-D3F66743AE0A/AB73D1F8-C8B7-4574-86FE-3963C3CECE16_symbolID",
-      "value": "0DCB4ED6-E5E8-416A-8367-3E48B427F9E0"
+      "do_objectID": "2BCE2514-C395-41C6-B972-0B30F06EBE68",
+      "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/86C29F30-13E7-4ED6-AEED-D3F66743AE0A_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,
@@ -62,7 +62,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "3291A048-A975-4BAB-B960-4D8839C77B45",
+    "do_objectID": "05517845-0FFF-4372-B3C1-C14649BD58A1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B5239E39-1E8E-43D2-863F-060E9BD0FCD5",
+  "do_objectID": "D6DEE4BA-659A-4F40-838B-9EF190462E44",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "35D2C6FA-89D6-46BF-AA55-8ED792977559",
+    "do_objectID": "8266B02C-1F04-4035-8C28-1A46064727E2",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -25,11 +25,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "ED8F4820-3E45-4F17-BD17-4E28A7E30D5A",
-    "height": 164.0000000000001,
-    "width": 229.3333333333333,
-    "x": -531,
-    "y": -728
+    "do_objectID": "2DCC2D9C-C788-4065-B88D-9959A08BB849",
+    "height": 56,
+    "width": 328,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -39,29 +39,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "base / login copy",
+  "name": "base / wShadow",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "92611D45-B69A-487D-9878-02C41E8B4C40",
-      "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39_symbolID",
-      "value": ""
-    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "432E46ED-BEAE-4020-9970-C1E7512E25D0",
+    "do_objectID": "54851A6E-FAD9-4BE1-AF20-E704631C333C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C3285D2A-B6A4-464B-9BBB-D1C9CE6D181E",
+  "symbolID": "5223580D-76DA-4273-9EB6-35B5288574C0",
   "verticalSpacing": 0
 }

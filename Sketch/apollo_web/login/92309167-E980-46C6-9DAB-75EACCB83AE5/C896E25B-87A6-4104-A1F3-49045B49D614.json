@@ -2,10 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4B92F014-0284-40AE-8066-AC55918BE898",
+  "do_objectID": "C896E25B-87A6-4104-A1F3-49045B49D614",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "C14A61FE-D1F9-4687-B2C8-FE7166E46BF0",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -26,12 +27,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 96,
-    "width": 328,
-    "x": 0,
-    "y": 0
+    "do_objectID": "ED140547-2586-42DC-BD77-5FAAF78CA495",
+    "height": 234,
+    "width": 416,
+    "x": 512,
+    "y": 408
   },
-  "hasClippingMask": true,
+  "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
   "isFixedToViewport": false,
@@ -85,24 +87,40 @@
       "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 18,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "AA7A7493-DABB-4CC9-B3C9-B39A3CD5798F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "D94D5122-65EE-4AE9-B720-3C4D673E3EC1",
     "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "alpha": 0.38,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
-        "fillType": 0,
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/a39436da1fa91e2358338c6f938854236f5f88aa.png",
+          "_ref_class": "MSImageData"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -111,29 +129,10 @@
       }
     ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 16,
-        "color": {
-          "_class": "color",
-          "alpha": 0.08,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 8,
-        "spread": 0
-      }
-    ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "datasupplier.key": "Faces"
   }
 }

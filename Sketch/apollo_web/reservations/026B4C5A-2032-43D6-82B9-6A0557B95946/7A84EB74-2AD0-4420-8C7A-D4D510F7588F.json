@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.78,
+            "alpha": 0.54,
             "blue": 0,
             "green": 0,
             "red": 0
@@ -17,32 +17,32 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Regular",
-              "size": 16
+              "size": 14
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20,
             "paragraphSpacing": 1
           }
         },
-        "length": 16,
+        "length": 84,
         "location": 0
       }
     ],
-    "string": "America/New York"
+    "string": "* Time during booked Priority Hours can always be reserved up to 2 hours in advance."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "6BD105AC-88AF-4736-B3FA-E85EDCCD6EAC",
+  "do_objectID": "7A84EB74-2AD0-4420-8C7A-D4D510F7588F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DACAC6BA-BB20-46B1-86A1-D483C6C51CB8",
+    "do_objectID": "C7FC92EF-9191-43A1-94C5-D5E97461B58B",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -62,13 +62,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D076125E-5FFE-4AC1-BD88-253B112DD953",
-    "height": 22,
+    "do_objectID": "651683C1-DEC2-46A5-B20C-7BCD028BEE32",
+    "height": 40,
     "width": 288,
     "x": 48,
-    "y": 328
+    "y": 544
   },
-  "glyphBounds": "{{0, 4}, {135, 14}}",
+  "glyphBounds": "{{0, 4}, {281, 34}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -82,11 +82,11 @@
   "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "71677984-ABBC-4CDC-8408-C4BD9F5146B8",
+  "sharedStyleID": "01180F02-6935-4D0C-A1C1-9AA3B0C09C27",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4DE70551-C02A-41C9-AA6D-9C9DA33B7230",
+    "do_objectID": "C898A8F0-79F4-480E-9841-90EB70CAAD91",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -95,7 +95,7 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.78,
+          "alpha": 0.54,
           "blue": 0,
           "green": 0,
           "red": 0
@@ -104,15 +104,15 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Regular",
-            "size": 16
+            "size": 14
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20,
           "paragraphSpacing": 1
         }
       },

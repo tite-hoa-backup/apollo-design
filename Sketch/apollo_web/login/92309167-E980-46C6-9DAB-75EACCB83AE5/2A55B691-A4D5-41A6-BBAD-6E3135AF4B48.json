@@ -2,10 +2,20 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E14C8C82-7C5F-4244-BB6B-6480C16AE925",
+  "do_objectID": "2A55B691-A4D5-41A6-BBAD-6E3135AF4B48",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "2554D85C-9EF6-4D5A-95F7-0D099048F196",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -15,10 +25,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 240,
-    "x": 416,
-    "y": 120
+    "do_objectID": "1BA9C63C-E59D-44D9-B19D-9BABF1573D0E",
+    "height": 56,
+    "width": 200,
+    "x": 728,
+    "y": 674
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,14 +39,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / tabButton",
-  "nameIsFixed": true,
+  "name": "btn / basicWhite56",
+  "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "60FE0755-53AE-48A4-8819-7454C495D013",
-      "overrideName": "B9EE59F6-3938-4DBD-9575-EFB6CEF17320/CF536425-1E06-49E6-BFBB-C1AC08428314_textStyle",
-      "value": "4F3DF24F-7D02-4BE7-A276-BDFEF3BD3997"
+      "do_objectID": "18B1443D-D4AE-430B-9ED9-809F23906125",
+      "overrideName": "F062CB2F-0550-4ADE-8702-4B3040BFEA8F_stringValue",
+      "value": "Submit"
     }
   ],
   "resizingConstraint": 63,
@@ -45,11 +56,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "CC5DC4EF-9563-4C62-A604-4AE8FCE5732E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F440563A-8DB0-4179-853C-E8C942C2D530",
+  "symbolID": "AF228F24-CAB2-41EA-8335-F82754B656A0",
   "verticalSpacing": 0
 }

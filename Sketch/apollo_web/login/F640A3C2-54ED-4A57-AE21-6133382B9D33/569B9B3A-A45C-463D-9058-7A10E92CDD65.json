@@ -6,6 +6,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -16,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 56,
-    "width": 200,
+    "width": 416,
     "x": 512,
     "y": 674
   },
@@ -35,7 +44,7 @@
       "_class": "overrideValue",
       "do_objectID": "9C835AC7-C6C7-48D2-BF4F-76F9069A1F2D",
       "overrideName": "ABC8F861-45A9-4A1D-A197-750CFF9666EF_stringValue",
-      "value": "Retry"
+      "value": "Stop"
     }
   ],
   "resizingConstraint": 63,

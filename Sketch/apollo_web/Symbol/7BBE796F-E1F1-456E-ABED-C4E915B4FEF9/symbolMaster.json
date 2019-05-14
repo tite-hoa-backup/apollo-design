@@ -10,7 +10,7 @@
     "red": 0.5166644590046954
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5229,
+  "changeIdentifier": 5242,
   "clippingMaskMode": 0,
   "do_objectID": "7BBE796F-E1F1-456E-ABED-C4E915B4FEF9",
   "exportOptions": {
@@ -46,7 +46,7 @@
     "do_objectID": "698B624B-B0CF-4172-B84D-0ECDA021F538"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -76,10 +76,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "8DD3B65D-17F6-4B5F-AFA1-9AFADBF786EE"
-    },
-    {
-      "class": "symbolInstance",
       "id": "27968D20-9A4D-484B-9378-A5FA26636AA5"
     }
   ],
@@ -87,11 +83,6 @@
   "nameIsFixed": true,
   "originalObjectID": "F7AA7B6A-81F1-443C-80F5-0F46FE73B0BE",
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "8DD3B65D-17F6-4B5F-AFA1-9AFADBF786EE_symbolID"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

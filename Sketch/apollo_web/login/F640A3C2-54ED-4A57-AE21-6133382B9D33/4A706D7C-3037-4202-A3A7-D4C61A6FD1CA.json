@@ -28,10 +28,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D7D76CD2-4739-4354-B0B9-96A57AD8E714",
-    "height": 270,
-    "width": 480,
-    "x": 480,
-    "y": 128
+    "height": 234,
+    "width": 416,
+    "x": 512,
+    "y": 408
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -68,7 +68,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 8,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -78,7 +78,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 0,
+      "cornerRadius": 8,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -99,7 +99,7 @@
       "do_objectID": "E999410B-02B2-478E-9645-944A413359F8",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 11.53846153846154,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
