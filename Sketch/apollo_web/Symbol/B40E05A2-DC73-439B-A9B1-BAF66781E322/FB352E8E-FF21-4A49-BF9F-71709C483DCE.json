@@ -2,36 +2,25 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4A706D7C-3037-4202-A3A7-D4C61A6FD1CA",
+  "do_objectID": "FB352E8E-FF21-4A49-BF9F-71709C483DCE",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CB24161F-6647-4C3E-AF1E-AF63A48030E7",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 8,
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "do_objectID": "D7D76CD2-4739-4354-B0B9-96A57AD8E714",
-    "height": 234,
-    "width": 416,
-    "x": 512,
-    "y": 408
+    "constrainProportions": true,
+    "height": 540,
+    "width": 960,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -44,11 +33,11 @@
   "layerListExpandedType": 0,
   "name": "base",
   "nameIsFixed": true,
-  "pointRadiusBehaviour": 2,
+  "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
+      "cornerRadius": 0,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -58,7 +47,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
+      "cornerRadius": 0,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -68,7 +57,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
+      "cornerRadius": 0,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -78,7 +67,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
+      "cornerRadius": 0,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -87,28 +76,27 @@
       "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C94B45B6-1EF2-4EE8-B5CE-057D3DE19B75",
     "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.38,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/a39436da1fa91e2358338c6f938854236f5f88aa.png",
+          "_ref": "images/c0b540b7277bbe071958837f42efe2428fdb4385.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
@@ -123,6 +111,10 @@
     "windingRule": 1
   },
   "userInfo": {
-    "datasupplier.key": "Faces"
+    "datasupplier.key": "Faces",
+    "unsplash": {
+      "unsplash.photo.id": "\"9dh2ZQDOQik\"",
+      "unsplash.search.term": "\"face\""
+    }
   }
 }
