@@ -1,0 +1,334 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6BC2E164-A06D-4D88-8029-6ED99F0413C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 752,
+    "width": 960,
+    "x": 416,
+    "y": 176
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "calendar / base",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "956A8D4C-3AC6-4061-90FA-EA582BD24EDB",
+      "overrideName": "A6ECC5CA-46B2-456F-8EF5-B62CB4058218/53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186/177D7315-23AA-4889-8380-277DC7AF0917_stringValue",
+      "value": "4:00 AM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "303AFA95-3722-4198-BE1A-1E8B28F293B4",
+      "overrideName": "A6ECC5CA-46B2-456F-8EF5-B62CB4058218/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": "4:00 AM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "21471C49-430B-4E66-924F-A3FBDA4A30B4",
+      "overrideName": "2E897BB7-36A1-4F5A-975F-512255E736B3/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": "12:00 AM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44F87DC1-C4C3-4F4F-A081-1FBA71247A0B",
+      "overrideName": "733CED5E-12F6-4DFC-95CC-2FADAA0D7390/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": "1:00 AM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "82B49448-7519-44F8-982D-7289D3383667",
+      "overrideName": "69096224-AA7C-4E5B-9A9B-9F8289C9F654/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": "2:00 AM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A83EF97-ADAE-4857-ADFF-6B30FD096E57",
+      "overrideName": "83BB9FEA-CC0E-4451-8397-71F86C85B57D/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": "3:00 AM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6EE3829-826C-46B5-90E4-7E6D453EAF19",
+      "overrideName": "02C926D4-FEDA-4E43-A960-47CAE71E464F/53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186/177D7315-23AA-4889-8380-277DC7AF0917_stringValue",
+      "value": "5:00 AM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B7863DA5-931E-4816-97C6-4E98CC42E2B1",
+      "overrideName": "02C926D4-FEDA-4E43-A960-47CAE71E464F/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": "5:00 AM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4D88F0AC-BEA5-46F5-A633-C410D9CC9F9B",
+      "overrideName": "FD5FC77A-112D-4CEC-B608-45F313B7461F/53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186/177D7315-23AA-4889-8380-277DC7AF0917_stringValue",
+      "value": "6:00 AM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "62AED911-3E19-4C81-B480-C79052DA4EB9",
+      "overrideName": "FD5FC77A-112D-4CEC-B608-45F313B7461F/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": "6:00 AM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C207ACC2-E714-46DA-9C1C-9242596F54A7",
+      "overrideName": "B6CD7E1C-E78B-463D-8772-779A6F03AD88/53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186/177D7315-23AA-4889-8380-277DC7AF0917_stringValue",
+      "value": "7:00 AM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8AED9818-F8E3-4B71-9E61-2B4B135741EB",
+      "overrideName": "B6CD7E1C-E78B-463D-8772-779A6F03AD88/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": "7:00 AM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C9655605-BBF8-4366-A0D1-52188F8527AB",
+      "overrideName": "7D65C1F4-06F7-40B1-B892-E719D6941277/53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186/177D7315-23AA-4889-8380-277DC7AF0917_stringValue",
+      "value": "8:00 AM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C64AD64A-2EB3-4F22-A334-FDBDDB212BAD",
+      "overrideName": "7D65C1F4-06F7-40B1-B892-E719D6941277/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": "8:00 AM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "29567A3A-2B67-43A3-B13C-B778C7A93D96",
+      "overrideName": "6A92F28C-C1D5-4FCD-883E-FBEC7D6E7761/53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186/177D7315-23AA-4889-8380-277DC7AF0917_stringValue",
+      "value": "9:00 AM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9810E7CE-952C-4A06-97A1-32D3ED20633F",
+      "overrideName": "6A92F28C-C1D5-4FCD-883E-FBEC7D6E7761/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": "9:00 AM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "640DA937-9EE6-4405-BF51-317225F3E315",
+      "overrideName": "5AA271F5-6533-4FAB-BBC6-74CB01ED4822/53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186/177D7315-23AA-4889-8380-277DC7AF0917_stringValue",
+      "value": "10:00 AM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3780C841-6B84-42E9-A4FE-30FB7E6F26B1",
+      "overrideName": "5AA271F5-6533-4FAB-BBC6-74CB01ED4822/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": "10:00 AM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34F5777A-DEDB-49DA-BD0D-C38B264E90DB",
+      "overrideName": "38ECDEBB-D0B1-47D2-AAC2-C0E373851FD6/53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186/177D7315-23AA-4889-8380-277DC7AF0917_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F4952BB-0B8A-4DB0-8473-7E042FD580B9",
+      "overrideName": "38ECDEBB-D0B1-47D2-AAC2-C0E373851FD6/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "157A6905-4106-4754-B99B-8B0DB1201223",
+      "overrideName": "0279C132-F863-4EB6-B848-8BE2184FE327/53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186/177D7315-23AA-4889-8380-277DC7AF0917_stringValue",
+      "value": "12:00 PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CB4090CC-EEF4-4B48-80E2-AA165C3AD05C",
+      "overrideName": "0279C132-F863-4EB6-B848-8BE2184FE327/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": "12:00 PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EE2228A6-C1CF-42B4-91BB-BBC98DACE71D",
+      "overrideName": "7FEC260C-D26C-48DD-9597-1B481E156C51/53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186/177D7315-23AA-4889-8380-277DC7AF0917_stringValue",
+      "value": "1:00 PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "07DE35FD-E0A4-4358-9C35-86227D2B1ED0",
+      "overrideName": "7FEC260C-D26C-48DD-9597-1B481E156C51/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": "1:00 PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7CAF2C01-4F87-4E5D-A89C-A1F3626E4D11",
+      "overrideName": "1D1CB2A3-3F8B-4034-ACB9-F113B28FBFF1/53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186/177D7315-23AA-4889-8380-277DC7AF0917_stringValue",
+      "value": "2:00 PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BD7FD8B3-02D8-4E86-82D9-F6235CC4FE48",
+      "overrideName": "1D1CB2A3-3F8B-4034-ACB9-F113B28FBFF1/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": "2:00 PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0EE21F71-1B60-4934-AA17-D0951EEE77C4",
+      "overrideName": "2F40013C-DBB4-455C-BA18-5ACCFA584378/53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186/177D7315-23AA-4889-8380-277DC7AF0917_stringValue",
+      "value": "3:00 PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A55D5E98-C909-4BC1-AB3A-925EF070F0EB",
+      "overrideName": "2F40013C-DBB4-455C-BA18-5ACCFA584378/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B69EA586-2433-4F7E-AAE3-62595424CA92",
+      "overrideName": "2F5B4BE8-7CA4-4A41-B72B-955FADC9BE85/53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186/177D7315-23AA-4889-8380-277DC7AF0917_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "656BD0DC-B0F8-4469-9930-D5EC2A6A31F1",
+      "overrideName": "2F5B4BE8-7CA4-4A41-B72B-955FADC9BE85/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5999AD40-1B5B-4EE4-A2FB-9F911E9F82CE",
+      "overrideName": "69BDB807-9706-42D1-90EA-F117F4801FAD/53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186/177D7315-23AA-4889-8380-277DC7AF0917_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "03FDA2FB-556E-40CE-A982-10141176F4EC",
+      "overrideName": "69BDB807-9706-42D1-90EA-F117F4801FAD/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1309DE6B-ACA1-4AA3-9CA2-C49F6552AA8A",
+      "overrideName": "50E6DA56-3C1C-4859-A8B2-0B16045FA61E/53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186/177D7315-23AA-4889-8380-277DC7AF0917_stringValue",
+      "value": "6:00 PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7865CB17-F7CA-4288-AC61-FD2F6168F4F6",
+      "overrideName": "50E6DA56-3C1C-4859-A8B2-0B16045FA61E/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": "6:00 PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4E4288D4-6AAD-4DF1-9807-41BD3B800583",
+      "overrideName": "7F237AC9-8737-4D78-BA12-BFF678D1EEC0/53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186/177D7315-23AA-4889-8380-277DC7AF0917_stringValue",
+      "value": "7:00 PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BA65970-C797-4A58-B045-86B0EDCB51FC",
+      "overrideName": "7F237AC9-8737-4D78-BA12-BFF678D1EEC0/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": "7:00 PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0D265B98-99E9-4953-A9A4-BB5C4F7CF974",
+      "overrideName": "2F368ABD-C180-4CA7-9346-5752577FD220/53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186/177D7315-23AA-4889-8380-277DC7AF0917_stringValue",
+      "value": "8:00 PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3C862568-B81F-425A-9E83-BF70052D504D",
+      "overrideName": "2F368ABD-C180-4CA7-9346-5752577FD220/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": "8:00 PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8ADD9D29-7E4C-4BE3-9773-E4CF122C47A8",
+      "overrideName": "1792F70C-F3C1-45C1-B0AF-21A0BBC10B70/53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186/177D7315-23AA-4889-8380-277DC7AF0917_stringValue",
+      "value": "9:00 PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EEBD21BB-FB9B-4F09-92E0-B5D670D474AB",
+      "overrideName": "1792F70C-F3C1-45C1-B0AF-21A0BBC10B70/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": "9:00 PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "53AC7705-85C4-4867-8999-D3E15DBC67E0",
+      "overrideName": "84E902C1-F3C4-4486-808E-045803A85F22/53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186/177D7315-23AA-4889-8380-277DC7AF0917_stringValue",
+      "value": "10:00 PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6CC849EB-1094-4AF8-9D71-16837041E729",
+      "overrideName": "84E902C1-F3C4-4486-808E-045803A85F22/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": "10:00 PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CBA77391-9884-4143-B097-9A8191954C17",
+      "overrideName": "0579CA53-C416-462E-BAAB-6BE7AEB66B59/53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186/177D7315-23AA-4889-8380-277DC7AF0917_stringValue",
+      "value": "11:00 PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7B00ECBB-15FC-4730-B7A3-B9232CEA6F4F",
+      "overrideName": "0579CA53-C416-462E-BAAB-6BE7AEB66B59/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/197AEFE2-909A-43ED-8C7E-A04353CB757E_stringValue",
+      "value": "11:00 PM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ED9E8AE0-354A-4E9F-B333-F921AA68DA3A",
+      "overrideName": "38ECDEBB-D0B1-47D2-AAC2-C0E373851FD6/B435C1E2-30E8-49C2-89AC-0C9576903A0E_symbolID",
+      "value": "021E7AD4-8AD8-4CFE-BA80-5365E52EF467"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3EDAD926-4B26-43E6-988B-938ABD5BF2F6",
+      "overrideName": "38ECDEBB-D0B1-47D2-AAC2-C0E373851FD6/B435C1E2-30E8-49C2-89AC-0C9576903A0E/276E42DA-0B63-4BC9-A9B4-5784982EC9B1_stringValue",
+      "value": "Released"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "56159826-C85E-4E4B-ABC7-CC0F6CFF32EE",
+  "verticalSpacing": 0
+}

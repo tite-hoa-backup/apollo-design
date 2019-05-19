@@ -44,7 +44,7 @@
     "do_objectID": "C28A4F03-AD4E-406C-BC81-8473DE5229D0"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -124,16 +124,16 @@
       "id": "938BC1F8-7817-4E96-AA3D-81E7395EA28F"
     },
     {
-      "class": "rectangle",
-      "id": "2EBAD6A0-6AA3-44CA-9F3A-0C552D41965B"
-    },
-    {
       "class": "symbolInstance",
       "id": "265CE5EA-2BA1-4D93-AF6A-855834BE3895"
     },
     {
       "class": "symbolInstance",
       "id": "51EA5478-C9EC-4F43-B5F5-E7918C090B4D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0B518CB7-E2BF-4ECB-A0D8-6C5AA3CD2803"
     }
   ],
   "name": "reservations / basic",

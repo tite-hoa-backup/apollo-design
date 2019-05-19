@@ -2,10 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8B39C630-2FA6-44E5-9218-F7FD5A133350",
+  "do_objectID": "B685D531-FCBE-474B-BB56-0C10EB143F79",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "1E1621B8-B168-4323-86CE-695CFFD649E5",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -26,12 +27,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "D923FA6D-04F3-4B65-977E-385E32E9CBC8",
     "height": 752,
     "width": 960,
-    "x": 416,
-    "y": 176
+    "x": 0,
+    "y": 0
   },
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
   "isFixedToViewport": false,
@@ -95,6 +97,7 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
+      "do_objectID": "D4F33861-EC3F-4A0B-8308-6900BE8B4D2F",
       "isEnabled": false,
       "lineCapStyle": 0,
       "lineJoinStyle": 1
@@ -115,6 +118,7 @@
         "thickness": 1
       }
     ],
+    "do_objectID": "B7F31025-6EFE-4156-BDDF-34D6C3EB7F65",
     "endMarkerType": 0,
     "fills": [
       {

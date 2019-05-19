@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3C824CF3-1E40-4CE1-9605-5D6AD99CC45C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1B45ECAA-E831-4617-A01A-EDFED1C48F61",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BD56E800-5273-4E3C-9D95-965933ED34B9",
+    "height": 56,
+    "width": 124,
+    "x": 340,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "calendar / each / dateBold",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95DBD912-65F7-46BD-8D1A-DB98F8090624",
+      "overrideName": "826A7BAB-20CF-48D4-AE6F-7FA71BC68E18_stringValue",
+      "value": "Tue, July 30"
+    }
+  ],
+  "resizingConstraint": 21,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7D30BDC4-43BC-47B0-A28C-50A1CD87EF3C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "694BC6BE-FAC2-4733-8716-3D6C087F3952",
+  "verticalSpacing": 0
+}

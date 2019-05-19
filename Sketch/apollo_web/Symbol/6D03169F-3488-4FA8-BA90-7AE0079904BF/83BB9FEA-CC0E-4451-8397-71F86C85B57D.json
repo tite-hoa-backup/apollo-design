@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "83BB9FEA-CC0E-4451-8397-71F86C85B57D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28F87F92-E57F-4FA1-91C9-C271320E4A10",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B3B4FAC-275F-46B9-AB05-7982E7960C85",
+    "height": 29,
+    "width": 960,
+    "x": 0,
+    "y": 143
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "calendar / row / time",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "77B38B33-BF9A-48B6-8F61-E91D44616423",
+      "overrideName": "31C630DC-2E26-4D87-A4D6-B9A723E97596/D01E5F6E-0211-4D5A-9FA2-A9F6331CC282_stringValue",
+      "value": "3:00 AM"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "36FA84D2-575F-48EC-9095-05EDFBE26F09",
+      "overrideName": "53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186_symbolID",
+      "value": "021E7AD4-8AD8-4CFE-BA80-5365E52EF467"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "86700B9C-8C88-4708-9CD7-B53C780CC6C6",
+      "overrideName": "53FB7B8E-71D8-4CE5-BAA0-EB1EB7D0C186/276E42DA-0B63-4BC9-A9B4-5784982EC9B1_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C9EE279E-C75D-44CB-9366-04C8283D7942",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EFBBDF08-E42D-4F4B-9396-04D2441101C3",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EF972211-0BF5-4601-82A3-AD0E319C51C2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FD2C11A9-14D7-4B0F-8705-C4CFEC1AD5A5",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5AC2BF23-3BEC-4817-9A7B-D1C689BDE5C2",
+    "height": 32,
+    "width": 240,
+    "x": 416,
+    "y": 120
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / tabButton / 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "691F93B1-C94B-460C-AF9E-D117C08D35C8",
+      "overrideName": "B9EE59F6-3938-4DBD-9575-EFB6CEF17320_symbolID",
+      "value": "0CACEAB6-C29B-495D-A041-C0EAAF0EAAEF"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4AF36D40-13BA-4447-B0AC-3C544AA7357B",
+      "overrideName": "B9EE59F6-3938-4DBD-9575-EFB6CEF17320/FC13C0F8-4F79-4BF5-AB2F-C87E99F58A40_stringValue",
+      "value": "Today"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7B6D8762-1582-4DBA-B422-1878FEEF608F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F440563A-8DB0-4179-853C-E8C942C2D530",
+  "verticalSpacing": 0
+}

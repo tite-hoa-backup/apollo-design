@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B1C88509-2BBF-4D06-8FCA-93A836D4BE35",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C9FE6C23-E812-49E4-96EB-0BC12720CFB6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF5F9734-CD79-4283-9BD9-6377F7E0476F",
+    "height": 152,
+    "width": 320,
+    "x": 32,
+    "y": 448
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "base / login copy",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "49119C0C-1F58-4647-8DC9-C2B898A3AC80",
+      "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/A7F18A83-FC5A-4B8F-891D-F08E89FBA1BB_stringValue",
+      "value": "Minimum Advance Notice*"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BCE2514-C395-41C6-B972-0B30F06EBE68",
+      "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/86C29F30-13E7-4ED6-AEED-D3F66743AE0A_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A0D7A26B-C128-4B7A-97D2-4A0D169503DC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C3285D2A-B6A4-464B-9BBB-D1C9CE6D181E",
+  "verticalSpacing": 0
+}

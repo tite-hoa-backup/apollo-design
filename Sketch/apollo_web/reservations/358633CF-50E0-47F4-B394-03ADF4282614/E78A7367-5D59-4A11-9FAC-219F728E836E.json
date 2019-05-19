@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E78A7367-5D59-4A11-9FAC-219F728E836E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F89EDBD-CE8E-442A-A739-36077E5E4458",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "902143EA-9CDA-4465-AB73-B2B8B0B2BB5E",
+    "height": 32,
+    "width": 288,
+    "x": 48,
+    "y": 500
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / tabButton / 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9E52C7EB-E2CF-47C4-BC11-B7565519AB57",
+      "overrideName": "B9EE59F6-3938-4DBD-9575-EFB6CEF17320/CF536425-1E06-49E6-BFBB-C1AC08428314_stringValue",
+      "value": "12 hours"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8FC5AA93-8537-4F1C-8CAB-707BF37507D8",
+      "overrideName": "CA000B18-10B4-4CE6-8893-D93BB4CE7FAA/CF536425-1E06-49E6-BFBB-C1AC08428314_stringValue",
+      "value": "24 hours"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B8FE810F-1BDC-4598-BDF7-E9559EEB2EB9",
+      "overrideName": "164C0741-4C34-4970-8710-AB984079E70A_symbolID",
+      "value": "0CACEAB6-C29B-495D-A041-C0EAAF0EAAEF"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EE667749-A0CD-4A5B-9DC1-207301939B82",
+      "overrideName": "164C0741-4C34-4970-8710-AB984079E70A/FC13C0F8-4F79-4BF5-AB2F-C87E99F58A40_stringValue",
+      "value": "6 hours"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1CEC2F5E-C2F4-448E-B040-3D15C5773098",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F440563A-8DB0-4179-853C-E8C942C2D530",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "25461751-6F90-4B9C-B897-84D3FC3EFDCB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8531AD83-9F08-4659-BE62-1082BB000737",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "509F79AE-F94F-487B-BEB3-31269C1DB1EE",
+    "height": 48,
+    "width": 320,
+    "x": 32,
+    "y": 232
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / checkboxWhite",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "489C6757-5210-4B25-8CE6-1AD6518C2FD6",
+      "overrideName": "6FB1EB37-BCC7-47BB-AE5F-92EFF8A2E2CF_stringValue",
+      "value": "Student Reservations"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F3489ECC-2133-43B4-8F88-6067D181BB79",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DBC107D4-040F-4672-90AF-904C77AC8904",
+  "verticalSpacing": 0
+}

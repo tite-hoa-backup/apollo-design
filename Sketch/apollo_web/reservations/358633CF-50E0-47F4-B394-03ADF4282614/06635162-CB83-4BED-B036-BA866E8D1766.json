@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "06635162-CB83-4BED-B036-BA866E8D1766",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B552CA0C-F82C-46CF-87D0-68E5DB3F60D7",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DC8B8BD8-14BD-4F05-BD1E-67ADE15981C3",
+    "height": 56,
+    "width": 320,
+    "x": 32,
+    "y": 760
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / basicWhite56",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "18B1443D-D4AE-430B-9ED9-809F23906125",
+      "overrideName": "F062CB2F-0550-4ADE-8702-4B3040BFEA8F_stringValue",
+      "value": "+ Hold a spot for a regular"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BCFDFD6E-660F-4462-A3CA-284927C7B06D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AF228F24-CAB2-41EA-8335-F82754B656A0",
+  "verticalSpacing": 0
+}

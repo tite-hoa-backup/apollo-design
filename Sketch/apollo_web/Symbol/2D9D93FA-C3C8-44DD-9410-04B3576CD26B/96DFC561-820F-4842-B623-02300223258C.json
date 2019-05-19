@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "96DFC561-820F-4842-B623-02300223258C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "060A5F3D-958B-413C-AE69-57D809EE42B5",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A886AF38-3E6E-41C0-9516-7F04EE71DA58",
+    "height": 56,
+    "width": 124,
+    "x": 712,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "calendar / each / dateBoldToday",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6BADF603-9DD9-49FE-8477-808ACD39328D",
+      "overrideName": "0AD9E1B5-6FEA-4A57-83D2-6B97BD68F40E_stringValue",
+      "value": "Fri, August 2"
+    }
+  ],
+  "resizingConstraint": 21,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B1E5797-6A41-4AFA-BD86-8D0E8588ECA5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5F5A2516-922D-4791-A545-003B74A5EC0E",
+  "verticalSpacing": 0
+}

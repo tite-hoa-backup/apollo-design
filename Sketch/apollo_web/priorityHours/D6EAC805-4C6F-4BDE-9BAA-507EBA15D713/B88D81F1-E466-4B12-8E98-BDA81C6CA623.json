@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B88D81F1-E466-4B12-8E98-BDA81C6CA623",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6DC9CAC5-7706-43D7-8B16-A41BFF39C74F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9C501A94-5E77-41C7-948B-6E4E76ACDBB2",
+    "height": 48,
+    "width": 320,
+    "x": 32,
+    "y": 184
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / checkboxWhite",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "489C6757-5210-4B25-8CE6-1AD6518C2FD6",
+      "overrideName": "6FB1EB37-BCC7-47BB-AE5F-92EFF8A2E2CF_stringValue",
+      "value": "Available Priority Hours\n\n"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7A4A7B57-5EC9-4738-B328-24A3D0A77D3E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DBC107D4-040F-4672-90AF-904C77AC8904",
+  "verticalSpacing": 0
+}
