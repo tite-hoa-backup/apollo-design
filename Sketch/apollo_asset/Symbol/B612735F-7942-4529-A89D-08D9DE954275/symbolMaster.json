@@ -4,27 +4,19 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.2,
-    "green": 0.2,
-    "red": 0.2
+    "blue": 0,
+    "do_objectID": "03496838-531C-4775-99AA-6C96423EA74B",
+    "green": 0,
+    "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 11181,
+  "changeIdentifier": 5540,
   "clippingMaskMode": 0,
-  "do_objectID": "E7903A45-B88D-40EA-9EA8-5A3CD32B68AC",
+  "do_objectID": "B612735F-7942-4529-A89D-08D9DE954275",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CEE1C2C2-D3EC-4F69-9911-FE6E1467DED1",
+    "do_objectID": "6A3189D1-0365-4F77-B958-F88BA2894AD3",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -34,22 +26,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "05EC822D-34AE-4B7A-B108-286C66F931B9",
-    "height": 1,
-    "width": 360,
-    "x": 325,
-    "y": -472
-  },
-  "grid": {
-    "_class": "simpleGrid",
-    "do_objectID": "52F2AF02-93BA-4F8C-BB2E-6F06587479E7",
-    "gridSize": 20,
-    "isEnabled": false,
-    "thickGridTimes": 10
+    "do_objectID": "B3306B7F-A7F6-47C0-96ED-7D53AD30823A",
+    "height": 24,
+    "width": 24,
+    "x": -144,
+    "y": 72
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "B62551AA-39FE-4177-8FDE-7E5CE317D9EA"
+    "do_objectID": "7F4724AC-4C37-4D48-A7E9-4F00A0D553E3"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -57,7 +42,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "3FBF7C90-16A8-4DC1-ACC0-6C3BCF8E2AF0",
+    "do_objectID": "072CA3F9-AB3E-4C69-B517-D4ECE56FC811",
     "guides": [
     ]
   },
@@ -73,13 +58,13 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "6827C1BE-5B95-4DE2-AEF1-5764CCE63DDE"
+      "class": "shapeGroup",
+      "id": "ED0DB1A4-5B6B-4464-97B3-DB7B736E5F81"
     }
   ],
-  "name": "misc / strokeWhite",
+  "name": "btn / lessonOnDark / icReport",
   "nameIsFixed": true,
-  "originalObjectID": "4990C942-454A-42D0-B4A8-48A54E4FB400",
+  "originalObjectID": "F7AA7B6A-81F1-443C-80F5-0F46FE73B0BE",
   "overrideProperties": [
   ],
   "resizesContent": true,
@@ -89,26 +74,22 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "08CAC36A-B450-4FCA-AE9C-E6444320F5BC",
+    "do_objectID": "E3763FCD-1641-4370-9C4A-33B1E53F30A7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C5EA4231-DB90-41CC-BA48-8B4512F3AF4C",
+  "symbolID": "BE98C119-B991-407A-BCC9-4D43F83854CF",
   "userInfo": {
     "avocode": {
       "idsFixed": 1
-    },
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
     }
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "E95A8B13-47A4-4AE9-BD54-EC41026F3AAE",
+    "do_objectID": "6665881B-089F-47CD-B88B-E70E3FFE19B4",
     "guides": [
     ]
   }

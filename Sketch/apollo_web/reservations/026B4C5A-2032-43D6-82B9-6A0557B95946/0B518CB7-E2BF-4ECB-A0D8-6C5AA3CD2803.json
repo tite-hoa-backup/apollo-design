@@ -42,6 +42,18 @@
   "name": "calendar / reservations",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CFB9FC86-C39B-4F20-9124-BC860C4FD65F",
+      "overrideName": "307927DD-3FC8-4A99-950B-0D7B3FF05665/DDC83284-BD97-4A9C-9EE7-EF0526F135E5_symbolID",
+      "value": "021E7AD4-8AD8-4CFE-BA80-5365E52EF467"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2A9E23EB-E910-48C3-921A-E93DEF5B043A",
+      "overrideName": "307927DD-3FC8-4A99-950B-0D7B3FF05665/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/276E42DA-0B63-4BC9-A9B4-5784982EC9B1_stringValue",
+      "value": "6:00 - 7:00"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

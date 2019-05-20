@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7F7CF228-5B32-4C48-A86C-1602DF9D2DB8",
+  "do_objectID": "2D0A78F8-9FFC-4D29-9803-4412B6B424DD",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "5C982BBE-B53E-4FB7-B635-73724E8780C4",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -24,9 +25,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "8E032289-8539-4A69-BDB6-ADB9F73767D3",
     "height": 86,
     "width": 96,
-    "x": 728,
+    "x": 616,
     "y": 874
   },
   "hasClippingMask": false,
@@ -38,19 +40,19 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "btn / lessonOnDark",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "575DEE98-402B-41DC-AC00-85536AEE9967",
-      "overrideName": "3693561F-EF28-4549-ADB2-5B0E65C68402_symbolID",
-      "value": "203205AB-B804-4D65-BE4C-8423E706C2A1"
+      "do_objectID": "85EFB3A2-CB7F-489B-9387-082698D06356",
+      "overrideName": "D89F232A-3082-48B4-AEF5-292F9C90B623_stringValue",
+      "value": "Report"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "AEEA39EA-53C1-4484-BE6B-1763FC1F6976",
-      "overrideName": "D89F232A-3082-48B4-AEF5-292F9C90B623_stringValue",
-      "value": "Cam On"
+      "do_objectID": "7B4823AF-490B-4746-8861-56DC3300961E",
+      "overrideName": "3693561F-EF28-4549-ADB2-5B0E65C68402_symbolID",
+      "value": "6863364F-07E1-40CE-8AE1-C3627C4ADD3A"
     }
   ],
   "resizingConstraint": 63,
@@ -60,6 +62,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "B9240A78-1947-4B55-B734-D8FB116FC671",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

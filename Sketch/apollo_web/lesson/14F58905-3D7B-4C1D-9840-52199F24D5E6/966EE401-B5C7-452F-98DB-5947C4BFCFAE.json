@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F559A690-8CE3-4553-AA25-72FE0AD7BFA9",
+  "do_objectID": "966EE401-B5C7-452F-98DB-5947C4BFCFAE",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "081CA90B-41B1-44E0-B7DF-8730AB647F95",
+    "do_objectID": "AF231890-506B-4B4B-A91D-1FCC9BC52819",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -25,10 +25,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F1F7923A-C82B-4971-A946-04B2390166D8",
+    "do_objectID": "7380450E-6756-4B54-9902-EEAEE8C3B404",
     "height": 86,
     "width": 96,
-    "x": 728,
+    "x": 616,
     "y": 874
   },
   "hasClippingMask": false,
@@ -40,19 +40,19 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "btn / lessonOnDark",
-  "nameIsFixed": false,
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "9EE12DCE-56BA-48FB-80DC-31C51D0C101A",
-      "overrideName": "3693561F-EF28-4549-ADB2-5B0E65C68402_symbolID",
-      "value": "203205AB-B804-4D65-BE4C-8423E706C2A1"
+      "do_objectID": "85EFB3A2-CB7F-489B-9387-082698D06356",
+      "overrideName": "D89F232A-3082-48B4-AEF5-292F9C90B623_stringValue",
+      "value": "Report"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "BDAE500E-D78C-4092-9ACC-0D458AA18370",
-      "overrideName": "D89F232A-3082-48B4-AEF5-292F9C90B623_stringValue",
-      "value": "Cam On"
+      "do_objectID": "7B4823AF-490B-4746-8861-56DC3300961E",
+      "overrideName": "3693561F-EF28-4549-ADB2-5B0E65C68402_symbolID",
+      "value": "6863364F-07E1-40CE-8AE1-C3627C4ADD3A"
     }
   ],
   "resizingConstraint": 63,
@@ -62,7 +62,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4D7163B8-C2CA-4055-8D61-C7FBD475C5DC",
+    "do_objectID": "3457B561-B8B5-4607-B707-A03DED4425A1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
