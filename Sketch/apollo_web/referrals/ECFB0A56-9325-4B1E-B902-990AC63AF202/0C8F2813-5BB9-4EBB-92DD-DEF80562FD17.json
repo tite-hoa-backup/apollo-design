@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "17AD43E3-5779-49E6-9E74-A9E3EAD9BE97",
+  "do_objectID": "0C8F2813-5BB9-4EBB-92DD-DEF80562FD17",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "22A0AF22-9F67-4A78-BBAF-FBA0DB119361",
+    "do_objectID": "95418E2E-2B5C-4412-967D-C2D46D49E464",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -25,11 +25,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "8A889D25-2BF7-449B-9345-C33A2BA4F1DD",
-    "height": 95.99999999999997,
-    "width": 480,
-    "x": 480,
-    "y": 255.9999999999999
+    "do_objectID": "72EBA010-D914-459F-968C-8ADC68749CF4",
+    "height": 56,
+    "width": 416,
+    "x": 768,
+    "y": 444
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -39,20 +39,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "base / login",
+  "name": "btn / basicWhite56",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "49119C0C-1F58-4647-8DC9-C2B898A3AC80",
-      "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/A7F18A83-FC5A-4B8F-891D-F08E89FBA1BB_stringValue",
-      "value": "Timezone\n"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "3C3367A7-A25B-4AA2-8840-7FD543AF3B1E",
-      "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/86C29F30-13E7-4ED6-AEED-D3F66743AE0A/AB73D1F8-C8B7-4574-86FE-3963C3CECE16_symbolID",
-      "value": "0DCB4ED6-E5E8-416A-8367-3E48B427F9E0"
+      "do_objectID": "18B1443D-D4AE-430B-9ED9-809F23906125",
+      "overrideName": "F062CB2F-0550-4ADE-8702-4B3040BFEA8F_stringValue",
+      "value": "Share"
     }
   ],
   "resizingConstraint": 63,
@@ -62,12 +56,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "514DEF90-5416-4F11-A670-08DCA3140ABD",
+    "do_objectID": "84E01AFF-66B3-4CA2-BAF5-E1912E9DC1D1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C3285D2A-B6A4-464B-9BBB-D1C9CE6D181E",
+  "symbolID": "AF228F24-CAB2-41EA-8335-F82754B656A0",
   "verticalSpacing": 0
 }

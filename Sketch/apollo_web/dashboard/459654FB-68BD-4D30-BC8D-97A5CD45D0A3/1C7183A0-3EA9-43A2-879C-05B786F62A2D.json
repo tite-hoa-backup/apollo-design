@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F792030E-75B7-45BD-8E39-3EE196995826",
+  "do_objectID": "1C7183A0-3EA9-43A2-879C-05B786F62A2D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EA66F39A-703B-45F8-976B-EE648B547469",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -25,11 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CAEACE3C-16E6-450B-AA70-345895B6D6CD",
-    "height": 152,
-    "width": 480,
-    "x": 480,
-    "y": 384.0000000000001
+    "height": 1024,
+    "width": 1440,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -39,21 +37,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "base / login",
-  "nameIsFixed": true,
+  "name": "[SYMBOL] dashboard / basic",
+  "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "49119C0C-1F58-4647-8DC9-C2B898A3AC80",
-      "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/A7F18A83-FC5A-4B8F-891D-F08E89FBA1BB_stringValue",
-      "value": "Upcoming Events"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "82BA2D81-6430-4EFB-ACD6-1195297962B0",
-      "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/86C29F30-13E7-4ED6-AEED-D3F66743AE0A_symbolID",
-      "value": ""
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -62,12 +48,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "7683C14D-AA9A-47FA-82A2-6E9B724BB320",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C3285D2A-B6A4-464B-9BBB-D1C9CE6D181E",
+  "symbolID": "AB751376-0D57-42E3-8BA6-8B63514CB3E3",
   "verticalSpacing": 0
 }

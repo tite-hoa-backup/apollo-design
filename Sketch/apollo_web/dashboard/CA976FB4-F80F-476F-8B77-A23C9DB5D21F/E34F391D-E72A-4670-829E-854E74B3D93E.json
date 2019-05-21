@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E34F391D-E72A-4670-829E-854E74B3D93E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "857BE11A-D2DC-40A5-967B-4B8706C63489",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1AFE0D9E-9E84-4D0F-90B5-53E3F2BF145B",
+    "height": 152,
+    "width": 480,
+    "x": 480,
+    "y": 384.0000000000001
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "base / login",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "49119C0C-1F58-4647-8DC9-C2B898A3AC80",
+      "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/A7F18A83-FC5A-4B8F-891D-F08E89FBA1BB_stringValue",
+      "value": "Upcoming Events"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "82BA2D81-6430-4EFB-ACD6-1195297962B0",
+      "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/86C29F30-13E7-4ED6-AEED-D3F66743AE0A_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C8736043-D22E-4405-AE31-4C9F032A8917",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C3285D2A-B6A4-464B-9BBB-D1C9CE6D181E",
+  "verticalSpacing": 0
+}

@@ -2,19 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "48DD1D99-B76F-46C0-BBCB-66DB26E6000E",
+  "do_objectID": "C1CBE0F9-BB66-45DA-8FE2-890F0F8C95F5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -24,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 64,
-    "width": 1440,
+    "height": 36,
+    "width": 240,
     "x": 0,
-    "y": 0
+    "y": 256
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -37,11 +28,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "header / basic",
+  "name": "spinner / each",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C753B468-E45A-45DA-802A-AA66766DC251",
+      "overrideName": "B864FF75-B896-41C8-9C79-2D6C1E77144F_stringValue",
+      "value": "Log Out"
+    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -53,6 +50,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "144A6FA9-0CEB-4E32-A112-9486819ED00F",
+  "symbolID": "6C87FA41-7DE3-4480-AD3C-8DF987FB0CAD",
   "verticalSpacing": 0
 }

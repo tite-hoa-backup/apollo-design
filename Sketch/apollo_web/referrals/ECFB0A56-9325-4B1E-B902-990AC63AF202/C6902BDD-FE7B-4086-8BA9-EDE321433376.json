@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C6902BDD-FE7B-4086-8BA9-EDE321433376",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B51326A5-8C71-4F17-99B1-8690B193B84B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CBA84792-3B35-44CF-98FE-E20E70E74D45",
+    "height": 47.99999999999999,
+    "width": 416,
+    "x": 256,
+    "y": 396
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / checkboxWhite / toggleSwitch",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "240351B4-B15D-46D7-BF92-6BFB31CD77CF",
+      "overrideName": "623CB5E5-F2A3-45CC-8AAF-753876A68ECA/C467DEAD-D81B-48CB-8081-03539A11884F_symbolID",
+      "value": "DBBC0835-C539-45FE-AE99-67D03E073EFA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9D112D22-FDA5-4BE3-91E7-DB8B062909DB",
+      "overrideName": "7304C4BF-C988-48DA-9937-A679B1ADBC1E_stringValue",
+      "value": "apollo.com/tutors?referralCode=username"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3B9206DF-AAA1-4440-809A-312BC42801F3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FDF8AF44-0F8E-48FB-BB8C-EADF4956F594",
+  "verticalSpacing": 0
+}

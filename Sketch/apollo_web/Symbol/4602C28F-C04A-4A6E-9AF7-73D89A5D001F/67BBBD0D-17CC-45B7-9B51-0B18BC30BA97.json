@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "67BBBD0D-17CC-45B7-9B51-0B18BC30BA97",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC2E979A-5A96-40B5-8466-12E6B8730DB0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5E18051B-40EA-44D7-B084-88A469368658",
+    "height": 36,
+    "width": 240,
+    "x": 0,
+    "y": 80
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "spinner / each-hover",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2012F49A-AEB6-46FE-A036-5AF7FEEA4950",
+      "overrideName": "7801173E-51FD-4D9F-9759-446B3EED0776_stringValue",
+      "value": "Account"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "37104D5A-2C16-4B8C-8727-6228ED2F4EA2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D6BA172B-CE86-40AE-982D-05F6A656F501",
+  "verticalSpacing": 0
+}

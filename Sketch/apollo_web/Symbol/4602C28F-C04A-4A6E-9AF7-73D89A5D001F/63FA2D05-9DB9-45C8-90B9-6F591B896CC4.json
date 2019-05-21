@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "63FA2D05-9DB9-45C8-90B9-6F591B896CC4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "63BCD961-EDE7-48CE-9EBB-1C526D4D9758",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CE49F964-CF17-4BFC-ACE7-09B65E51B73D",
+    "height": 36,
+    "width": 240,
+    "x": 0,
+    "y": 8
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "spinner / each",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D7700681-A107-4DF9-ABDB-7482B683B031",
+      "overrideName": "B864FF75-B896-41C8-9C79-2D6C1E77144F_stringValue",
+      "value": "View Profile"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F414B886-E4B7-4A23-85D8-A5BCC1A4784A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6C87FA41-7DE3-4480-AD3C-8DF987FB0CAD",
+  "verticalSpacing": 0
+}

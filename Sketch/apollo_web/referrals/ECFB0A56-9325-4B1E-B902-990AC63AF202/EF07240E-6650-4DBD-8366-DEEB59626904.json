@@ -16,33 +16,33 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
-              "size": 16
+              "name": "Roboto-Bold",
+              "size": 24
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22,
-            "paragraphSpacing": 1
+            "alignment": 2,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 32,
+            "minimumLineHeight": 32
           }
         },
-        "length": 16,
+        "length": 24,
         "location": 0
       }
     ],
-    "string": "America/New York"
+    "string": "Get Paid to Refer Tutors"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0F64C321-7B01-4DA7-B156-0C49C480378B",
+  "do_objectID": "EF07240E-6650-4DBD-8366-DEEB59626904",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "830F0345-18A9-472F-B707-5ABC534869E3",
+    "do_objectID": "FCDCD189-8DB2-4A4C-81FC-AF5065FBE13D",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -62,13 +62,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9F9A25CC-A729-4B4C-A404-3D4B271D83DD",
-    "height": 22,
-    "width": 448,
-    "x": 496,
-    "y": 309
+    "do_objectID": "45441909-7DB6-400C-92BC-8E5FCFA2538F",
+    "height": 32,
+    "width": 416,
+    "x": 512,
+    "y": 128
   },
-  "glyphBounds": "{{0, 4}, {135, 14}}",
+  "glyphBounds": "{{79, 6}, {258, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -77,22 +77,22 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textRegular16B78Left",
+  "name": "textBold24B78Center",
   "nameIsFixed": true,
-  "resizingConstraint": 10,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "71677984-ABBC-4CDC-8408-C4BD9F5146B8",
+  "sharedStyleID": "C249D91D-05C1-4790-9F0B-9325454F8FD0",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "23C2808A-B254-4137-971E-0A21E47C8AAF",
+    "do_objectID": "2ECC5AB2-CE28-432A-84FE-4769CAE75EA4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "EC66703E-74C2-4740-BBDB-8FD6FA2F3B31",
+      "do_objectID": "D3429357-D0B2-41E7-8F72-AC70B851D18E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -104,17 +104,17 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
-            "size": 16
+            "name": "Roboto-Bold",
+            "size": 24
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22,
-          "paragraphSpacing": 1
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 32,
+          "minimumLineHeight": 32
         }
       },
       "verticalAlignment": 0

@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EBAB36DC-0789-45B8-9C54-4C7C53285F43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1BC5E097-59FC-4025-9E06-00BF1C728B90",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6F80725F-B9CC-4C39-B7FB-199F5BF3DC78",
+    "height": 56,
+    "width": 200,
+    "x": 472,
+    "y": 660
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / loginLogoWhite",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9C60D4B9-C278-4A2F-BA18-C4BDA5A8BA3B",
+      "overrideName": "AC7C2803-245F-444C-AB43-1AB44391EAD0_stringValue",
+      "value": "Facebook"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CE385288-C89B-4199-BBFE-FEA2D17A8C83",
+      "overrideName": "BFCB2154-5E93-4803-B7AD-DCC8F0394736_symbolID",
+      "value": "EE650E84-C510-4FC7-8489-5086664970FB"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C292C1DB-999C-4A69-B91E-A4F85B731329",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2584080A-ED60-4C82-ABA1-B05AD033A18A",
+  "verticalSpacing": 0
+}

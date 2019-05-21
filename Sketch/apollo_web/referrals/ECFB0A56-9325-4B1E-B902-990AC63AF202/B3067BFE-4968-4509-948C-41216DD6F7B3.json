@@ -1,11 +1,11 @@
 {
-  "_class": "bitmap",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "B87C683A-7280-4DA7-97E5-8B9C835406EA",
+  "do_objectID": "B3067BFE-4968-4509-948C-41216DD6F7B3",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "59FB8EE4-C5ED-4A40-B66C-68BCF65B0D21",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -22,39 +22,46 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 435,
-    "width": 721,
-    "x": 5565,
-    "y": -1030
+    "constrainProportions": false,
+    "do_objectID": "AD949A6D-4F63-411C-A51A-90EAD845841C",
+    "height": 56,
+    "width": 416,
+    "x": 256,
+    "y": 484
   },
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/a87d6ce9ea2c5adb0e1f419fb66520590b821050.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 144,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bitmap",
+  "name": "btn / basicWhite56",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "18B1443D-D4AE-430B-9ED9-809F23906125",
+      "overrideName": "F062CB2F-0550-4ADE-8702-4B3040BFEA8F_stringValue",
+      "value": "Copy Link"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "3BA3CEFB-93D1-4CB7-95D5-11BF64C4B011",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "AF228F24-CAB2-41EA-8335-F82754B656A0",
+  "verticalSpacing": 0
 }

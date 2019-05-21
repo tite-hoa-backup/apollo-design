@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ED19C9A7-1119-4C17-B244-430C1E968D17",
+  "do_objectID": "041F2705-6FBF-4E6B-869F-580E8C3F2B76",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "51F486A0-D81E-4FCC-B3D0-47C06F375059",
+    "do_objectID": "35FB668E-616E-4EC1-B2E5-2EDD5598F331",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -25,11 +25,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "91C84464-86D7-4825-9BC2-46347D6B2087",
-    "height": 96.00000000000006,
+    "do_objectID": "9CA21284-1528-4190-A4F2-457EA2AABB98",
+    "height": 288,
     "width": 480,
-    "x": 480,
-    "y": 128
+    "x": 736,
+    "y": 260
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -39,19 +39,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "base / login",
-  "nameIsFixed": true,
+  "name": "base / login copy",
+  "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "49119C0C-1F58-4647-8DC9-C2B898A3AC80",
-      "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/A7F18A83-FC5A-4B8F-891D-F08E89FBA1BB_stringValue",
-      "value": "Profile Visibility"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "DD5708AD-9DC9-4FB3-BC83-E76C480AA61A",
-      "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39/86C29F30-13E7-4ED6-AEED-D3F66743AE0A_symbolID",
+      "do_objectID": "C85D3987-1F67-4579-AA7C-673AF3CC9E65",
+      "overrideName": "6955A5AD-256C-4B5B-A2FD-6E6295FD2D39_symbolID",
       "value": ""
     }
   ],
@@ -62,7 +56,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "1E6794C6-B2D1-48F7-8B27-EFDA6308E9A5",
+    "do_objectID": "28F98BFF-CD8C-48D9-A7E7-738758AFC0A0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

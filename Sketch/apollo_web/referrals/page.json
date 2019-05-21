@@ -1,20 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8F7EF45E-2A4C-4708-936D-C98C19998A58",
+  "do_objectID": "085281E9-9AAB-4998-96E7-C8B8EF07DA62",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "png",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -24,27 +15,44 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48.00000000000006,
-    "width": 480,
-    "x": 480,
-    "y": 168
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -567,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / checkboxWhite / toggleSwitch",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "A827CDB8-9969-450E-8D22-7F03B7C6BC2E"
+    },
+    {
+      "class": "artboard",
+      "id": "ECFB0A56-9325-4B1E-B902-990AC63AF202"
+    }
   ],
+  "name": "referrals",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -53,6 +61,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FDF8AF44-0F8E-48FB-BB8C-EADF4956F594",
-  "verticalSpacing": 0
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -459,
+    "guides": [
+    ]
+  }
 }
