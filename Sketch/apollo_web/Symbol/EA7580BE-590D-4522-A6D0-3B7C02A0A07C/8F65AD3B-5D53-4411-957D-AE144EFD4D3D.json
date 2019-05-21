@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8F65AD3B-5D53-4411-957D-AE144EFD4D3D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6CACD1A7-3243-4255-9821-A82E96325549",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6ACA514E-1435-4E39-B421-E9E1A3998DC4",
+    "height": 32,
+    "width": 664,
+    "x": 296,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "calendar / list / title / each",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2954362D-7917-4C23-B59F-06EACCBD73A4",
+      "overrideName": "B7EE6575-16F1-4896-8813-E231E062CC4F_stringValue",
+      "value": "Event"
+    }
+  ],
+  "resizingConstraint": 21,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF359CAB-6958-44E1-B60D-9EF67BEFDC87",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "93EBD2E4-B87B-4ECB-BB16-E198B919979D",
+  "verticalSpacing": 0
+}
