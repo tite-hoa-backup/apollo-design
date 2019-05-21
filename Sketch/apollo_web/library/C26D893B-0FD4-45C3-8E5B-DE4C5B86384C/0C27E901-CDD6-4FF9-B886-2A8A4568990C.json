@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C27E901-CDD6-4FF9-B886-2A8A4568990C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "142921E6-5C23-437E-B8A5-50ED2CA4137B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE18ACA0-06D9-423A-B211-8BA20E353DEA",
+    "height": 48,
+    "width": 316,
+    "x": 728,
+    "y": 380
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / checkboxWhite / toggleSwitch",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "240351B4-B15D-46D7-BF92-6BFB31CD77CF",
+      "overrideName": "623CB5E5-F2A3-45CC-8AAF-753876A68ECA/C467DEAD-D81B-48CB-8081-03539A11884F_symbolID",
+      "value": "ECCC84C2-475D-4FC7-A235-DAB91DBEEDDB"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9D112D22-FDA5-4BE3-91E7-DB8B062909DB",
+      "overrideName": "7304C4BF-C988-48DA-9937-A679B1ADBC1E_stringValue",
+      "value": "Sample Content"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6550C2FA-3D06-4E6D-8757-BC29A08F4CC9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FDF8AF44-0F8E-48FB-BB8C-EADF4956F594",
+  "verticalSpacing": 0
+}
