@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "63D0DC9A-B1AC-4D2B-8569-E4B437D9C89A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FCE006F8-ACEB-424A-820D-41A767C5EF32",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E3EFAE00-5898-45EC-BF30-7C03DAFE6302",
+    "height": 72,
+    "width": 1024,
+    "x": 384,
+    "y": 478
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form / basicTitle",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AC2873AC-BFB0-4356-9A3D-21B84D107DD9",
+      "overrideName": "C45EDB0C-C191-4866-BCDF-CEAB4CB7C497_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "17F27E1B-3BC8-4C30-BDC3-CF8AE71B548D",
+      "overrideName": "15D7FFF0-182A-4EA5-91EF-A3B755603459_stringValue",
+      "value": "Teaching Experience"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E76124F5-F94F-40AE-AD8F-0DFB4F8E7CC5",
+      "overrideName": "730A6A8D-AAB6-4244-A32F-03124C9F0DD6_stringValue",
+      "value": "15 years tutoring and teaching at a University"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CBF87AA5-FAFC-403A-80BA-B15DFA274960",
+      "overrideName": "730A6A8D-AAB6-4244-A32F-03124C9F0DD6_textStyle",
+      "value": "71677984-ABBC-4CDC-8408-C4BD9F5146B8"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A3D3BC11-08FA-420F-AE1A-4F6FBE93D126",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "80CEBA94-BB42-478B-9566-C1D930BF183F",
+  "verticalSpacing": 0
+}

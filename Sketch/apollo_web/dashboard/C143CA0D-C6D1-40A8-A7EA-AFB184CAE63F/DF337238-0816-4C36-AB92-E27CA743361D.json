@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DF337238-0816-4C36-AB92-E27CA743361D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D6171752-C396-466A-83CE-F6677D202197",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "68BF9B28-9663-4E0D-95EF-D0C184EA9081",
+    "height": 72,
+    "width": 1024,
+    "x": 384,
+    "y": 318
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form / basicTitle",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "80D281DD-9241-4D99-8E58-87EFC4F5A417",
+      "overrideName": "C45EDB0C-C191-4866-BCDF-CEAB4CB7C497_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8E21B27E-8CE9-46F4-A732-271DB8F5FAE1",
+      "overrideName": "15D7FFF0-182A-4EA5-91EF-A3B755603459_stringValue",
+      "value": "Introduction Blurb"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CB4C58BB-C09D-4023-8AED-C6C2C6B1CC24",
+      "overrideName": "730A6A8D-AAB6-4244-A32F-03124C9F0DD6_stringValue",
+      "value": "I can help prepare for English speaking test such as TOEIC speaking."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5871EDE8-01AB-4831-B1D1-2F5F6A4D7B4E",
+      "overrideName": "730A6A8D-AAB6-4244-A32F-03124C9F0DD6_textStyle",
+      "value": "71677984-ABBC-4CDC-8408-C4BD9F5146B8"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "82F0E9E5-590C-4A5A-ABDC-BFCD39176745",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "80CEBA94-BB42-478B-9566-C1D930BF183F",
+  "verticalSpacing": 0
+}

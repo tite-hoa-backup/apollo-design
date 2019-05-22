@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "82BF620C-AC6D-495B-B689-D5B4E0B9472E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "87E374B9-EEE0-48D7-8E97-208B013234CA",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C6469656-1AAA-4AC7-8BA0-0DC82F572022",
+    "height": 72,
+    "width": 1024,
+    "x": 384,
+    "y": 638
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form / basicTitle",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A68CE6F-40AE-4F54-8AAE-BC0E792EF5FC",
+      "overrideName": "C45EDB0C-C191-4866-BCDF-CEAB4CB7C497_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2679D21D-D3A3-4AFF-BC8F-B4DF20C867C2",
+      "overrideName": "15D7FFF0-182A-4EA5-91EF-A3B755603459_stringValue",
+      "value": "Interests"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3864B28F-ADE5-4AB8-BFA7-5A2DE31BA6AB",
+      "overrideName": "730A6A8D-AAB6-4244-A32F-03124C9F0DD6_stringValue",
+      "value": "Travel, Tech, Sports"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B4FA7B5D-532D-4749-9B3F-ED550ADBCEF0",
+      "overrideName": "730A6A8D-AAB6-4244-A32F-03124C9F0DD6_textStyle",
+      "value": "71677984-ABBC-4CDC-8408-C4BD9F5146B8"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "87B85C31-6512-4AE5-9DCE-688A220A1CA2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "80CEBA94-BB42-478B-9566-C1D930BF183F",
+  "verticalSpacing": 0
+}
