@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D8AC68F8-7BFE-4BB0-8E52-6F4815F3141A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1797A99A-A69C-45D8-B8A7-8C38F766B37D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3C38D3C7-9AD0-45ED-81C3-2B4BAA451CE1",
+    "height": 72,
+    "width": 1024,
+    "x": 384,
+    "y": 448
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form / basicTitle",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A0B63010-1101-4020-86BE-6D9A3F653D1B",
+      "overrideName": "C45EDB0C-C191-4866-BCDF-CEAB4CB7C497_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "31429DD9-1979-4CC4-8EA9-B5605550A79F",
+      "overrideName": "15D7FFF0-182A-4EA5-91EF-A3B755603459_stringValue",
+      "value": "Education"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A225EF9D-933F-4E22-8D8C-F15B219C5B4D",
+      "overrideName": "730A6A8D-AAB6-4244-A32F-03124C9F0DD6_stringValue",
+      "value": "University of California, Irvine"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E019F939-C5DB-4C30-98A0-141005D7BD01",
+      "overrideName": "730A6A8D-AAB6-4244-A32F-03124C9F0DD6_textStyle",
+      "value": "71677984-ABBC-4CDC-8408-C4BD9F5146B8"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9C79D504-6AFA-46AA-BE4D-54B744AF5E3D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "80CEBA94-BB42-478B-9566-C1D930BF183F",
+  "verticalSpacing": 0
+}

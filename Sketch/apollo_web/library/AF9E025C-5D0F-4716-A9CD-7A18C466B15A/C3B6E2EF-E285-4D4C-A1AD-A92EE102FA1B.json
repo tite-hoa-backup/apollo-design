@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C3B6E2EF-E285-4D4C-A1AD-A92EE102FA1B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "50175E8E-994A-4E44-AE39-B167012F49C6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A560078-5274-4E80-865F-706C47094275",
+    "height": 320,
+    "width": 250,
+    "x": 329,
+    "y": 710
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "library / base",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "11F86F61-AFA4-40DD-8F99-4739CD172A56",
+      "overrideName": "2B99043D-F2C4-47CD-8C51-C2A69CEBF3F1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/21b8ba8eb4a56c22e790b279d40917a776364324.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0ABD23CC-282C-40B0-88AE-AEA364CE01E6",
+      "overrideName": "06CE9392-5A95-4602-81A2-58A20C98FEA5_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "87F3719B-4709-419A-AD03-AE7AA53A8AA2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7EF3A791-9A47-4494-8CD3-6B9E35B24855",
+  "verticalSpacing": 0
+}

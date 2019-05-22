@@ -1,0 +1,109 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1E07A891-1914-4A4A-854D-F2EDFA61DA20",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "95D87831-F35E-454D-890F-5A129EE6C0A4",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "44CE7538-2194-448E-9F12-F0C1D7AFD776",
+    "height": 200,
+    "width": 1024,
+    "x": 384,
+    "y": 528
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form / basicTitleCheckbox5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C0DCAEB7-6650-499A-B666-8F8FAA35E21F",
+      "overrideName": "17B1F0EA-8F50-47F2-B9C1-E294A61BD8B8/BA8C7734-5232-4E7D-B438-5BF01A523060/C467DEAD-D81B-48CB-8081-03539A11884F_symbolID",
+      "value": "69B5C64C-10A4-42F5-9B43-C795687C13C8"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9520D4A4-A28F-4C12-87B2-EFFCA39BDC7B",
+      "overrideName": "D069D4D1-D492-4AF3-873A-CD0317B11C96/BA8C7734-5232-4E7D-B438-5BF01A523060/C467DEAD-D81B-48CB-8081-03539A11884F_symbolID",
+      "value": "69B5C64C-10A4-42F5-9B43-C795687C13C8"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA0AA08D-B6EB-4BFA-960C-3F125EB44617",
+      "overrideName": "8ED562F2-D9EE-465D-A616-ECD0FE0D006F_stringValue",
+      "value": "Hidden Tutors"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CE3BFA04-A8FC-4AFB-9A48-7294EDA438F5",
+      "overrideName": "4797F3B4-634A-4D48-9CEC-8B395F2EEF8B/6FB1EB37-BCC7-47BB-AE5F-92EFF8A2E2CF_stringValue",
+      "value": "Don't prompt students to share videos of my tutoring sessions."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "31DFE6C9-7F23-46A4-B36E-D302BA123B26",
+      "overrideName": "D069D4D1-D492-4AF3-873A-CD0317B11C96/6FB1EB37-BCC7-47BB-AE5F-92EFF8A2E2CF_stringValue",
+      "value": "Notify me by e-mail about last minute Priority Hour openings."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81D2D342-555B-4768-A268-C63DB799AF54",
+      "overrideName": "17B1F0EA-8F50-47F2-B9C1-E294A61BD8B8/6FB1EB37-BCC7-47BB-AE5F-92EFF8A2E2CF_stringValue",
+      "value": "Notify me by e-mail when I receive new messages on Cambly."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44CF3457-0B11-4EB7-A943-5EF051196DD5",
+      "overrideName": "E236D29C-E0E9-40BE-AEFE-90CFD60ADDD1/6FB1EB37-BCC7-47BB-AE5F-92EFF8A2E2CF_stringValue",
+      "value": "Don't show me video from free trial students until I turn it on."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A9CC6A6F-573D-439A-BF41-8897BA0F8263",
+      "overrideName": "EA5E3EE1-239C-4FC8-9D42-EA1617E36133_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D111C7BF-E588-4539-B000-A83C82EF7B7F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "19BB805B-5FC5-436F-A40A-FC8AECFCED97",
+  "verticalSpacing": 0
+}

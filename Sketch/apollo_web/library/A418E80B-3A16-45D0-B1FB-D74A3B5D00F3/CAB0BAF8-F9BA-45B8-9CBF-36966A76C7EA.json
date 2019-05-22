@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CAB0BAF8-F9BA-45B8-9CBF-36966A76C7EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A5893AF9-00BF-4603-A329-A1F2D32B936B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D474D785-F04C-4CE3-A6A5-1F2A797EF21E",
+    "height": 320,
+    "width": 250,
+    "x": 595,
+    "y": 710
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "library / base",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EFFAFEBD-9B77-49DF-8E88-8E2A3BC54D94",
+      "overrideName": "2B99043D-F2C4-47CD-8C51-C2A69CEBF3F1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0db05468c406faf771319d688f7b654864251882.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B97F7AE8-EBCE-4536-842C-04B25C723919",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7EF3A791-9A47-4494-8CD3-6B9E35B24855",
+  "verticalSpacing": 0
+}

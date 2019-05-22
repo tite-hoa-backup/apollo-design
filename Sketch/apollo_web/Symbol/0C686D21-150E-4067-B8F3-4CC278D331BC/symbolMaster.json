@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5482,
+  "changeIdentifier": 5498,
   "clippingMaskMode": 0,
   "do_objectID": "0C686D21-150E-4067-B8F3-4CC278D331BC",
   "exportOptions": {
@@ -69,6 +69,10 @@
     {
       "class": "text",
       "id": "4B74FDAB-2798-4645-AEFA-9DDC9F30D26C"
+    },
+    {
+      "class": "rectangle",
+      "id": "B93CBF42-D869-4FA0-8276-1DFEB9EF1069"
     }
   ],
   "name": "list / menu / focused",

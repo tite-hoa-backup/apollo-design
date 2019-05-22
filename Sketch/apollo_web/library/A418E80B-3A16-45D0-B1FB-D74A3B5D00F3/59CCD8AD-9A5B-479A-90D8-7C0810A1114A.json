@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "59CCD8AD-9A5B-479A-90D8-7C0810A1114A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90EF559A-18A8-4843-95CA-2D0EC57AF354",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6FC9FCF7-8C0F-46B4-B5A3-53FED8876803",
+    "height": 320,
+    "width": 250,
+    "x": 861,
+    "y": 374
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "library / base",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "82D7A012-3A3D-4532-90C6-C7F1A7EAD39D",
+      "overrideName": "2B99043D-F2C4-47CD-8C51-C2A69CEBF3F1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/def94b03a2e996156c917520abbff413c3a2dd5a.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B04E58C3-BC62-4D9E-89FE-E8CC3735911C",
+      "overrideName": "06CE9392-5A95-4602-81A2-58A20C98FEA5_symbolID",
+      "value": "F2BB517B-B4A9-4CE5-931B-EAB30657336A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CC844E45-28A2-49D9-9DE0-B1707BDCCF99",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7EF3A791-9A47-4494-8CD3-6B9E35B24855",
+  "verticalSpacing": 0
+}
