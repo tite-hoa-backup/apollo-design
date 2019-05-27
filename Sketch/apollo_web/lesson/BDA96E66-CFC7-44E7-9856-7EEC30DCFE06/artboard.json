@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0,
-    "do_objectID": "E6536BB7-928F-4352-92C8-DB761E3121EF",
-    "green": 0,
-    "red": 0
+    "blue": 0.06666666666666667,
+    "green": 0.06666666666666667,
+    "red": 0.06666666666666667
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -44,7 +43,7 @@
     "do_objectID": "0D04B24F-9840-4257-9EDF-A4D46AED56AC"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -153,11 +152,19 @@
     },
     {
       "class": "symbolInstance",
+      "id": "A342661F-9D07-46EE-9D5A-D6221052FA35"
+    },
+    {
+      "class": "symbolInstance",
       "id": "4D498693-48D2-4F5F-BA32-4545F5318356"
     },
     {
       "class": "text",
       "id": "D63189CC-4D89-4F27-8814-FE6AE9D338E5"
+    },
+    {
+      "class": "text",
+      "id": "F458F238-CAA7-4352-81AF-6C48D032E236"
     },
     {
       "class": "symbolInstance",
@@ -170,6 +177,10 @@
     {
       "class": "text",
       "id": "A0A89C64-965A-48C6-A7AB-252F1D16C269"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F030234-3258-4DA5-8AD6-F313928F2720"
     }
   ],
   "name": "lesson / basic",

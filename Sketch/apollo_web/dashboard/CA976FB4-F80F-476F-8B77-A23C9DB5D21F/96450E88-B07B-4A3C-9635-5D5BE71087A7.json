@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "96450E88-B07B-4A3C-9635-5D5BE71087A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B3D0B7C2-5DF2-4639-BAC1-23EE40AC3025",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1FD3C3BD-C42E-4A36-B337-2EEAD738B56E",
+    "height": 64,
+    "width": 448,
+    "x": 496,
+    "y": 552
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / upcomingEvents",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B738810E-D3C9-4CA4-9CFD-DB29F92D3745",
+      "overrideName": "AFF13106-3407-4938-B30E-F23BFCE5119F/A79CBB3A-B73B-427B-953F-B171B749777D/04DDAE53-4FBB-41E1-9FFE-384D42C95C18_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8eb5397f5ae5c737ed727566b2dacfea873c2156.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C90545B2-004F-4024-B7D3-B90B4F1F1564",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F92C4F7A-BE23-40A9-AF3B-C526BA63E70E",
+  "verticalSpacing": 0
+}

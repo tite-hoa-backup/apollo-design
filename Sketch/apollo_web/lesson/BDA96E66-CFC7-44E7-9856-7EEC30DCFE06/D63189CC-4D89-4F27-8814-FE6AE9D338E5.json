@@ -17,15 +17,15 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Regular",
-              "size": 14
+              "size": 16
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 20,
-            "minimumLineHeight": 20,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22,
             "paragraphSpacing": 1
           }
         },
@@ -63,12 +63,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8047810A-6F9E-415A-B6AD-A3758B507D40",
-    "height": 20,
+    "height": 22,
     "width": 236,
     "x": 100,
-    "y": 138
+    "y": 137
   },
-  "glyphBounds": "{{1, 4}, {136, 14}}",
+  "glyphBounds": "{{1, 4}, {155, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -77,12 +77,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textRegular14W100Left",
+  "name": "textRegular16W100Left",
   "nameIsFixed": true,
   "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "047E0FDE-0969-42FE-9D78-DCC757F4E562",
+  "sharedStyleID": "9E290FF1-DAA8-442D-ADFD-D7FCC629E216",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -92,7 +92,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "8167C0E4-66B8-4427-B756-1564ACA81479",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -105,15 +104,15 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Regular",
-            "size": 14
+            "size": 16
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 20,
-          "minimumLineHeight": 20,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22,
           "paragraphSpacing": 1
         }
       },

@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0,
-    "green": 0,
-    "red": 0
+    "blue": 0.06666666666666667,
+    "green": 0.06666666666666667,
+    "red": 0.06666666666666667
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -43,7 +43,7 @@
     "do_objectID": "84A95D1C-8122-4E2D-A526-E561B10821D2"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4C386A47-5B9E-443B-B737-D699CB7C20F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "605CEC52-BE7F-4CBD-BA53-7EC39CC2E617",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EB8540FB-FE37-4032-9A53-21BFC4917BDC",
+    "height": 104,
+    "width": 320,
+    "x": 32,
+    "y": 80
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "base / darkDimLayer",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F7003AAF-98E2-4D51-9B5C-4CBC4AAF9E9A",
+      "overrideName": "046E03B4-492D-495D-97CA-BEA5B1BDF3ED/FDC80219-EBEA-4B45-B6E8-56CA8E7A3ADF_stringValue",
+      "value": "Student’s name"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E35781F8-E322-4DAB-AAF9-CDE32E3B8E69",
+      "overrideName": "046E03B4-492D-495D-97CA-BEA5B1BDF3ED/7B49B154-01F6-4494-A1AF-A021D84EA34E/AB73D1F8-C8B7-4574-86FE-3963C3CECE16_symbolID",
+      "value": "024CBE39-7738-464C-A5A4-3801A149B0D4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3224D7B5-C23F-4EB5-BAD4-987C2CD9D613",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9DE86F14-696A-4769-9F27-E1E257DD3451",
+  "verticalSpacing": 0
+}

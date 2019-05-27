@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B32982D1-190B-4BBA-A98A-4A5A12D1449F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8392C74F-0FC9-4847-9005-CE8AF2BBBC65",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "69E6389A-776D-4D1D-9E37-69B69C5E79CC",
+    "height": 86,
+    "width": 96,
+    "x": 616,
+    "y": 874
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / lessonOnDark",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "85EFB3A2-CB7F-489B-9387-082698D06356",
+      "overrideName": "D89F232A-3082-48B4-AEF5-292F9C90B623_stringValue",
+      "value": "Report"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7B4823AF-490B-4746-8861-56DC3300961E",
+      "overrideName": "3693561F-EF28-4549-ADB2-5B0E65C68402_symbolID",
+      "value": "6863364F-07E1-40CE-8AE1-C3627C4ADD3A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B569FA1-504E-453D-969E-68194002B217",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BC8FB314-81BF-45D1-A867-FE62FC7A96DD",
+  "verticalSpacing": 0
+}
