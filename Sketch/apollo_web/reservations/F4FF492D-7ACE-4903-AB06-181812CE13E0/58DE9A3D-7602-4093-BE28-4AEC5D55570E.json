@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "58DE9A3D-7602-4093-BE28-4AEC5D55570E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B9FCD357-2F87-40DF-81FD-4378B2CF367F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B607E9B-CE19-47D6-93B2-032C7C3B5D90",
+    "height": 56,
+    "width": 320,
+    "x": 560,
+    "y": 856
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / basicBrand10",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "60597BB3-6FF0-4312-8D16-3BCF0F6ABAEF",
+      "overrideName": "ABC8F861-45A9-4A1D-A197-750CFF9666EF_stringValue",
+      "value": "Done"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B440C1D5-5CF7-4C32-B0DF-A4539875C8DB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "45DACE03-051B-403A-8011-F4E0D8D6A38C",
+  "verticalSpacing": 0
+}

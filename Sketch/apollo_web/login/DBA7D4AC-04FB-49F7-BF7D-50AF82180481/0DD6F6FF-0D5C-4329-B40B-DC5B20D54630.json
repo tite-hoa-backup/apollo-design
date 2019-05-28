@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0DD6F6FF-0D5C-4329-B40B-DC5B20D54630",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "869FC7E9-6156-4529-8A88-5B4910021B0C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BC77F024-8031-4EA7-9FBC-049BC15C67FE",
+    "height": 72,
+    "width": 448,
+    "x": 496,
+    "y": 784
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / checkboxWhite2Lines",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5DF2E1B6-F698-4568-8A24-F85C09990CC8",
+      "overrideName": "716E044C-B484-4C6D-9F4D-6A1F57E29C46_stringValue",
+      "value": "I am a native English speaker who is 18 years of age or older"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7EC0951D-795C-40EF-B534-46B48DF6C066",
+      "overrideName": "77FD08E0-9265-4B63-9CB5-51DE29F133B8/C467DEAD-D81B-48CB-8081-03539A11884F_symbolID",
+      "value": "69B5C64C-10A4-42F5-9B43-C795687C13C8"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9C043015-A124-45F0-A272-8A2243D6A9B0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6740172F-04F9-4140-BE88-68129E2D7D4B",
+  "verticalSpacing": 0
+}

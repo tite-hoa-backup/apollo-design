@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "475B7162-B5BD-44AE-9061-D2011771C594",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 288,
+    "x": 48,
+    "y": 711
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / tabButton / 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B9EE59F6-3938-4DBD-9575-EFB6CEF17320/CF536425-1E06-49E6-BFBB-C1AC08428314_stringValue",
+      "value": "12 hours"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CA000B18-10B4-4CE6-8893-D93BB4CE7FAA/CF536425-1E06-49E6-BFBB-C1AC08428314_stringValue",
+      "value": "24 hours"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "164C0741-4C34-4970-8710-AB984079E70A_symbolID",
+      "value": "0CACEAB6-C29B-495D-A041-C0EAAF0EAAEF"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "164C0741-4C34-4970-8710-AB984079E70A/FC13C0F8-4F79-4BF5-AB2F-C87E99F58A40_stringValue",
+      "value": "6 hours"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F440563A-8DB0-4179-853C-E8C942C2D530",
+  "verticalSpacing": 0
+}

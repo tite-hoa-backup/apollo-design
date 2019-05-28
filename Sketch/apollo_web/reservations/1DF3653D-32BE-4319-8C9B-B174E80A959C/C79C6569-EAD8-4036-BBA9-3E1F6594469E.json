@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C79C6569-EAD8-4036-BBA9-3E1F6594469E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E2964D30-3420-478F-B402-FD492113995A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6F49BEED-1BE3-400F-9F89-7C4ABED72A2A",
+    "height": 32,
+    "width": 160,
+    "x": 1216,
+    "y": 120
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / tabButton / 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2A0FF701-F4A2-45E6-8961-9DB689855DD2/CF536425-1E06-49E6-BFBB-C1AC08428314_stringValue",
+      "value": "List"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "27968D20-9A4D-484B-9378-A5FA26636AA5_symbolID",
+      "value": "0CACEAB6-C29B-495D-A041-C0EAAF0EAAEF"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "27968D20-9A4D-484B-9378-A5FA26636AA5/FC13C0F8-4F79-4BF5-AB2F-C87E99F58A40_stringValue",
+      "value": "Calendar"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "86177D4E-E119-48D5-9B6B-432FAB962346",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DF8B237C-EF45-41DE-9BCA-2C15AE174762",
+  "verticalSpacing": 0
+}

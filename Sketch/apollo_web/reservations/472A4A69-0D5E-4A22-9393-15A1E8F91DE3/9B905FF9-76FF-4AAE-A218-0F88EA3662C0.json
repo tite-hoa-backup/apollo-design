@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9B905FF9-76FF-4AAE-A218-0F88EA3662C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F92DC905-C7CF-453C-8E21-6BF6A02F10E2",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BFA28701-F86E-457C-9713-BF732098098F",
+    "height": 48,
+    "width": 320,
+    "x": 32,
+    "y": 358.0000000000001
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / checkboxWhite",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "489C6757-5210-4B25-8CE6-1AD6518C2FD6",
+      "overrideName": "6FB1EB37-BCC7-47BB-AE5F-92EFF8A2E2CF_stringValue",
+      "value": "Student Reservations"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0774EADE-67A5-4F72-8CE7-D997494C9CC2",
+      "overrideName": "5D2ABDE6-0BFC-46CD-9859-744D35E0F260_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "06C43A7A-FF97-46BE-99F6-AAEAF4E1A619",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DBC107D4-040F-4672-90AF-904C77AC8904",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "64718581-E2AA-41A0-AE1E-0303DF548C9D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "921D3FFD-6650-43D2-AF6A-6812B8FEEA71",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BDCFFCD6-69B5-4D2D-B38C-959065886878",
+    "height": 32,
+    "width": 160,
+    "x": 1216,
+    "y": 120
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / tabButton / 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D6297934-F75E-4DA8-91D5-1B43ABE9B628",
+      "overrideName": "2A0FF701-F4A2-45E6-8961-9DB689855DD2/CF536425-1E06-49E6-BFBB-C1AC08428314_stringValue",
+      "value": "List"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6E06BB0F-0A16-4552-841F-3F60AE7C2A87",
+      "overrideName": "27968D20-9A4D-484B-9378-A5FA26636AA5_symbolID",
+      "value": "0CACEAB6-C29B-495D-A041-C0EAAF0EAAEF"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72FD182C-07F2-4159-A78E-03513659EE8B",
+      "overrideName": "27968D20-9A4D-484B-9378-A5FA26636AA5/FC13C0F8-4F79-4BF5-AB2F-C87E99F58A40_stringValue",
+      "value": "Calendar"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "85EB0FE1-3AD7-4682-9A89-59CCDC824352",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DF8B237C-EF45-41DE-9BCA-2C15AE174762",
+  "verticalSpacing": 0
+}

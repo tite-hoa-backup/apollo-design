@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E1FD5D52-A0F8-4801-AB20-4061382C83AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9BD8C7BD-BAF3-4DC2-8A02-48F178E144E6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EC082CCD-C3F6-4ABA-A0DE-443C17A5E5E1",
+    "height": 752,
+    "width": 960,
+    "x": 416,
+    "y": 176
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "calendar / reservations",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CFB9FC86-C39B-4F20-9124-BC860C4FD65F",
+      "overrideName": "307927DD-3FC8-4A99-950B-0D7B3FF05665/DDC83284-BD97-4A9C-9EE7-EF0526F135E5_symbolID",
+      "value": "021E7AD4-8AD8-4CFE-BA80-5365E52EF467"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2A9E23EB-E910-48C3-921A-E93DEF5B043A",
+      "overrideName": "307927DD-3FC8-4A99-950B-0D7B3FF05665/DDC83284-BD97-4A9C-9EE7-EF0526F135E5/276E42DA-0B63-4BC9-A9B4-5784982EC9B1_stringValue",
+      "value": "6:00 - 7:00"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4E2FD293-82CD-4371-9316-ABB8CB8B94E0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A8300AD4-6DAF-4ADB-844B-01804715A6F4",
+  "verticalSpacing": 0
+}

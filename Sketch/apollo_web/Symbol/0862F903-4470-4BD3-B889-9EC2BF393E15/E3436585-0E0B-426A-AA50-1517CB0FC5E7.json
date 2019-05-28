@@ -8,24 +8,24 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 0.3008003048780488,
-            "red": 0.5166644590046954
+            "alpha": 0.78,
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Bold",
-              "size": 18
+              "size": 16
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22,
             "paragraphSpacing": 1
           }
         },
@@ -63,12 +63,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2363C9ED-696F-489C-9083-6443B1104066",
-    "height": 24,
-    "width": 364,
+    "height": 22,
+    "width": 236,
     "x": 68,
-    "y": 7.999999999999998
+    "y": 10
   },
-  "glyphBounds": "{{0, 5}, {126, 15}}",
+  "glyphBounds": "{{0, 4}, {112, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -77,12 +77,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textBold18BrandLeft",
+  "name": "textBold16B78Left",
   "nameIsFixed": true,
-  "resizingConstraint": 42,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "82D742A6-8B4F-463A-AA62-829CC5297129",
+  "sharedStyleID": "8A94A967-DEB1-4D18-98AF-947BA8188465",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -92,28 +92,27 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "744066B5-B990-42E6-BE64-1490C3BCD123",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 1,
-          "green": 0.3008003048780488,
-          "red": 0.5166644590046954
+          "alpha": 0.78,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Bold",
-            "size": 18
+            "size": 16
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22,
           "paragraphSpacing": 1
         }
       },

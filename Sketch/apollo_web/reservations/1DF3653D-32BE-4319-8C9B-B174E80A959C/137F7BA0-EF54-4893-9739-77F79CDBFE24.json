@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "137F7BA0-EF54-4893-9739-77F79CDBFE24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7EF707F2-6084-4F4F-884D-0560CE9CD1F2",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E5676AC4-4A88-4DDC-B6FC-AC81B85F82DB",
+    "height": 48,
+    "width": 320,
+    "x": 32,
+    "y": 395
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / checkboxWhite",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "6FB1EB37-BCC7-47BB-AE5F-92EFF8A2E2CF_stringValue",
+      "value": "My Priority Hours"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5D2ABDE6-0BFC-46CD-9859-744D35E0F260_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5B41C3E6-E305-4EA7-9920-B19C1C7F4B1C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DBC107D4-040F-4672-90AF-904C77AC8904",
+  "verticalSpacing": 0
+}

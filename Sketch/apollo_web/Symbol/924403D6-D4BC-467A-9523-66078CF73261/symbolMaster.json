@@ -10,7 +10,7 @@
     "red": 0
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1169,
+  "changeIdentifier": 1224,
   "clippingMaskMode": 0,
   "do_objectID": "924403D6-D4BC-467A-9523-66078CF73261",
   "exportOptions": {
@@ -126,11 +126,6 @@
   "name": "calendar / reservations",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "378B8C66-3D83-4966-8D6D-87208BBB72E8_symbolID"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

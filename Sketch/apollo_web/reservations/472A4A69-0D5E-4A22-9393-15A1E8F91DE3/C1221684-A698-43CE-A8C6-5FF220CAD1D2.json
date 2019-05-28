@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C1221684-A698-43CE-A8C6-5FF220CAD1D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5FA7B617-568E-42DD-ABB8-74D22BCF3DE0",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "874D6291-DD9B-457E-866E-4E96C7B241E0",
+    "height": 48,
+    "width": 320,
+    "x": 32,
+    "y": 262.0000000000001
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / checkboxWhite",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "489C6757-5210-4B25-8CE6-1AD6518C2FD6",
+      "overrideName": "6FB1EB37-BCC7-47BB-AE5F-92EFF8A2E2CF_stringValue",
+      "value": "My Reservation Availability"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6934B83B-3399-4D98-AA51-83E1B5CA5CC7",
+      "overrideName": "BA8C7734-5232-4E7D-B438-5BF01A523060/C467DEAD-D81B-48CB-8081-03539A11884F_symbolID",
+      "value": "69B5C64C-10A4-42F5-9B43-C795687C13C8"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A456BBE6-7944-488E-81FC-C4BB89DEC24F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DBC107D4-040F-4672-90AF-904C77AC8904",
+  "verticalSpacing": 0
+}
